@@ -1,0 +1,62 @@
+name: Add Map Request
+description: Open an issue to give request for add new map to the project.
+title: "[Add Map] Your map name"
+labels: [Add Map]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        *__NOTE:__ Please do not remove the `[Add Map]` prefix from the issue title, it helps with filtering issues.*
+              
+        Make sure you follow these instructions and fill in every question with as much detial as possible.
+
+  - type: textarea
+    id: author
+    attributes:
+      label: Author
+      description: |
+        Write author name.
+    validations:
+      required: true
+
+  - type: textarea
+    id: mapname
+    attributes:
+      label: Map Name
+      description: |
+        Write map name.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: map-mode
+    attributes:
+      label: Map Mode
+      options:
+        - Singleplayer Mission
+        - Cooperative Mission
+        - Singleplayer Challenge
+        - Cooperative Challenge
+        - Art Of Defense
+        - Tower Defense
+        - etc
+    validations:
+      required: true
+      
+  - type: textarea
+    id: author-link
+    attributes:
+      label: Author Contact
+      description: |
+        Provide us link to the author's account in any social media (ModDB, Project Perfect Mod, etc.).
+    validations:
+      required: true
+
+  - type: textarea
+    id: map-link
+    attributes:
+      label: Download Link
+      description: |
+        Provide us link to download the map (ModDB, Project Perfect Mod, Google Drive, etc.).
+    validations:
+      required: true
