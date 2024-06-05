@@ -8,7 +8,7 @@ body:
       value: |
         *__NOTE:__ Please do not remove the `[Add Map]` prefix from the issue title, it helps with filtering issues.*
               
-        Make sure you follow these instructions and fill in every question with as much detial as possible.
+        Make sure you follow these instruction and fill in every gap.
 
   - type: textarea
     id: author
@@ -33,10 +33,10 @@ body:
     attributes:
       label: Map Mode
       options:
-        - Singleplayer Mission
-        - Cooperative Mission
         - Singleplayer Challenge
         - Cooperative Challenge
+        - Singleplayer Mission
+        - Cooperative Mission
         - Art Of Defense
         - Tower Defense
         - etc
@@ -57,6 +57,6 @@ body:
     attributes:
       label: Download Link
       description: |
-        Provide us link to download the map (ModDB, Project Perfect Mod, Google Drive, etc.).
+        Provide us link to download the map (ModDB, Project Perfect Mod, Google Drive, etc.) or upload map archive to the GitHub.
     validations:
       required: true
