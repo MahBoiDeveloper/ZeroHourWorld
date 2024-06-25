@@ -1,0 +1,19 @@
+name: Free Form Question
+description: Open an issue to ask some question(s).
+title: "[Question] Your question title"
+labels: [Question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!NOTE]
+        > Please do not remove the `[Question]` prefix from the issue title, it helps with filtering.
+              
+  - type: textarea
+    id: question_description
+    attributes:
+      label: Question
+      description: |
+        Write your question here.
+    validations:
+      required: true
