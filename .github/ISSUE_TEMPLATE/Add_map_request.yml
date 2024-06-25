@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         > [!NOTE]
-        > Please do not remove the `[Add Map]` prefix from the issue title, it helps with filtering issues.*
+        > Please do not remove the `[Add Map]` prefix from the issue title, it helps with filtering issues.
               
         Make sure you follow these instruction and fill in every gap.
 
