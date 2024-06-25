@@ -6,7 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        *__NOTE:__ Please do not remove the `[Add Map]` prefix from the issue title, it helps with filtering issues.*
+        > [!NOTE]
+        > Please do not remove the `[Add Map]` prefix from the issue title, it helps with filtering issues.*
               
         Make sure you follow these instruction and fill in every gap.
 
