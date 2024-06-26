@@ -1,5 +1,5 @@
 name: Free Form Question
-description: Open an issue to ask some question(s).
+description: Open an issue to ask questions.
 title: "[Question] Your question title"
 labels: [Question]
 body:
