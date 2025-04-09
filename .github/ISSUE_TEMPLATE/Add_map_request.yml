@@ -6,7 +6,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        Make sure you follow these instruction and fill in every gap.
+        > [!NOTE]
+        > Make sure you follow these instruction and fill in every gap.
 
   - type: textarea
     id: mapname
