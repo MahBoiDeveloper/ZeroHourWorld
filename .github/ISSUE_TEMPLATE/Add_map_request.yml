@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         > [!NOTE]
-        > Make sure you follow these instruction and fill in every gap.
+        > Make sure you fill in every gap with text.
 
   - type: textarea
     id: mapname
