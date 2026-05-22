@@ -7,7 +7,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/MahBoiDeveloper/ZeroHourWorld/total.svg)](https://github.com/MahBoiDeveloper/ZeroHourWorld/releases) [![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
 # Zero Hour World
-[![Support me on Boosty](https://img.shields.io/badge/boosty-50₽/month-green.svg?logo=boosty)](https://boosty.to/mah_boi)
 
 ... is a fan made map package for Command &amp; Conquer: Generals — Zero Hour with singleplayer/cooperative missions, art of defenses, and other PvPvE game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
@@ -24,9 +23,9 @@ Copy maps from `Source\` folder to your local `%USERPROFILE%\Documents\Command a
 ### Map authors
 This table contains information about all custom maps, which has been added to the project.
 
-| Author(s)                            | Map Name                                  | Game Mode      | Version   | Related Issue                                                        |
-| ------------------------------------ | ----------------------------------------- | -------------- | --------- | -------------------------------------------------------------------- |
-| Dun淼咕, Camarade Lenin 343, mah_boi | USA Coop Challenge                        | Cooperative    |  1.2      | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
+| Map Name                    | Game Mode      | Version   | Author(s)                            | Related Issue                                                        |
+| --------------------------- | -------------- | --------- | ------------------------------------ | -------------------------------------------------------------------- |
+| [ZH] USA Coop Challenge     | Cooperative    |  1.2      | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
 
 ## License
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
