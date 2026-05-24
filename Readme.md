@@ -14,13 +14,17 @@ List of included maps, campaigns, map packs with edit:
 * [USA Co-Op Challenge](https://www.moddb.com/games/cc-generals-zero-hour/addons/gzh-usa-co-op-challenge-rebalanced)
 
 ## Installation
+
 Copy maps from `Source\` folder to your local `%USERPROFILE%\Documents\Command and Conquer Generals Zero Hour Data\Maps\` folder.
 
 ## Credits
+
 ### Developers
+
 * mah_boi — project's author, maintainer
 
 ### Map authors
+
 This table contains information about all custom maps, which has been added to the project.
 
 | Map Name                    | Game Mode      | Version   | Author(s)                            | Related Issue                                                        |
@@ -28,6 +32,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] USA Coop Challenge     | Cooperative    |  1.2      | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
 
 ## License
+
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
 Copyright (C) 2026 mah_boi
 
@@ -39,7 +44,9 @@ This license enables reusers to distribute, remix, adapt, and build upon the mat
 Read more about license: https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt
 
 ## Legal
+
 This project has no direct affiliation with Electronic Arts Inc. Command & Conquer, Command & Conquer: Generals, Command & Conquer: Generals — Zero Hour  are registered trademarks of Electronic Arts Inc. All Rights Reserved.
 
 ## Support
+
 If you want to support me and my projects then subscribe me on [boosty](https://boosty.to/mah_boi).
