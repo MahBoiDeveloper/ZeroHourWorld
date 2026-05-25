@@ -33,6 +33,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] USA Coop Challenge     | Cooperative    |  1.2      | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
 | [ZH] Extravaganza GLA 01    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 | [ZH] Extravaganza GLA 02    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 03    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 
 ## License
 
