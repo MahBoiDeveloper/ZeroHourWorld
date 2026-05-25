@@ -37,6 +37,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Extravaganza GLA 04    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 | [ZH] Extravaganza GLA 05    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 | [ZH] Extravaganza GLA 06    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 07    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 
 ## License
 

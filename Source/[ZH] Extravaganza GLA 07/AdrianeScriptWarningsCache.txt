@@ -1,0 +1,415 @@
+0|Hello World,0
+0|Hide World,0
+0|Upgrade Timer,0
+0|Spawn the Train,0
+0|Activate Dialog,0
+0|Buy Upgrades 1,0
+0|Buy Upgrades 2,0
+0|WIN,0
+0|WIN C,0
+0|LOSE,0
+0|HUNT,0
+0|HUNT IDLE,0
+0|Player In Area - No Man's Land West,0
+0|Player In Area - No Man's Land East,0
+0|Player In Area - Central,0
+0|Player In Area - USA,0
+0|Player In Area - China,0
+0|Player In Area - Rocket,0
+0|Music,0
+0|Music02,0
+0|Music03,0
+0|Music04,0
+0|Resources,0
+0|AI Setup,0
+0|Objective Timers,0
+0|Objective01 Repeat,0
+0|Objective01 Show,0
+0|Objective01r loop,0
+0|Ping Objectives,0
+0|WIN FINAL,0
+0|Win03,0
+0|Win02,1
+0|Win01,0
+0|Player Win,0
+0|MiniCini Timers,0
+0|Show GC,0
+0|MiniCini - Freeze01,0
+0|MiniCini - Unfreeze01,0
+0|MiniCini - Freeze02,0
+0|MiniCini - Move Camera01,0
+0|MiniCini - Move Camera02,0
+0|MiniCini - Move Camera03,0
+0|MiniCini - Move Camera04,0
+0|MiniCini - Move Camera05,0
+0|MiniCiniEnd,0
+0|Main_Setup,0
+0|Main_Setup C,0
+0|NoLose,0
+0|ENDING_No Building_Temp,0
+0|Remove_Gampeplay,1
+0|NoClip,0
+0|CamFadein,0
+0|Sound_offs,0
+0|Removal_Temp,0
+0|Cam_01_ST,0
+0|Cam_01_ED,0
+0|NewRocket,0
+0|Gantry_Sounds,0
+0|Cam_03_Upshot_Start,0
+0|Launch_Alarm_Sound,0
+0|Cam_03_Upshot_END,0
+0|Cam_04,0
+0|CAM_4_Shake_01,0
+0|CAM_4_Shake_01 C,0
+0|CAM_4_Shake_01b,0
+0|CAM_4_Shake_02,0
+0|CAM_4_Shake_02b,0
+0|CAM_4_Shake_03,0
+0|CAM_4_Shake_03b,0
+0|CAM_4_Shake_04,0
+0|CAM_4_Shake_04b,0
+0|CAM_4_Shake_04c,0
+0|RocketSounds,0
+0|Rocketlaunch,0
+0|CamFade,0
+0|Remove_End_Part_01,0
+0|Cam_06_St,0
+0|Scene_02 AudioSeytup,0
+0|Cam_06_ED,0
+0|Cam_08,0
+0|Remove_Panic_02,0
+0|Spawn_Rocketbomb,0
+0|Sounds_Rocketbomb,0
+0|Sounds_Rocket_sep,0
+0|Kill_Rocketbomb,0
+0|Cam_09,0
+0|ENDLoudPanicing,0
+0|Cheering_at End,0
+0|Building_boom,0
+0|Building_Pancaker,0
+0|Cam_09_ED,0
+0|Fadeout_final,0
+0|RocketDropper,0
+0|ENDWhiteFlash,0
+0|Bomb_01,0
+0|Bomb_01_Buildings,0
+0|Bomb_02,0
+0|Bomb_02_Buildings,0
+0|Bomb_03,0
+0|RocketDropper_Gone,0
+0|Cop_Cargo,0
+0|CopCarBomb,0
+0|CabCarBomb,0
+0|Spawn_Vehcs_Infantry_GLA,0
+0|Spawn_Workers,0
+0|Moving_Tanker_01,0
+0|Moving_Tanker_02,0
+0|Moving_Tanker_03,0
+0|Moving_Tanker_04,0
+0|Moving_Tanker_05,0
+0|Moving_Toxin_01,0
+0|Moving_Toxin_02,0
+0|Moving_Toxin_03,0
+0|Moving_Workers_last,0
+0|Workers_Working,0
+0|Vehical_Moving,0
+0|Repulse,0
+0|Sirens_n_Screams,0
+0|Cars_drivin,0
+0|Sirens_n_Screams2,0
+0|Screams_WP_01,0
+0|Screams_WP_01 C,0
+0|Moveout_Wk,0
+0|Buildings_collapse_01,0
+0|Buildings_collapse_02,0
+0|SpawnChoker,0
+0|Moveout_Wk-2-4,0
+0|ENDINGVictory,0
+0|END of the END,0
+0|Ending Dialog Timers,0
+0|End Dialog01,1
+0|End Dialog02,1
+0|End Dialog03,1
+0|INTRO_Setup (Set all start conditions - Disable User),0
+0|INTRO_NoClip,0
+0|INTRO_Fade_Music_Teletype (Play Teletype and Music),0
+0|INTRO_Camera_Return (Return to Base),0
+0|INTRO_End_Letterbox (Enable User),0
+0|INTRO_Remove_CINES,0
+0|Timer,0
+0|IDialog01,0
+0|IDialog02,0
+0|IDialog03,0
+0|IDialog04,0
+0|IDialog05,0
+0|Quietmaker,0
+0|IDialog06,1
+0|IDialog07,1
+0|IDialog08,1
+0|IDialog09,1
+0|IDialog10,1
+0|IDialog01gla,1
+0|IDialog02gla,1
+0|IDialog03gla,1
+0|IDialog04gla,1
+0|Cam_01,0
+0|Cam_01_MID_2,0
+0|Cam_01_Stp2,0
+0|Cam_01_Stp3,0
+0|Cam_01 ED_s2,0
+0|Cam_02_Topdown2,0
+0|Cam_02_Topdown2_ED,0
+0|Cam_Fade_out,0
+0|Train_Whistle_01,0
+0|Train_Whistle_02,0
+0|Train_Rumble,0
+0|Hummer_01,0
+0|Hummer_02,0
+0|HZ_Wander_01,0
+0|HZ_Att,0
+0|China_Walk_01,1
+0|China_bye_bye,0
+0|Inf_USA_Run,0
+0|Dialog - USA Defeated,1
+0|Dialog - USA Dead01,1
+0|Dialog - China Defeated,1
+0|Dialog - China Dead01,1
+0|Dialog - Both Enemies Dead,0
+0|Dialog - Both Enemies Dead Play,1
+0|Dialog - Both Enemies Dead Play02,1
+0|Dialog - Use Rebels on GC,1
+0|Dialog - Rocket Buggy Central,0
+0|Dialog - Scorpion in China Base,1
+0|Dialog - Scorpion in USA Base,1
+0|Dialog - Scorpion in China Base 01,1
+0|Dialog - GLA in No Mans Land,1
+0|Dialog - Train!,1
+0|Dialog - Tracks,1
+0|Dialog - Gantry Captured,1
+0|Dialog - Gantry Captured02,1
+0|Dialog - Get Ground Control!,1
+0|Dialog - Ground Control Captured,1
+0|Dialog - Ground Control Captured02,1
+0|Dialog - Ground Control Captured03,1
+0|Dialog - Gantry Damaged,1
+0|Dialog - Gantry Under Attack!,1
+0|Dialog - GC Under Attack01,1
+0|Dialog - GC Under Attack02,1
+0|Dialog - Ground Control Damaged,1
+0|Dialog - Ground Control Damaged 2,1
+0|Dialog - Ground Control Destroyed,1
+0|Dialog - Discover Refinery,1
+0|Dialog - Discover Radio Station,1
+0|Dialog - Discover Ground Control,1
+0|Dialog - Discover Gantry,1
+0|Dialog - Rocket Reminder01,1
+0|Dialog - Rocket Reminder02,1
+0|Dialog - Ground Control01,1
+0|Dialog - Discover Bunker01,1
+0|Dialog - Discover China Base,1
+0|Dialog - Discover USA Base,1
+0|Dialog - Palace,1
+0|Dialog - Palace02,1
+0|Briefing01,1
+0|Briefing02,0
+0|Briefing03,1
+0|Briefing04,1
+1|USA BUILD SWP DOZERS,0
+1|USA BUILD LASER DOZERS,0
+1|Build Timer - Normal USA,0
+1|Build Timer - Easy USA,0
+1|Build Timer - Hard USA,0
+1|Set Money,0
+1|Upgrade This Team USA,0
+1|Battle Plan,0
+1|Desperate Hunt (USA),0
+1|Build Attack Forces - USA,0
+1|USA Build,0
+1|Science! FOR USA,0
+1|Upgrade Buildings,0
+1|TEAM COLIO GUARD,0
+1|!TEAM HUNT USA!,0
+1|TEAM AURORA RIGHT 1,0
+1|TEAM AURORA LEFT 1,0
+1|TEAM GUARD CHINA BASE,0
+1|TEAM GUARD USA BASE,0
+1|TEAM GUARD USA FINAL OBJECTIVE,0
+1|!BUILD GUARD TEAMS USA!,0
+1|!BUILD TOMHAWKS FOR GLA !,0
+1|Activate PC1-PC2,0
+1|Hide SW Timers,0
+1|Activate PC 1 and set timer for PC 2,0
+1|Activate PC 2 ,0
+1|TIMERS FOR SWS,0
+1|USA USE DAISY,0
+1|USA USE THUNDER,0
+1|USA USE SPECTER GUNSHIPPO,0
+1|USA USE LEAFY,0
+1|Team POWER,0
+1|Super Upgrades,0
+1|Pathfinders,0
+1|Pathfinders Sequence,0
+1|Comanches Defend Pad,0
+1|Comanche Overwatch Sequence,0
+1|Guard Ground Control,0
+1|Rangers Hunt,0
+1|USA Attack ,0
+1|USA Attack Sequence,0
+1|Superweapon Primer,0
+1|FAB Fire,1
+1|SOL Fire,1
+1|FAB01,1
+1|FAB02,1
+1|FAB03,1
+1|FAB04,1
+1|FAB05,1
+1|FAB06,1
+1|FAB07,1
+1|SOL-01,1
+1|SOL-02,1
+1|SOL-03,1
+1|SOL-04,1
+1|SOL-05,1
+1|SOL-06,1
+1|SOL-07,1
+1|Superweapons Armed,0
+1|Superweapon A-10 01,1
+1|Superweapon A-10 02,1
+1|Superweapon A-10 03,1
+1|Superweapon A-10 04,1
+1|Superweapon A-10 05,1
+1|Superweapon A-10 06,1
+1|Superweapon A-10 07,1
+1|Superweapon Carpet Bomb01,0
+1|Superweapon Carpet Bomb02,0
+1|Superweapon Carpet Bomb03,0
+1|Superweapon Carpet Bomb04,0
+1|Superweapon Carpet Bomb05,0
+1|Superweapon Carpet Bomb06,0
+1|Superweapon Carpet Bomb07,0
+1|Superweapon Paradrop01,1
+1|Superweapon Paradrop02,1
+1|Superweapon Paradrop03,1
+1|Superweapon Paradrop04,1
+1|Superweapon Paradrop05,1
+1|Superweapon Paradrop06,1
+1|Superweapon Paradrop07,1
+1|Superweapon Paradrop08,1
+1|Superweapon Paradrop09,1
+1|Superweapon Paradrop10,1
+1|Superweapon Paradrop11,1
+1|Superweapon Paradrop12,1
+1|Fly CAP,0
+1|CAP Sequence,0
+1|Guard USA Base,0
+1|Guard Gantry,0
+1|USA Garrison Airfield,0
+1|USA Garrison Sequence,1
+1|America - Gantry Defenders,0
+1|America - Base Defenders,0
+3|SET UNIT TO UNMMANNED AND SEARCH FOR SCUDDY,0
+3|BUILDABLE DEMO SCUDLAUNCHER,0
+3|Script 4858,0
+3|Enable Arms for factions,0
+3|Enable Defences,0
+3|Show Timers,0
+3|Disable China Supers,0
+4|Dozers Build for China,0
+4|China Science ,0
+4|Build Timer - Normal,0
+4|Build Timer - Easy,0
+4|Build Timer - Hard,0
+4|Upgrade Overlord Team China,0
+4|China Build Teams,0
+4|Desperate Hunt (China),0
+4|Attack Timer,0
+4|Attack Phase 01,0
+4|Attack Phase 02,0
+4|Attack Phase 03,0
+4|! BUILD CHINA GARRISON,0
+4|!Timer For a Break !,0
+4|! BUILD CHINA REGULAR TEAMS !,0
+4|! BUILD CHINA SUPER TEAM ATTACKS !,0
+4|rear guard go guard ,0
+4|GO inside pls :( ,0
+4|!TEAM CHINA GARRISON GO INSIDE,0
+4|!TEAM CHINA  HUNT !,0
+4|!Team Final Guard Objective,0
+4|SW CHINA TIMERS,0
+4|CHINA SW BARRAGE,0
+4|CHINA SW EMP,0
+4|CHINA SW PARADROP ,0
+4|CHINA SW CLUSTER MINES,0
+4|China Nuke Hide at start,0
+4|Nuke is ON,0
+4|Ready To Use Nuke China,0
+4|Hackers go inside,0
+4|Hackers Hack i guess,0
+4|Upgrade China mines,0
+4|Upgrade other stuffs for China,0
+4|Superweapons Armed China,0
+4|Superweapon Clustermines01,0
+4|Superweapon Clustermines02,0
+4|Superweapon Clustermines03,0
+4|Superweapon Clustermines04,0
+4|Superweapon Clustermines05,0
+4|Superweapon Clustermines06,0
+4|Superweapon Clustermines07,0
+4|Superweapon Clustermines08,0
+4|Superweapon Barrage01,0
+4|Superweapon Barrage02,0
+4|Superweapon Barrage03,0
+4|Superweapon Barrage04,0
+4|Superweapon Barrage05,0
+4|Superweapon Barrage06,0
+4|Superweapon Barrage07,0
+4|Superweapon Barrage08,0
+4|Superweapon EMP01,0
+4|Superweapon EMP02,0
+4|Superweapon EMP03,0
+4|Superweapon EMP04,0
+4|Superweapon EMP05,0
+4|Superweapon EMP06,0
+4|Superweapon EMP07,0
+4|Superweapon Nuke01,0
+4|Superweapon Nuke02,0
+4|Superweapon Nuke03,0
+4|Superweapon Nuke04,0
+4|Superweapon Nuke05,0
+4|Superweapon Nuke06,0
+4|Superweapon Nuke07,0
+4|China Assault,0
+4|China Assault Sequence,0
+4|China - Rear Guard,0
+4|L33T HAX0RZ Setup,0
+4|L33T HAX0RZ,0
+4|HAX0RZ ATTAX0RZ,0
+4|Defend USA,0
+4|Defend Gantry Reinforce,0
+4|Air Cover,0
+4|China Large Garrison,0
+4|China Large Garrison Sequence,0
+4|China Small Garrison,0
+4|China Small Garrison Sequence,0
+4|Call Rearguard02,1
+4|Call Rearguard03,1
+4|China Threatened,0
+4|Spawn Garrison Teams,1
+4|Garrison,1
+4|Bunker01,1
+4|Bunker02,1
+4|Bunker03,1
+4|Bunker04,1
+4|Bunker05,1
+4|Bunker06,1
+4|Bunker07,1
+4|Bunker08,1
+4|Enter Bunker01,1
+4|Enter Bunker02,1
+4|Enter Bunker03,1
+4|Enter Bunker04,1
+4|Enter Bunker05,1
+4|Enter Bunker06,1
+4|Enter Bunker07,1
+4|Enter Bunker08,1
