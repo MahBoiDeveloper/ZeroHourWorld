@@ -12,6 +12,7 @@
 
 List of included maps, campaigns, map packs with edit:
 * [USA Co-Op Challenge](https://www.moddb.com/games/cc-generals-zero-hour/addons/gzh-usa-co-op-challenge-rebalanced)
+* [UDR ZERO HOUR VANILLA GLA EXTRAVAGANZA](https://www.moddb.com/games/cc-generals-zero-hour/addons/udr-zero-hour-vanilla-gla-extravaganza)
 
 ## Installation
 
@@ -30,6 +31,7 @@ This table contains information about all custom maps, which has been added to t
 | Map Name                    | Game Mode      | Version   | Author(s)                            | Related Issue                                                        |
 | --------------------------- | -------------- | --------- | ------------------------------------ | -------------------------------------------------------------------- |
 | [ZH] USA Coop Challenge     | Cooperative    |  1.2      | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
+| [ZH] Extravaganza GLA 01    | Mission        |  N/A      | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 
 ## License
 
