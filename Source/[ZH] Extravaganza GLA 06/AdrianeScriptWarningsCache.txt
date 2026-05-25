@@ -1,0 +1,527 @@
+0|Shroud the place for player,0
+0|Script 3497,0
+0|WIN FINAL,0
+0|Win03,0
+0|Win02,1
+0|Win01,0
+0|Player Win,0
+0|Moments 01_25,0
+0|Moments 01_50,0
+0|Moments 01_51 (new),0
+0|Moments 02_25,0
+0|Moments 02_50,0
+0|Moments 02_51 (new),0
+0|Moments 02_52 (new),0
+0|Moments 02_53 (new),0
+0|Moments 02_54 (new),0
+0|Moments 03 (Convoy camera),0
+0|Moments 03_001 (new),0
+0|Moments 03_01 (new),0
+0|Moments 03_02 (new),0
+0|Moments 04_24 (new),0
+0|Moments 04_241 (new),0
+0|Moments 04_25,0
+0|Moments 04_50,0
+0|Moments 04_51 (new),0
+0|Moments 04_52 (new),0
+0|Moments 04_53 (new),0
+0|Moments 05,0
+0|Moments 05_05,0
+0|Moments 06,0
+0|Moments 07,0
+0|Moments 08,0
+0|Moments 08_01 (new),0
+0|Moments 09,0
+0|Moments 10,0
+0|Moments 11,0
+0|Moments 11 C,0
+0|Moments 12,0
+0|Moments 13,0
+0|Moments 14,0
+0|Opening Area Reveals OM,0
+0|Start Scorption Blockers OM,0
+0|Start Convoy Trucks OM,0
+0|Start Convoy Delay Timer A OM,0
+0|Start Pointmen Escorts OM,0
+0|Define Win List Objects,0
+0|Initialize Tunnel Runners Ready to Exit,0
+0|Tunnel Runners Ready to Exit Now,0
+0|Lose - All KIA,0
+0|BG02 Factories Dead,0
+0|BG02 Factories Dead C,0
+0|BG02 Factories Dead No Really,0
+0|BG02 Factories Dead Serious This Time,0
+0|BG02 Factories Dead Please,0
+0|Win Start,0
+0|Infantry Hunter01,0
+0|Vehicle Hunter01,0
+0|Vehicle Hunter02,0
+0|Defense Hunter01,0
+0|Factory Hunter01,0
+0|BG Building OFF,0
+0|Initialize Player in AI Build Area Flag,0
+0|Initialize Dialog Gen05 Counter,0
+0|Initialize Oil Rig Counters,0
+0|Oil Rig 1 Enabled,0
+0|Oil Rig 2 Enabled,0
+0|Oil Rig 3 Enabled,0
+0|Oil Rig 4 Enabled,0
+0|Oil Rig 1 KIA,0
+0|Oil Rig 2 KIA,0
+0|Oil Rig 3 KIA,0
+0|Oil Rig 4 KIA,0
+0|Player Owns Oil Rig 01,0
+0|Player Owns Oil Rig 02,0
+0|Player Owns Oil Rig 03,0
+0|Player Owns Oil Rig 04,0
+0|Exclude Extra Players,0
+1|Barracks Captured,0
+1|ReEnable the Abandoned Stash,0
+1|Washer's Tent Occupied,0
+1|Washer Woman 01 Team Script,0
+1|Washer Woman 01 Sequential,0
+1|Start Washer 01 timer,0
+1|Washer Woman 01,0
+2|Display Search Timer,0
+2|Begin Search Team 01 Timer,0
+2|Search Team 01 Go,0
+2|Search Team 01 On Map,1
+2|Begin Search Team 02 Timer,0
+2|Search Team 02 Go,0
+2|Search Team 02 On Map,1
+2|Begin Scout Team 03 Timer,0
+2|Search Team 03 Go,0
+2|Search Team 03 On Map,1
+2|Begin Scout Team 04 Timer,0
+2|Search Team 04 Go,0
+2|Search Team 04 On Map,1
+2|Pointmen get Attack Priority,0
+2|Convoy Escort 01 Team Script,0
+2|Convoy Escort 01 Sequential,0
+2|Convoy Escort 02 Team Script,0
+2|Convoy Escort 02 Sequential,0
+2|Search Teams Team Script,0
+2|Search Teams Sequential,0
+2|Search Teams Air Team Script,0
+2|Search Teams Air Sequential,0
+2|Search Team ES Team Script,0
+2|Search Team ES Sequential,0
+3|Timer for Anthrax,0
+3|! build workers !,0
+3|!Build super team !,0
+3|!Build Mr garrison!,0
+3|!Build Mr garrison  go inside !,0
+3|Team Super go defend,0
+3|Team Jackers go defened,0
+3|Team Jackers go Jack,0
+3|Storm Firing,0
+3|Storm Firing ReEnabler,0
+3|Rebels Ready,0
+3|Rebels Ready ReEnabler,0
+3|Anthrax Ready,0
+3|Anthrax Ready ReEnabler,0
+3|Traitors Start at Rank 2,0
+3|Set Skill Set for EN,0
+3|Set Skill Set for H,0
+3|Build BG2 Upgrades,0
+3|Hide the mall ,0
+3|Upgrade to Scorpion Missile,0
+3|Upgrade to Toxin Shells,0
+3|Upgrade to Camouflage,0
+3|Upgrade to Anthrax Beta,0
+3|Upgrade to Buggy Ammo,0
+3|Upgrade to AP Bullets,0
+3|Upgrade to AP Rockets,0
+3|Upgrade to Junk Repair,0
+3|BG02 Starts With $60k,0
+3|Somebody's Knocking (Backdoor),0
+3|Aaahhh We're Under Attack (E N H),0
+3|Aaahhh We're Under Attack (N H),0
+3|Aaahhh We're Under Attack (H),0
+3|Scout Team Alpha Timer Begin (E),0
+3|Scout Team Alpha Timer Begin (N),0
+3|Scout Team Alpha Timer Begin (H),0
+3|Scout Team Alpha Go,0
+3|Scout Team Alpha Encounters Player,0
+3|Scout Team Bravo Timer Begin (E),0
+3|Scout Team Bravo Timer Begin (N),0
+3|Scout Team Bravo Timer Begin (H),0
+3|Scout Team Bravo Go,0
+3|Scout Team Bravo Encounters Player,0
+3|Rebuild Traitor Frontdoor Tunnel L,0
+3|Traitor Frontdoor Tunnel L Rebuilt,0
+3|Rebuild Traitor Frontdoor Tunnel R,0
+3|Traitor Frontdoor Tunnel R Rebuilt,0
+3|Rebuild Traitor Backdoor Tunnel,0
+3|Traitor Backdoor Tunnel Rebuilt,0
+3|BG2 Begin Unit Production 01,0
+3|BG2 Begin Unit Production 02,1
+3|Dialog Gen06 Play,1
+3|Initiate Tunnel Defenders for BG2,0
+3|Plateau Defenders R Needed,0
+3|Forest Defenders Needed,0
+3|Plateau Defenders L Needed,0
+3|Refinery Defenders Needed,0
+3|Traitor Frontdoor L Defenders Needed,0
+3|Traitor Frontdoor R Defenders Needed,0
+3|Traitor Backdoor Tunnel Defenders Needed,0
+3|Convoy 01 in Area L,0
+3|Convoy 01 Sights Enemy L,0
+3|Convoy 01 Exits Area L,0
+3|Convoy 02 in Area L,0
+3|Convoy 02 Sights Enemy L,0
+3|Convoy 02 Exits Area L,0
+3|Convoy 03 in Area L,0
+3|Convoy 03 Sights Enemy L,0
+3|Convoy 03 Exits Area L,0
+3|Dialog Con06 Play (Area L),1
+3|Dialog Con07 Play (Area L),1
+3|Convoy Sighted Area L,0
+3|Convoy 01 in Area R,0
+3|Convoy 01 Sights Enemy R,0
+3|Convoy 01 Exits Area R,0
+3|Convoy 02 in Area R,0
+3|Convoy 02 Sights Enemy R,0
+3|Convoy 02 Exits Area R,0
+3|Convoy 03 in Area R,0
+3|Convoy 03 Sights Enemy R,0
+3|Convoy 03 Exits Area R,0
+3|Dialog Con06 Play (Area R),1
+3|Dialog Con07 Play (Area R),1
+3|Convoy Sighted Area R,0
+3|Convoy 01 in Area Back,0
+3|Convoy 01 Sights Enemy Back,0
+3|Convoy 01 Exits Area Back,0
+3|Convoy 02 in Area Back,0
+3|Convoy 02 Sights Enemy Back,0
+3|Convoy 02 Exits Area Back,0
+3|Convoy 03 in Area Back,0
+3|Convoy 03 Sights Enemy Back,0
+3|Convoy 03 Exits Area Back,0
+3|Dialog Con09 Play (Area Back),1
+3|Dialog Con07 Play (Area Back),1
+3|Convoy Sighted Area Back,0
+3|Convoy 01 in Factory Area,0
+3|Convoy 01 Sights Enemy,0
+3|Convoy 01 Exits Factory Area,0
+3|Convoy 02 in Factory Area,0
+3|Convoy 02 Sights Enemy,0
+3|Convoy 02 Exits Factory Area,0
+3|Convoy 03 in Factory Area,0
+3|Convoy 03 Sights Enemy,0
+3|Convoy 03 Exits Factory Area,0
+3|Dialog Con06 Play (Area Factory),1
+3|Dialog Con07 Play (Area Factory),1
+3|Convoy Sighted Factory,0
+3|Convoy 01 On Plateau,0
+3|C Basic Attack,0
+3|C Tech Patrol 01,0
+3|C Tech Patrol 02,0
+3|C Tech Rush,0
+3|C Fac Patrol Patrol 01,0
+3|C Fac Patrol Patrol 02,0
+3|C Fac Patrol Patrol 03,0
+3|C Fac Patrol Patrol 04,0
+3|C Ck Abandoned 01,0
+3|C Ck Abandoned 02,0
+3|C AntiArmor,0
+3|C Convoy Hunter 01,0
+3|C Convoy Hunter 02,0
+3|C BG2 Tunnel Builder,0
+3|C Tunnel Runners,0
+3|C Radio Thingy,0
+3|C Base Defense Teams,0
+3|C Oil Grabber,0
+3|C Oil Defenders,0
+3|C Anti Infantry,0
+3|C Advance Attack Teams,0
+3|Just Hunt You Moron,0
+3|Basic Attack 01 Team Script,0
+3|Basic Attack 01 Sequential,0
+3|Basic Attack 02 Team Script,0
+3|Basic Attack 02 Sequential,0
+3|Basic Attack 03 Team Script,0
+3|Basic Attack 03 Sequential,0
+3|Basic Attack 04 Team Script,0
+3|Basic Attack 04 Sequential,0
+3|Basic Attack 05 Team Script,0
+3|Basic Attack 05 Sequential,0
+3|Tech Patrol 01 Team Script,0
+3|Tech Patrol 01 Sequential,0
+3|Tech Patrol 02 Team Script,0
+3|Tech Patrol 02 Sequential,0
+3|Tech Rush 01 Team Script,0
+3|Tech Rush 01 Sequential,0
+3|Tech Rush 02 Team Script,0
+3|Tech Rush 02 Sequential,0
+3|Fac Patrol 01 Team Script,0
+3|Fac Patrol 01 Sequential,0
+3|Fac Patrol 03 Team Script,0
+3|Fac Patrol 03 Sequential,0
+3|Fac Patrol 04 Team Script,0
+3|Fac Patrol 04 Sequential,0
+3|Ck Abandoned 01 Team Script,0
+3|Ck Abandoned 01 Sequential,0
+3|Ck Abandoned 02 Team Script,0
+3|Ck Abandoned 02 Sequential,0
+3|AntiArmor 01 Team Script,0
+3|AntiArmor 02 Team Script,0
+3|Convoy Hunter 01 Team Script,0
+3|Convoy Hunter 01 Sequential,0
+3|Convoy Hunter 02 Team Script,0
+3|Convoy Hunter 02 Sequential,0
+3|Cave Guards R Team Script,0
+3|Cave Guards R Sequential,0
+3|Cave Guards L Team Script,0
+3|Cave Guards L Sequential,0
+3|Scout Team Alpha Team Script,0
+3|Scout Team Alpha Sequential,0
+3|Scout Team Bravo Team Script,0
+3|Scout Team Bravo Sequential,0
+3|BG2 Tunnel Builder Team Script,0
+3|BG2 Tunnel Builder Sequential,0
+3|Tunnel Runners Team Script,0
+3|Tunnel Runners Sequential,0
+3|Backdoor Response Team Script,0
+3|Radio Thingy Team Script,0
+3|Radio Thingy Sequential,0
+3|Base Attacked Response 01 Team Script,0
+3|Base Attacked Response 02 Team Script,0
+3|Base Attacked Response 03 Team Script,0
+3|Barracks Patrol Team Script,0
+3|Perimeter Patrol 01 Team Script,0
+3|Plateau Tunnel R Defenders Team Script,0
+3|Plateau Tunnel R01 Patrol 01 Team Script,0
+3|Forest Tunnel Defenders Team Script,0
+3|Plateau Tunnel L Defenders Team Script,0
+3|Refinery Tunnel Defenders Team Script,0
+3|Frontdoor L Tunnel Defenders Team Script,0
+3|Frontdoor R Tunnel Defenders Team Script,0
+3|Backdoor Tunnel Defenders Team Script,0
+3|Forest Tunnel Patrol 01 Team Script,0
+3|Forest Tunnel Patrol 01 Team Script ES,0
+3|Forest Tunnel Pat 01ES Sequential,0
+3|Forest Tunnel Patrol 02 Team Script,0
+3|Plateau Tunnel L Patrol Team Script,0
+3|TS Base Defense 01,0
+3|SS Base Defense 01,0
+3|ES Base Defense 01,0
+3|ES SS Base Defense 01,0
+3|TS Base Defense 02,0
+3|SS Base Defense 02,0
+3|ES Base Defense 02,0
+3|ES SS Base Defense 02,0
+3|TS Oil Grabber,0
+3|SS Oil Grabber,0
+3|TS Oil Defenders,0
+3|SS Oil Defenders,0
+3|TS Anti Infantry 01,0
+3|SS Anti Infantry 01,0
+3|TS Anti Infantry 02,0
+3|SS Anti Infantry 02,0
+3|TS Anti Infantry 03,0
+3|SS Anti Infantry 03,0
+3|TS Advance Attack 01,0
+3|TS Advance Attack 02,0
+3|TS Advance Attack 03,0
+3|TS Advance Attack 04,0
+3|TS Advance Attack 05,0
+3|Begin All Patrols,0
+3|Begin Forest Tunnel Patrol 01c,0
+4|Trainee 01 Tent Occupied,0
+4|Trainee 02 Tent Occupied,0
+4|Trainee 03 Tent Occupied,0
+4|Trainee CO Tent Occupied,0
+4|Start Trainee 01 timer,0
+4|Trainee 01,0
+4|Trainees Ready to Run,0
+4|Trainee 01 Finished Running,0
+4|Trainee 02 Finished Running,0
+4|Trainee 03 Finished Running,0
+4|Trainees Back to Tents,0
+4|Trainee 01 Team Script,0
+4|Trainee 01 Sequential,0
+4|Trainee 01 Sequential 02,0
+4|Trainee 02 Team Script,0
+4|Trainee 02 Sequential,0
+4|Trainee 02 Sequential 02,0
+4|Trainee 03 Team Script,0
+4|Trainee 03 Sequential,0
+4|Trainee 03 Sequential 02,0
+4|Trainee CO Team Script,0
+5|start with no Scud launcher,0
+5|unman,0
+5|Discover,0
+5|Nuclear Scud Enable,0
+5|Explain Camouflage,1
+5|Dialog Gen03 Play,1
+5|Dialog Con13 Play,0
+5|Dialog Con08 Play,1
+5|Dialog Con10 Play,1
+5|Dialog Con14 Play,1
+5|Dialog Con15 Play,1
+5|Dialog Con11 Play (L Area),1
+5|Dialog Con11 Play (R Area),1
+5|Dialog Con12 Play,1
+5|Dialog Gen04 Play,1
+5|Dialog Gen05 Play Ready,0
+5|Dialog Gen05 Play,1
+5|Dialog Gen02 Play,1
+5|Dialog Gen01 Play,0
+5|Cin01,0
+5|Cin02,1
+5|Briefing 01 (Gen13),1
+5|Briefing 02 (Gen09),1
+5|Briefing 03 (Gen10),1
+5|Briefing 03a (truck sound),0
+5|Briefing 04 (Gen11),1
+5|Cin04,1
+5|Cin03,1
+5|Cin05,1
+5|Cin06,1
+5|Briefing 05 (Gen12),1
+5|Gen14,1
+5|Gen15,1
+5|Gen16,1
+5|Radar On,0
+5|Player In AI Build Area 01,0
+5|Player In AI Build Area 02,0
+6|Convoy Stop 01,0
+6|Convoy Stop 02,0
+6|Convoy Control To Player,0
+6|BG2 Likes Convoy,0
+6|BG2 Hates Convoy (Convoy Detected),1
+6|Turn on Player Sightings,0
+6|Annie Joins Perimeter Patrol 01,0
+6|Annie Follow Waypath,0
+6|Annie Sees Convoy,1
+6|Annie Speaking,1
+6|Annie Sounds Alarm,1
+6|Annie Sees Player,0
+6|Annie Sees Player ReEnabler,0
+6|Annie KIA,0
+6|Alician Joins Perimeter Patrol 02,0
+6|Alician Follow Waypath,0
+6|Alician Sees Convoy,1
+6|Alician Speaking,1
+6|Alician Sounds Alarm,1
+6|Alician Sees Player,0
+6|Alician KIA,0
+6|Alician Sees Player ReEnabler,0
+6|Bobbie Jo Joins Forest Patrol 01a,0
+6|Bobbie Jo Follow Waypath,0
+6|Bobbie Jo Sees Convoy,1
+6|Bobbie Jo Speaking,1
+6|Bobbie Jo Sounds Alarm,1
+6|Bobbie Jo Sees Player,0
+6|Bobbie Jo Sees Player ReEnabler,0
+6|Bobbie Jo KIA,0
+6|Billie Rey Joins Forest Patrol 01b,0
+6|Billie Rey Follow Waypath,0
+6|Billie Rey Sees Convoy,1
+6|Billie Rey Speaking,1
+6|Billie Rey Sounds Alarm,1
+6|Billie Rey Sees Player,0
+6|Billie Rey Sees Player ReEnabler,0
+6|Billie Rey KIA,0
+6|Betty Jean Joins Forest Patrol 01c,0
+6|Betty Jean Follow Waypath,0
+6|Betty Jean Sees Convoy,1
+6|Betty Jean Speaking,1
+6|Betty Jean Sounds Alarm,1
+6|Betty Jean Sees Player,0
+6|Betty Jean Sees Player ReEnabler,0
+6|Betty Jean KIA,0
+6|Cyndie Joins Plateau Tunnel R Patrol,0
+6|Cyndie Sees Convoy,1
+6|Cyndie Speaking,1
+6|Cyndie Sounds Alarm,1
+6|Cyndie Sees Player,0
+6|Cyndie Sees Player ReEnabler,0
+6|Cyndie Follow Script 01,0
+6|Cyndie Follow Script 02,0
+6|Cyndie KIA,0
+6|Donna Joins Forest Tunnel Patrol 02,0
+6|Donna Sees Convoy,1
+6|Donna Speaking,1
+6|Donna Sounds Alarm,1
+6|Donna Sees Player,0
+6|Donna Sees Player ReEnabler,0
+6|Donna Follow Script 01,0
+6|Donna Follow Script 02,0
+6|Donna KIA,0
+6|Eddie Joins Plateau Tunnel L Patrol 03,0
+6|Eddie Follow Script 01,0
+6|Eddie Follow Script 02,0
+6|Eddie Sees Convoy 01,1
+6|Eddie Sees Convoy 02,1
+6|Eddie Speaking,1
+6|Eddie Sounds Alarm,1
+6|Eddie Sees Player,0
+6|Eddie Sees Player ReEnabler,0
+6|Eddie KIA,0
+6|Emma Joins Plateau Tunnel L Patrol 01,0
+6|Emma Follow Script 01,0
+6|Emma Follow Script 02,0
+6|Emma Sees Convoy 01,1
+6|Emma Sees Convoy 02,1
+6|Emma Speaking,1
+6|Emma Sounds Alarm,1
+6|Emma Sees Player,0
+6|Emma Sees Player ReEnabler,0
+6|Emma KIA,0
+6|Faith Joins Scout Team Alpha,0
+6|Faith Follow Script 01,0
+6|Faith Follow Script 02,0
+6|Faith Sees Convoy,1
+6|Faith Speaking,1
+6|Faith Sounds Alarm,1
+6|Faith Sees Player,0
+6|Faith Sees Player ReEnabler,0
+6|Faith KIA,0
+6|Felicia Joins Scout Team Bravo,0
+6|Felicia Follow Script 01,0
+6|Felicia Follow Script 02,0
+6|Felicia Sees Convoy,1
+6|Felicia Speaking,1
+6|Felicia Sounds Alarm,1
+6|Felicia Sees Player,0
+6|Felicia Sees Player ReEnabler,0
+6|Felicia KIA,0
+6|Girl Sounds Alarm,0
+6|Player Sighted in AI Build Area,0
+7|Ambush L01 Team Script,0
+7|Ambush L01 Sequential,0
+7|Ambush L01a Team Script,0
+7|Ambush L01a Sequential,0
+7|Ambush L01a Sequential 2,0
+7|Ambush L01a Attack,0
+7|Ambush L02 Team Script,0
+7|Ambush L02 Sequential,0
+7|Ambush L02a Team Script,0
+7|Ambush L02a Sequential,0
+7|Ambush C01 Team Script,0
+7|Ambush C01 Sequential,0
+7|Ambush C01a Team Script,0
+7|Ambush C01a Sequential,0
+7|Ambush C02 Team Script,0
+7|Ambush C02 Sequential,0
+7|Ambush C02a Team Script,0
+7|Ambush C02a Sequential,0
+7|Ambush R01 Team Script,0
+7|Ambush R01 Sequential,0
+7|Ambush R01a Team Script,0
+7|Ambush R01a Sequential,0
+7|Ambush R02 Team Script,0
+7|Ambush R02 Sequential,0
+7|Ambush R02a Team Script,0
+7|Ambush R02a Sequential,0
+8|Worker Transferred to BG02_51,0
+8|TS BG02_51 Worker Recruit,0
+8|SS BG02_51 Worker Recruit,0
+10|Script 1518,0
+10|Constantly Rain,0
+10|Start Lightning,0
+10|Reset Lightning,0
+10|Time Between Lightning,0
+10|Lightning,0
