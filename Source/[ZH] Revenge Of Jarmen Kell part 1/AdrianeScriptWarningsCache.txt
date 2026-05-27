@@ -1,0 +1,433 @@
+0|Burning GLA ,0
+0|Unhide Burton and Lolo,0
+0|Mission Title,0
+0|Start MID CINE (Keep Disabled),0
+0|Set INTRO_DONE to TRUE,1
+0|When INTRO_DONE is TRUE,0
+0|When INTRO_DONE is TRUE C,1
+0|CINE_EndIntro,0
+0|CINE_CutToInitial,0
+0|CINE_Default,0
+0|CINE_Setup,0
+0|Camera Move,0
+0|Cine flames,0
+0|Lose_END_Start_,0
+0|Lose_END_Fade_,0
+0|Lose_END_Audio_,0
+0|Lose_END_Final_,0
+0|END_Start_,0
+0|END_Cheer_,0
+0|END_Audio_,0
+0|END_Final_,0
+0|CB_Burton Camera Setup,0
+0|CB_Burton Burton Climbs,0
+0|Dialog Second Fade - Burton Wins,1
+0|Dialog Second Fade - Lotus Wins,1
+0|Begin Ending Dialog,1
+0|Dialog Fade Out,0
+0|Begin End Cinematic,1
+0|Set Up Whole Damn Scene,0
+0|CINE_AVSetup,0
+0|CINE_AVEstablish,0
+0|CINE_EstablishZoom,0
+0|CINE_AVBlast,0
+0|CINE_AVBlastSound,0
+0|CINE_AVBlowTop,0
+0|CINE_AVWatchCracks,0
+0|CINE_AVOverhead,0
+0|CINE_AVChannelShake01,0
+0|CINE_AVChannelShake02,0
+0|CINE_AVChannelShake03,0
+0|CINE_AVChannelShake04,0
+0|CINE_AVChannelShake05,0
+0|CINE_AVChannelShake06,0
+0|CINE_AVChannelShake07,0
+0|CINE_AVChannelShake08,0
+0|CINE_AVChannelShake09,0
+0|CINE_AVChannelShake10,0
+0|CINE_AVCanyonShot,0
+0|CINE_AVCanyanShotShake01,0
+0|CINE_AVCanyanShotShake02,0
+0|CINE_AVCanyanShotShake03,0
+0|CINE_AVCanyanShotShake04,0
+0|CINE_AVCanyanShotShake05,0
+0|CINE_AVCanyanShotShake06,0
+0|CINE_AVCanyanShotShake07,0
+0|CINE_AVCanyanShotShake08,0
+0|CINE_AVCanyanShotShake09,0
+0|CINE_AVCanyanShotShake10,0
+0|CINE_AVCanyanShotShake11,0
+0|CINE_AVCanyanShotShake12,0
+0|CINE_AVCanyanShotShake13,0
+0|CINE_AVCanyanShotShake14,0
+0|CINE_AVChannelShotDelayPullBack,0
+0|CINE_AVEpicShot,0
+0|CINE_AVFarShot,0
+0|CINE_AVFarShotShake01,0
+0|CINE_AVFarShotShake02,0
+0|CINE_AVFarShotShake03,0
+0|CINE_AVFarShotShake04,0
+0|CINE_AVFarShotShake05,0
+0|CINE_AVFarShotShake06,0
+0|CINE_AVFarShotShake07,0
+0|CINE_AVFarShotShake08,0
+0|CINE_AVSideShot,0
+0|CINE_AVSideShotShake01,0
+0|CINE_AVSideShotShake02,0
+0|CINE_AVSideShotShake03,0
+0|CINE_AVSideShotShake04,0
+0|CINE_AVSideShotShake05,0
+0|CINE_AVSideShotShake06,0
+0|CINE_AVSideShotShake07,0
+0|CINE_AVSideShotShake08,0
+0|CINE_AVSideShotShake09,0
+0|CINE_AVSideShotShake10,0
+0|CINE_AVSideShotShake11,0
+0|CINE_AVSideShotShake12,0
+0|CINE_AVSideShotShake13,0
+0|CINE_AVSideShotShake14,0
+0|CINE_AVSecret LabDies,0
+0|CINE_AVSideShotPanTo,0
+0|CINE_AVDestructionShot,0
+0|CINE_AVPullOutShake01,0
+0|CINE_AVPullOutShake02,0
+0|CINE_AVPullOutShake03,0
+0|CINE_AVPullOutShake04,0
+0|CINE_AVPullOutShake05,0
+0|CINE_AVPullOutShake06,0
+0|CINE_AVPullOutShake07,0
+0|CINE_AVPullOutShake08,0
+0|CINE_AVPullOutShake09,0
+0|CINE_AVPullOutShake10,0
+0|CINE_AVPullOutShake11,0
+0|CINE_AVPullOutShake12,0
+0|CINE_AVVictory,0
+0|SUB-Generate Random Number [1-2],0
+0|SUB-Generate Random Number [1-3],0
+0|SUB-Generate Random Number [1-4],0
+0|SUB-Generate Random Number [1-5],0
+0|SUB-Generate Random Number [1-6],0
+0|SUB-Generate Random Number [1-7],0
+0|SUB-Generate Random Number [1-8],0
+0|SUB-Generate Random Number [1-9],0
+0|SUB-Generate Random Number [1-10],0
+0|SUB-Generate Random Number [1-11],0
+0|SUB-Random = 1?,0
+0|SUB-Random = 2?,0
+0|SUB-Random = 3?,0
+0|SUB-Random = 4?,0
+0|SUB-Random = 5?,0
+0|SUB-Random = 6?,0
+0|SUB-Random = 7?,0
+0|SUB-Random = 8?,0
+0|SUB-Random = 9?,0
+0|SUB-Random = 10?,0
+0|SUB-Random = 11?,0
+0|CHINA Music Timer Expired,0
+0|CHINA Music Initialization,0
+0|CHINA Music Manager,0
+0|SUB-CHINA Music Manager,0
+0|CHINA Music Reset,0
+0|SUB-Playing CHINA Music,0
+0|CHINA Post Track Silence,0
+0|SUB-CHINA Play Music Track 1,0
+0|SUB-CHINA Play Music Track 2,0
+0|SUB-CHINA Play Music Track 3,0
+0|SUB-CHINA Play Music Track 4,0
+0|SUB-CHINA Play Music Track 5,0
+0|SUB-CHINA Play Music Track 6,0
+0|SUB-CHINA Play Music Track 7,0
+0|SUB-CHINA Play Music Track 8,0
+0|SUB-CHINA Play Music Track 9,0
+0|SUB-CHINA Play Music Track 10,0
+0|SUB-CHINA Play Music Track 11,1
+0|SUB-Event-CHINA Music Track 01,0
+0|SUB-Event-CHINA Music Track 02,0
+0|SUB-Event-CHINA Music Track 03,0
+0|SUB-Event-CHINA Music Track 04,0
+0|SUB-Event-CHINA Music Track 05,0
+0|SUB-Event-CHINA Music Track 06,0
+0|SUB-Event-CHINA Music Track 07,0
+0|SUB-Event-CHINA Music Track 08,0
+0|SUB-Event-CHINA Music Track 09,0
+0|SUB-Event-CHINA Music Track 10,0
+0|SUB-Event-CHINA Music Track 11,0
+0|USA Music Initialization,0
+0|USA Music Timer Expired,0
+0|USA Music Manager,0
+0|SUB-USA Music Manager,0
+0|USA Music Reset,0
+0|SUB-Playing USA Music,0
+0|USA Post Track Silence,0
+0|SUB-USA Play Music Track 1,0
+0|SUB-USA Play Music Track 2,0
+0|SUB-USA Play Music Track 3,0
+0|SUB-USA Play Music Track 4,0
+0|SUB-USA Play Music Track 5,0
+0|SUB-USA Play Music Track 6,0
+0|SUB-USA Play Music Track 7,0
+0|SUB-USA Play Music Track 8,0
+0|SUB-USA Play Music Track 9,0
+0|SUB-USA Play Music Track 10,0
+0|SUB-USA Play Music Track 11,0
+0|SUB-ConvertRandom-Music-01,0
+0|SUB-ConvertRandom-Music-02,0
+0|SUB-ConvertRandom-Music-03,0
+0|SUB-ConvertRandom-Music-04,0
+0|SUB-ConvertRandom-Music-05,0
+0|SUB-ConvertRandom-Music-06,0
+0|SUB-ConvertRandom-Music-07,0
+0|SUB-ConvertRandom-Music-08,0
+0|SUB-ConvertRandom-Music-09,0
+0|SUB-ConvertRandom-Music-10,0
+0|SUB-ConvertRandom-Music-11,0
+0|SUB-ConvertRandom-Music-12,0
+0|SUB-Event-USA Music Track 01,0
+0|SUB-Event-USA Music Track 02,0
+0|SUB-Event-USA Music Track 03,0
+0|SUB-Event-USA Music Track 04,0
+0|SUB-Event-USA Music Track 05,0
+0|SUB-Event-USA Music Track 06,0
+0|SUB-Event-USA Music Track 07,0
+0|SUB-Event-USA Music Track 08,0
+0|SUB-Event-USA Music Track 09,0
+0|SUB-Event-USA Music Track 10,0
+0|SUB-Event-USA Music Track 11,0
+0|CINE_Setup C,1
+0|CINE_BomberShot01,1
+0|CINE_ChinookMove01,1
+0|CINE_ChinookShot01,1
+0|CINE_ChinookShot02,1
+0|CINE_BomberShot02,1
+0|CINE_BombSound01,1
+0|CINE_BombSound02,1
+0|CINE_BombSound03,1
+0|CINE_BombSound04,1
+0|CINE_BombSound05,1
+0|CINE_BombSound06,1
+0|CINE_GLABase01,1
+0|CINE_Bomb02Sound01,0
+0|CINE_Bomb02Sound02,0
+0|CINE_Bomb02Sound03,0
+0|CINE_Bomb02Sound04,0
+0|CINE_Bomb02Sound05,0
+0|CINE_Bomb02Sound06,1
+0|CINE_BombExpl01,1
+0|CINE_BombExpl02,1
+0|CINE_BombExpl03,1
+0|CINE_BombExpl04,1
+0|CINE_BombExpl05,1
+0|CINE_BombExpl06,1
+0|CINE_GLABase02,1
+0|CINE_PullBack,0
+0|CINE_SpawnMoreFire,1
+0|CINE_MoveChinooksFinal,1
+0|CINE_ChinooksThroughFire,1
+0|CINE_ChinookArea,1
+0|CINE_SentryMove,1
+0|CINE_HelixShot (AUDIO),0
+0|CINE_HelixArea,1
+0|CINE_CameraMoveToRiver,0
+0|CINE_CameraRiverShot02,0
+0|CINE_MoveLotus,1
+0|CINE_LotusSpeaks (AUDIO),0
+0|CINE_BurtonResponds (AUDIO),0
+0|CINE_AndTheRaceBegins,1
+0|CINE_CameraFade,0
+0|CINE_Default C,1
+0|CINE_RiverBurtonMoveHere,1
+0|CINE_EndIntro C,1
+0|CINE_ChinooksFlyOffTo,1
+0|CINE_DeleteChinooks,1
+0|End MIDGAME Cinematic 02,1
+0|Begin MIDGAME Cinematic 02,1
+0|CINE_MID Start,1
+0|CINE_Start Cine Fade Out,0
+0|CINE_Master Timer Script,0
+0|CINE_Master Timer Script C,0
+0|CINE_Master Timer Script C C,0
+0|CINE_Disable Hack Sound,0
+0|CINE_Enable Hack Sound,0
+0|CINE_Spawn BL And Run,1
+0|CINE_Setup Camera Shot 1,1
+0|CINE_Setup Camera Shot 1 Lotus,0
+0|CINE_Setup Camera Shot 1 Pitch,0
+0|CINE_Setup Camera Shot 1 Zoom,0
+0|CINE_Setup Camera Shot 1 Fade,0
+0|CINE_Spawn BL One & Hack,1
+0|CINE_Setup Camera Shot 2,1
+0|CINE_Spawn BL Two & Hack,1
+0|CINE_Setup Camera Shot 3,1
+0|CINE_Setup Camera Shot 3 Fade,0
+0|CINE_Spawn BL Three & Hack,1
+0|CINE_Setup Camera Shot 4,1
+0|CINE_Setup Camera Shot 4 Fade,0
+0|CINE_Spawn BL Four & Hack,1
+0|CINE_Setup Camera Shot 5,1
+0|CINE_Setup Camera Shot 5 Fade,0
+0|CINE_Spawn BL Five & Hack,1
+0|CINE_Setup Camera Shot 6,1
+0|CINE_Setup Camera Shot 6 Attack!,0
+0|CINE_Setup Camera Shot 6 Fade,0
+0|CINE_Setup Camera Shot 6 Enemy Rebels,1
+0|CINE_Setup Camera Shot 6 Rebels 1,1
+0|CINE_Setup Camera Shot 6 Rebels 2,1
+0|CINE_Setup Camera Shot 6 Tanks 1,1
+0|CINE_Setup Camera Shot 6 Tanks 2,1
+0|CINE_Setup Camera Shot 7,1
+0|CINE_Setup Camera Shot 7 BombTruck,1
+0|CINE_Setup Camera Shot 7 BombTruck Kill,0
+0|CINE_Setup Camera Shot 7 Audio,0
+0|CINE_Setup Camera Shot 7 Pitch,0
+0|CINE_Setup Camera Shot 7 Zoom,0
+0|CINE_Setup Camera Shot 8,0
+0|CINE_Setup Camera Shot 8 Fade,0
+0|CINE_Setup Camera Shot 8 Return,1
+0|CINE_Setup Camera Shot 8 Return - EASY,1
+0|Mission Objective-01,0
+0|Mission Objective-02,0
+0|AUDIO - Mission Briefing-00,0
+0|AUDIO - Mission Briefing-00a,0
+0|AUDIO - Mission Briefing-01,0
+0|AUDIO - Mission Briefing-01a,0
+0|AUDIO - Mission Briefing-02,0
+0|AUDIO - Mission Briefing-02a,0
+0|AUDIO - Mission Briefing-03,0
+0|AUDIO - Mission Briefing-03a,0
+0|AUDIO - Mission Briefing-04,0
+0|AUDIO - Mission Briefing-04a,0
+0|AUDIO - Mission Briefing-05,0
+0|AUDIO - Mission Briefing-05a,0
+0|AUDIO - Mission Briefing-06,0
+0|AUDIO - Mission Briefing-06a,0
+0|AUDIO - Mission Briefing-07,0
+0|AUDIO - Mission Briefing-07a,0
+0|AUDIO - Mission Briefing-08,0
+0|Briefing Done,0
+0|GLA Attack Priority Setting,0
+0|AI Building Off,1
+0|Counter Initializations,0
+0|Flag Initialization,0
+0|Init Player Units Object List,0
+0|Init Player Vehicles Object List,0
+0|Reveal Map Regions,0
+0|Generals Rank Lock,0
+0|Remove Buttons from GLA Stuff,0
+0|Remove Generals Powers Unavailable,0
+0|Remove Generals Powers Unavailable 2,0
+0|Set EASY,0
+0|Set NORM,0
+0|Set HARD,0
+0|Excluded Score Screen Players,1
+0|Remove Enemies,1
+0|AUDIO - HELP - Find Radar Van,1
+0|EASY - HELP - Burton Must Survive,1
+0|NORM-HELP - Burton Must Survive,1
+0|HELP - Burton Wounded,1
+0|Burton Healthy,1
+0|AUDIO - HELP - Find Oil Derricks,1
+0|AUDIO - HELP - Rescued POW01,0
+0|AUDIO - HELP - Rescued POW01-B,0
+0|AUDIO - HELP - Rescued School,0
+0|Ping Schoolhouse,1
+0|AUDIO - HELP - Rescued School First,0
+0|AUDIO - HELP - Rescued Both POW01 and School,0
+0|AUDIO - HELP - Rescued Both POW01 and School-B,0
+0|AUDIO - HELP - Got Microwave,1
+0|AUDIO - HELP - Objective02-A,0
+0|AUDIO - HELP - Objective02-B,0
+0|AUDIO - HELP - Got Microwave-B,0
+0|AUDIO - HELP - Find GLA Base,1
+0|AUDIO - HELP - Find GLA Base-B,0
+0|AUDIO - HELP - Burton Finds Village, No Rangers,1
+0|Set TIMER-Reminder-01,0
+0|AUDIO - HELP - Reminder01-A,1
+0|AUDIO - HELP - Reminder01-B,1
+0|AUDIO - HELP - Find POW02,1
+0|AUDIO - HELP - GLA using Toxin,0
+0|AUDIO - HELP - Find Infantry with Microwave,1
+0|AUDIO - HELP - Microwave Injured,1
+0|AUDIO - HELP - POW Camp 02 Liberated-A,0
+0|AUDIO - HELP - POW Camp 02 Liberated-B (Sets Music),0
+0|AUDIO - HELP - GLA Heightened Alert Warning After POW02 Lib,0
+0|HELP - Final Objective Reminder,0
+0|HELP - Find Toxic Defenses,1
+0|HELP - Burton Finds Village,1
+0|HELP - Player finds neutral vehicles,0
+0|SUB-Disable Burton Speech,0
+0|Enable Burton Speech,0
+1|Unmanned,0
+2|no money,0
+2|Remove Powers,0
+2|POW AREA SECURED,0
+2|Player rescue rocketeers,0
+2|Final team helper rescue ,0
+2|Pause Game for player,0
+2|Lotus speech 1,0
+2|Burton Speech 1,0
+2|Lotus speech 2 and run,0
+2|Burton speech 2 + helix move,0
+2|Burton run to faraway,0
+2|RT 2 player ,0
+2|delete BL + helix,0
+2|Burton status and reach,0
+2|BURN BRIDGE AFTER EMP,0
+2|Player find's DOM,0
+2|Dom inside the car,0
+2|DOM TRUCK MOVE,0
+2|DOM final speech ,0
+2|DOM's FINALE!,0
+2|EMP AFTERMATH,0
+2|Return to player jarmen!!,0
+2|Jarmen Enters injured zone,0
+2|Team Injured reaches DOC,0
+2|Scot run,0
+2|Scot goes bye ,0
+2|Bridge Objective Inform 01,0
+2|Bridge Objective Inform 02,0
+2|BL Bridge Objective Completed,1
+2|SUB-POW Camp 01 Objective Inform,1
+2|POW Camp 01 Objective Completed (Sets Music),1
+2|Secret Lab Objective Inform 01,0
+2|SUB-Secret Lab Objective Inform,0
+2|Lose Burton KIA,0
+2|Win,0
+2|Win 2,0
+2|Radar Activated,0
+3|Begin Avalanche,1
+3|Begin Hack and Move Burton,1
+4|BLEnemy Cash Setting,0
+4|BLEnemy Generals Power Selection Set,0
+4|BLEnemy Structure Building On,0
+4|BLEnemy Unit Building On,0
+4|Spawn BL Diversion Base Patrol,1
+4|C BLEnemy Base Defenders,1
+4|TS BL Diversion Bridge Team,1
+4|TS BL Diversion Bridge Team B,1
+4|TS BL Diversion Base Patrol,0
+4|SS BL Diversion Base Patrol,1
+4|TS BLEnemy Base Defenders,0
+4|SS BLEnemy Base Defenders,1
+5|KIA with Stinger North,1
+5|KIA with Stinger South,1
+5|KIA with Tunnel,1
+6|GLASecretLab Cash,0
+6|GLASecretLab Building Rules,0
+7|Upgrade vehcicals,0
+7|USA Upgrades,0
+7|g1 and 2 patrol,0
+7|brifge cmanche pat,0
+7|TEAM ATTACK DOC !!,0
+7|patrol for burger team,0
+7|patrol for injured team ,0
+7|Forest Patrol,0
+7|Kill unmanned School Jeep1,0
+7|Kill unmanned School Jeep 2,0
+7|Kill unmanned Forest Jeep 1,0
+7|Kill unmanned Forest Jeep 2,0
+7|Kill unmanned far jeep 1,0
+7|Kill unmanned far jeep 2,0
+7|Patrol School,0
+7|Guard School,0
+8|Enemy VS Burton hunt,0
+8|Start Patrol teams ,0
