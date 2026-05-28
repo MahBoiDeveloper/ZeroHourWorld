@@ -15,6 +15,7 @@ List of included maps, campaigns, map packs with edit:
 * [UDR ZERO HOUR VANILLA GLA EXTRAVAGANZA](https://www.moddb.com/games/cc-generals-zero-hour/addons/udr-zero-hour-vanilla-gla-extravaganza)
 * [China Mission 04 Zero Hour Reversed](https://www.moddb.com/games/cc-generals-zero-hour/addons/china-mission-04-zero-hour-reversed)
 * [Revenge Of Jarmen Kell part 1](https://www.moddb.com/games/cc-generals-zero-hour/addons/revenge-of-jarmen-kell-part-1)
+* [US Secret Lab](https://www.cnclabs.com/downloads/details/3151/)
 
 ## Installation
 
@@ -42,6 +43,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Extravaganza GLA 07           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 | [ZH] China ZH 04 Reversed          | Mission        | N/A     | Udr                                  | [#19](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/19)    |
 | [ZH] Revenge Of Jarmen Kell part 1 | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20) |
+| [ZH] US Secret Lab                 | Mission        | N/A     | -OAS-                                | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
  
 ## License
 

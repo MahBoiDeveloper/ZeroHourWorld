@@ -1,0 +1,39 @@
+MSNSTR:OAS:USSL:R1
+	"Good work,General \n Now we can connect to the satellite and determine the place of the secret lab"
+END
+
+MSNSTR:OAS:USSL:W
+	"General this area is heavily guarded maybe there is another way"
+END
+
+MSNSTR:OAS:USSL:SAB
+	"Maybe we can sneak in a saboteur through the mountains to mess their power plants"
+END
+
+MSNSTR:OAS:USSL:IN1
+	"Welcome commander, \n We have got reports that the americans have been developing their weapons \n using some kind of secret lab"
+END
+
+MSNSTR:OAS:USSL:IN2
+	"But we don't know where it is exacly so we will have to find it first"
+END
+
+MSNSTR:OAS:USSL:IN3
+	"There is a nearby radio station we could use it to connect to the satellite \n and determine the place of that secret lab. \n Destroying this lab will be a big blow for them"
+END
+
+MSNSTR:OAS:USSL:SPY1
+	"There it is ,General. Destroy it"
+END
+
+MSNSTR:OAS:USSL:WIN
+	"Their secret lab is no more!"
+END
+
+MSNSTR:OAS:USSL:R
+	"NEVER GONNA GIVE YOU UP NEVER GONNA LET YOU DOWN NEVER GONNA RUN AROUND AND DESERT YOU"
+END
+
+MSNSTR:OAS:USSL:G
+	"Jarmen: WHAT THE H*LL WAS THAT"
+END
