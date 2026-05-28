@@ -1,0 +1,68 @@
+MSNSTR:AXIRION:DL:Intro01
+"Somewhere in the Pacific Ocean\n
+Unknow island, 9:30 AM"
+End
+
+MSNSTR:AXIRION:DL:Intro02
+"\n
+General, we have discovered a small island with large deposits of oil.\n
+But the Americans and the GLA have already captured all the oil deposits."
+End
+
+MSNSTR:AXIRION:DL:Intro03
+"\n
+We must seizure all the oil deposits before UN observers arrived.\n
+Then the entire island will come under Chinese ownership!"
+End
+
+MSNSTR:AXIRION:DL:Intro04
+"\n
+We set up camp.\n
+Our task is to destroy enemy troops and their oil derricks and install our own there!"
+End
+
+SCRIPT:MSNSTR:AXIRION:DL:TipDestroyTarget
+"Kill enemy guards and destroy theid oil derrick."
+End
+
+SCRIPT:MSNSTR:AXIRION:DL:TipCaptureTarget
+"Bring at least one of your men close to the wrecks to build your oil derrick."
+End
+
+SCRIPT:MSNSTR:AXIRION:DL:TipContinueMission
+"This oil deposit is now owrs! Enemies will try to destroy it.\n
+Protect your oil derricks and capture other oil deposits before UN arrives!"
+End
+
+SCRIPT:MSNSTR:AXIRION:DL:TipBonusHole
+"Use your men to capture abandoned underground tunnel network!\n
+The tunnel network is a great way for quickly move your troops around the battlefield."
+End
+
+SCRIPT:MSNSTR:AXIRION:DL:DEPOSITS
+"Oil deposits captured:"
+End
+
+SCRIPT:MSNSTR:AXIRION:DL:PHASE01
+"UN arriving in:"
+End
+
+SCRIPT:MSNSTR:AXIRION:DL:PHASE02
+"Recognition of the island as Chinese:"
+End
+
+MSNSTR:AXIRION:DL:LASTPHASE
+"Hold all captured oil points until the UN recognizes the island as China's!"
+End
+
+MSNSTR:AXIRION:DL:WARN01
+"10 minutes left before the UN arrives!"
+End
+
+MSNSTR:AXIRION:DL:WARN02
+"5 minutes left before the UN arrives!"
+End
+
+MSNSTR:AXIRION:DL:BONUSSP
+"You've got bonus Leaflet Drop special power!"
+End

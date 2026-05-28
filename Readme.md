@@ -16,6 +16,7 @@ List of included maps, campaigns, map packs with edit:
 * [China Mission 04 Zero Hour Reversed](https://www.moddb.com/games/cc-generals-zero-hour/addons/china-mission-04-zero-hour-reversed)
 * [Revenge Of Jarmen Kell part 1](https://www.moddb.com/games/cc-generals-zero-hour/addons/revenge-of-jarmen-kell-part-1)
 * [US Secret Lab](https://www.cnclabs.com/downloads/details/3151/)
+* [Dreamlands](https://www.cnclabs.com/downloads/details/3158)
 
 ## Installation
 
@@ -44,6 +45,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] China ZH 04 Reversed          | Mission        | N/A     | Udr                                  | [#19](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/19)    |
 | [ZH] Revenge Of Jarmen Kell part 1 | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
 | [ZH] US Secret Lab                 | Mission        | N/A     | -OAS-                                | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
+| [ZH] Dreamlands                    | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
  
 ## License
 
