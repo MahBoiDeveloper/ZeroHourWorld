@@ -44,7 +44,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Extravaganza GLA 07           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 | [ZH] China ZH 04 Reversed          | Mission        | N/A     | Udr                                  | [#19](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/19)    |
 | [ZH] Revenge Of Jarmen Kell part 1 | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
-| [ZH] US Secret Lab                 | Mission        | N/A     | -OAS-                                | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
+| [ZH] US Secret Lab                 | Mission        | N/A     | -OAS-                                | [#23](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/23)    |
 | [ZH] Dreamlands                    | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
  
 ## License
