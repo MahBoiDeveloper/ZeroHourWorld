@@ -17,6 +17,7 @@ List of included maps, campaigns, map packs with edit:
 * [Revenge Of Jarmen Kell part 1](https://www.moddb.com/games/cc-generals-zero-hour/addons/revenge-of-jarmen-kell-part-1)
 * [US Secret Lab](https://www.cnclabs.com/downloads/details/3151/)
 * [Dreamlands](https://www.cnclabs.com/downloads/details/3158)
+* [USA vs Toxin Challenge - Cocktail Party Edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/usa-vs-toxin-challenge-cocktail-party-edition)
 
 ## Installation
 
@@ -32,20 +33,21 @@ Copy maps from `Source\` folder to your local `%USERPROFILE%\Documents\Command a
 
 This table contains information about all custom maps, which has been added to the project.
 
-| Map Name                           | Game Mode      | Version | Author(s)                            | Related Issue                                                        |
-| ---------------------------------- | -------------- | ------- | ------------------------------------ | -------------------------------------------------------------------- |
-| [ZH] USA Coop Challenge            | Cooperative    | 1.2     | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
-| [ZH] Extravaganza GLA 01           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 02           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 03           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 04           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 05           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 06           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 07           | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] China ZH 04 Reversed          | Mission        | N/A     | Udr                                  | [#19](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/19)    |
-| [ZH] Revenge Of Jarmen Kell part 1 | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
-| [ZH] US Secret Lab                 | Mission        | N/A     | -OAS-                                | [#23](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/23)    |
-| [ZH] Dreamlands                    | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
+| Map Name                                             | Game Mode      | Version | Author(s)                            | Related Issue                                                        |
+| ---------------------------------------------------- | -------------- | ------- | ------------------------------------ | -------------------------------------------------------------------- |
+| [ZH] USA Coop Challenge                              | Cooperative    | 1.2     | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
+| [ZH] Extravaganza GLA 01                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 02                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 03                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 04                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 05                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 06                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 07                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] China ZH 04 Reversed                            | Mission        | N/A     | Udr                                  | [#19](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/19)    |
+| [ZH] Revenge Of Jarmen Kell part 1                   | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
+| [ZH] US Secret Lab                                   | Mission        | N/A     | -OAS-                                | [#23](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/23)    |
+| [ZH] Dreamlands                                      | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
+| [ZH] USA vs Toxin Challenge - Cocktail Party Edition | Mission        | N/A     | Udr                                  | [#403](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/403)  |
  
 ## License
 
