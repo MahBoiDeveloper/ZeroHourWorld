@@ -1,0 +1,63 @@
+MSNSTR:UDR:PRC04:ESCAPEXX1
+	"INCOMING TRANSMISSION: \n Escape Into The Mountains"
+END
+
+MSNSTR:UDR:PRC04:LOTUSESCAPEPOINT
+	"The Escape Route Is near! \n Black Lotus Must Reach It Alive!"
+END
+
+MSNSTR:UDR:PRC04:CITYISDANGER
+	"INCOMING Alert ! \n The City Is Too Dangerous For Black Lotus \n Take Caution!"
+END
+
+MSNSTR:UDR:PRC04:GJYO
+	"Good Work General \n The City Is Rising Against The GLA"
+END
+
+MSNSTR:UDR:PRC04:HELLOFROMSCUMBAG
+	"Scumbag Trader: Hello Black Lotus :) \n You like what you see ? \n I'll let you burrow it for some cash, Lets say...3000$ yes?"
+END
+
+MSNSTR:UDR:PRC04:SCUMBAGGOTMONEY
+	"Scumbag Trader: You got the Money? \n Happy working with you hehe"
+END
+
+MSNSTR:UDR:PRC04:ALERTBUNKER
+	"INCOMING ALERT ! \n Bunker will blow up in 30 seconds! \n Run away"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04Openxx1
+	"Halberstadt, Germany \n 'Operation:  LAST ESCAPE '"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04MissionFinaleTextxx1
+	"INCOMING TRANSMISSION: \n Black Lotus Has Escaped \n Mission Accomplished"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04MissionState1
+	"INCOMING TRANSMISSION: \n Wave 1 has been defeated"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04MissionState2
+	"INCOMING TRANSMISSION: \n Wave 2 has been defeated"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04MissionState3
+	"INCOMING TRANSMISSION: \n Wave 3 has been defeated"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04MissionState4
+	"INCOMING TRANSMISSION: \n Wave 4 has been defeated"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04MissionState5
+	"INCOMING TRANSMISSION: \n Wave 5 has been defeated"
+END
+
+MSNSTR:UDR:PRC04:MDCHI04MissionState6
+	"INCOMING TRANSMISSION: \n Wave 6 has been defeated"
+END
+
+MSNSTR:UDR:PRC04:CHI04MissionLoseTextxx1
+	"INCOMING TRANSMISSION: \n Black Lotus Has Been KIA. All Is Lost"
+END
