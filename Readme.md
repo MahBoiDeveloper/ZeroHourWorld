@@ -19,6 +19,7 @@ List of included maps, campaigns, map packs with edit:
 * [Dreamlands](https://www.cnclabs.com/downloads/details/3158)
 * [USA vs Toxin Challenge - Cocktail Party Edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/usa-vs-toxin-challenge-cocktail-party-edition)
 * [Zero Hour China Mission 04 Last Escape](https://www.moddb.com/games/cc-generals-zero-hour/addons/zero-hour-china-mission-04-last-escape)
+* [Christmas Themed Shell Map](https://www.cnclabs.com/downloads/details/3113/)
 
 ## Installation
 
@@ -50,6 +51,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Dreamlands                                      | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
 | [ZH] USA vs Toxin Challenge - Cocktail Party Edition | Mission        | N/A     | Udr                                  | [#403](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/403)  |
 | [ZH] China 04 Last Escape - Hero Mission             | Mission        | N/A     | Udr                                  | [#16](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/16)    |
+| [ZH] Christmas Themed Shell Map                      | Mission        | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
  
 ## License
 
