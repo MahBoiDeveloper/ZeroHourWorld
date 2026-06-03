@@ -20,6 +20,7 @@ List of included maps, campaigns, map packs with edit:
 * [USA vs Toxin Challenge - Cocktail Party Edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/usa-vs-toxin-challenge-cocktail-party-edition)
 * [Zero Hour China Mission 04 Last Escape](https://www.moddb.com/games/cc-generals-zero-hour/addons/zero-hour-china-mission-04-last-escape)
 * [Christmas Themed Shell Map](https://www.cnclabs.com/downloads/details/3113/)
+* [China mission 1 - the beginning](https://www.cnclabs.com/downloads/details/2834/)
 
 ## Installation
 
@@ -52,6 +53,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] USA vs Toxin Challenge - Cocktail Party Edition | Mission        | N/A     | Udr                                  | [#403](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/403)  |
 | [ZH] China 04 Last Escape - Hero Mission             | Mission        | N/A     | Udr                                  | [#16](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/16)    |
 | [ZH] Christmas Themed Shell Map                      | Mission        | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
+| [ZH] China 01 The Beginning                          | Mission        | N/A     | lhdlhd                               | [#216](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/216)  |
  
 ## License
 
