@@ -1,0 +1,25 @@
+MSNSTR:UNICAS:USA01OU:INTRO1
+"Egypt, Cairo
+\nOperation: Uprise
+\nPatrol Bravo"
+END
+
+MSNSTR:UNICAS:USA01OU:INTRO2
+"An Attack?
+\nThe GLA have been destroyed?
+\nhow is this possible?"
+END
+
+MSNSTR:UNICAS:USA01OU:INTRO3
+"Passport Check Delta"
+END
+
+MSNSTR:UNICAS:USA01OU:BRIEFING1
+"Objective one:
+\nDestroy the GLA base"
+END
+
+MSNSTR:UNICAS:USA01OU:BRIEFING2
+"Objective two:
+\nSecure the highway"
+END

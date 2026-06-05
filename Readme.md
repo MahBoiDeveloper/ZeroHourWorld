@@ -21,6 +21,7 @@ List of included maps, campaigns, map packs with edit:
 * [Zero Hour China Mission 04 Last Escape](https://www.moddb.com/games/cc-generals-zero-hour/addons/zero-hour-china-mission-04-last-escape)
 * [Christmas Themed Shell Map](https://www.cnclabs.com/downloads/details/3113/)
 * [China mission 1 - the beginning](https://www.cnclabs.com/downloads/details/2834/)
+* [USA 01 - Operation Uprise](https://www.cnclabs.com/downloads/details/2852/)
 
 ## Installation
 
@@ -54,6 +55,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] China 04 Last Escape - Hero Mission             | Mission        | N/A     | Udr                                  | [#16](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/16)    |
 | [ZH] Christmas Themed Shell Map                      | Mission        | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
 | [ZH] China 01 The Beginning                          | Mission        | N/A     | lhdlhd                               | [#216](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/216)  |
+| [ZH] USA 01 Operation Uprise                         | Mission        | N/A     | Unicas                               | [#202](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/202)  |
  
 ## License
 
