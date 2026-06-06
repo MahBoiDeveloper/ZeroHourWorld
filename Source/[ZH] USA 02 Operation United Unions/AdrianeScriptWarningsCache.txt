@@ -1,0 +1,26 @@
+0|Briefing,0
+0|Cant build this sir,0
+0|Winlose,0
+0|INTRO A,0
+0|INTRO B,0
+0|INTRO C,0
+0|INTRO D,0
+0|INTRO E,0
+0|INTRO F,0
+0|INTRO G,0
+0|INTRO H,0
+0|INTRO I,0
+1|Script 1,0
+1|Script 1,0
+3|.,0
+3|Script 2,0
+3|Script 2 C,0
+3|Timer Attacks,0
+3|Build Attack 1,0
+3|Build Attack 1 C,0
+3|Build Attack 2,0
+3|Build Attack 2 C,0
+3|Build Attack 3,0
+3|Build Attack 3 C,0
+3|Execute Attack,0
+3|Attack 1,0
