@@ -57,7 +57,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Christmas Themed Shell Map                      | Mission        | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
 | [ZH] China 01 The Beginning                          | Mission        | N/A     | lhdlhd                               | [#216](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/216)  |
 | [ZH] USA 01 Operation Uprise                         | Mission        | N/A     | Unicas                               | [#202](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/202)  |
-| [ZH] USA 01 Operation United Unions                  | Mission        | N/A     | Unicas                               | [#201](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/201)  |
+| [ZH] USA 02 Operation United Unions                  | Mission        | N/A     | Unicas                               | [#201](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/201)  |
  
 ## License
 
