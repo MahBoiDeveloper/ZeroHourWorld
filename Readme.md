@@ -23,6 +23,7 @@ List of included maps, campaigns, map packs with edit:
 * [China mission 1 - the beginning](https://www.cnclabs.com/downloads/details/2834/)
 * [USA 01 - Operation Uprise](https://www.cnclabs.com/downloads/details/2852/)
 * [USA 02 - Operation United Unions](https://www.cnclabs.com/downloads/details/2853/)
+* [USA 03 - Operation Beehive](https://www.cnclabs.com/downloads/details/2854/)
 
 ## Installation
 
@@ -58,6 +59,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] China 01 The Beginning                          | Mission        | N/A     | lhdlhd                               | [#216](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/216)  |
 | [ZH] USA 01 Operation Uprise                         | Mission        | N/A     | Unicas                               | [#202](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/202)  |
 | [ZH] USA 02 Operation United Unions                  | Mission        | N/A     | Unicas                               | [#201](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/201)  |
+| [ZH] USA 03 Operation Beehive                        | Mission        | N/A     | Unicas                               | [#200](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/200)  |
  
 ## License
 

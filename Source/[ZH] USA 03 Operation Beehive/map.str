@@ -1,0 +1,20 @@
+MSNSTR:UNICAS:USA03OB:INTRO1
+"Yemen, Sanaa
+\nOperation: Beehive"
+END
+
+MSNSTR:UNICAS:USA03OB:INTRO2
+"General! We failed to hold peace in the city
+\nWe thought that we had destroyed the GLA
+\nbut they are rising again!"
+END
+
+MSNSTR:UNICAS:USA03OB:BRIEFING1
+"Objective one:
+\nDestroy the GLA base in the north"
+END
+
+MSNSTR:UNICAS:USA03OB:BRIEFING2
+"Objective two:
+\nDestroy the rest of the GLA in this area"
+END
