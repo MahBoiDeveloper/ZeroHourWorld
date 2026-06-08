@@ -1,0 +1,60 @@
+MSNSTR:XJOUEUR50:USA07TJ:INTROUSA1
+"Hong-Kong Island
+\nOperation 'Total Justice'"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:INTROUSA1.5
+"USS Daedalus
+\nPride of the US Pacific Fleet"
+END
+
+SCRIPT:MSNSTR:XJOUEUR50:USA07TJ:INTROUSA2
+"General, 
+\n
+\nAfter days of searching, we have finally found Chan Wei and his rogue army in Hong-Kong. He has transformed the city
+into his fortress and the only way to enter Hong-Kong was by this beach. Our Chinese allies had planned an assault on the city but
+the Tsing Ma Bridge was destroyed preventing them to assist us in the battle !
+\n 
+\nThanks to our air support from the USS Daedalus and to our battleships, we have secured a foothold on the island.
+However, it seems that the 2nd Nuclear Division has disrupted our communications outside the island. Apparently, two of their
+outposts have Internet Centers and they have cut off the communications between us and our naval support ! Destroy them to regain
+our contact with them !
+\n 
+\nChan Wei has no chance to escape Hong-Kong but he will try everything to stop us. It's time to end this threat once and for all !"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:MAINOBJECTIVEUSA
+"Mission Objectives :
+\nDestroy the Internet Centers to regain our naval support
+\nEliminate Chan Wei's army & free Hong-Kong"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:ICSDESTROYED
+"The Internet Centers have been destroyed ! 
+\nCommunications restored with the USS Daedalus ! 
+\nWe have now access to our advanced technology!"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:CHINESEAUTHORIZATION
+"Beijing has authorized us to use their advanced technology !
+\nThe Nuclear Missile Silo & more are now available to be build !"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:MAINBASEREMAINING
+"All sides base of the 2nd Nuclear Division destroyed !
+\nChan Wei personal base remaining, finish him for good !"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:OUTROUSA1
+"US Victory Parade
+\nStreets of liberated Hong-Kong"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:OUTROUSA2
+"The End ?"
+END
+
+MSNSTR:XJOUEUR50:USA07TJ:NOCOMMS
+"Without communications, we can't contact the USS Daedalus & the fleet!
+\nWe need to destroy these Internet Centers to receive our naval support"
+END
