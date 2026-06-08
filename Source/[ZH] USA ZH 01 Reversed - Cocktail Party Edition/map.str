@@ -1,0 +1,51 @@
+MSNSTR:UDR:USA01R:MD_USA01Hint2xx22
+	"NOOOO ! OUR BAKREY ! \n "
+END
+
+MSNSTR:UDR:USA01R:MD_USA01CINELocation01xx1
+	"Somewhere in Southern Yemen \n En route to Kubuz Tamees"
+END
+
+MSNSTR:UDR:USA01R:MD_USA01CINELocation02xx11
+	"GLA Tamees Bakery Base \n Northern Yemen"
+END
+
+MSNSTR:UDR:USA01R:Intro_Breifing_01xx1
+	"Kassad Recon Base outside Bint AL Sahn Bakrey \n Southern Yemen"
+END
+
+MSNSTR:UDR:USA01R:MD_USA01Titlexx1
+	"Bint AL Sahn Bakrey , Southern Yemen \n 'Operation Tamees Libration :Q '"
+END
+
+MSNSTR:UDR:USA01R:MD_USA01Objective1a
+	"MISSION OBJECTIVE #1: \n Secure the train depot and destroy surrounding GLA base"
+END
+
+MSNSTR:UDR:USA01R:MD_USA01ObjectiveAccomplisheda
+	"MISSION OBJECTIVE #1 Accomplished"
+END
+
+MSNSTR:UDR:USA01R:MD_USA01Objective2
+	"INCOMING TRANSMISSION: \n Move units into the train cars"
+END
+
+MSNSTR:UDR:USA01R:MD_USA01Objective3a
+	"MISSION OBJECTIVE #2: \n Destroy the GLA base"
+END
+
+MSNSTR:UDR:USA01R:TankGoBoomhah
+	"OOOF ! X( Better luck next time! <3 \n"
+END
+
+MSNSTR:UDR:USA01R:MapHaHa
+	"Carful ! Two of these things Doesn't belong here >:) \n "
+END
+
+MSNSTR:UDR:USA01R:MD_USA01Hint2xx1
+	" KILL KILL KILL ! "
+END
+
+MSNSTR:UDR:USA01R:MD_USA01Hintxx1
+	"HINT: \n KILL KILL KILL"
+END

@@ -25,6 +25,7 @@ List of included maps, campaigns, map packs with edit:
 * [USA 02 - Operation United Unions](https://www.cnclabs.com/downloads/details/2853/)
 * [USA 03 - Operation Beehive](https://www.cnclabs.com/downloads/details/2854/)
 * [USA 07 - Total Justice (Updated version)](https://www.cnclabs.com/downloads/details/2561/)
+* [Generals Zero hour USA Missions 01 Cocktail party edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/generals-zero-hour-usa-missions-01-cocktail-party-edition)
 
 ## Installation
 
@@ -62,6 +63,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] USA 02 Operation United Unions                  | Mission        | N/A     | Unicas                               | [#201](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/201)  |
 | [ZH] USA 03 Operation Beehive                        | Mission        | N/A     | Unicas                               | [#200](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/200)  |
 | [ZH] USA 07 Total Justice                            | Mission        | N/A     | XJoueur50                            | [#218](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/218)  |
+| [ZH] USA ZH 01 Reversed - Cocktail Party Edition     | Mission        | N/A     | Udr                                  | [#254](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/254)  |
  
 ## License
 
