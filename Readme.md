@@ -10,7 +10,9 @@
 
 ... is a fan made map package for Command &amp; Conquer: Generals — Zero Hour with singleplayer/cooperative missions, art of defenses, and other PvPvE game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
-List of included maps, campaigns, map packs with edit:
+
+<details><summary>List of included maps, campaigns, map packs with edits</summary>
+
 * [USA Co-Op Challenge](https://www.moddb.com/games/cc-generals-zero-hour/addons/gzh-usa-co-op-challenge-rebalanced)
 * [UDR ZERO HOUR VANILLA GLA EXTRAVAGANZA](https://www.moddb.com/games/cc-generals-zero-hour/addons/udr-zero-hour-vanilla-gla-extravaganza)
 * [China Mission 04 Zero Hour Reversed](https://www.moddb.com/games/cc-generals-zero-hour/addons/china-mission-04-zero-hour-reversed)
@@ -26,6 +28,8 @@ List of included maps, campaigns, map packs with edit:
 * [USA 03 - Operation Beehive](https://www.cnclabs.com/downloads/details/2854/)
 * [USA 07 - Total Justice (Updated version)](https://www.cnclabs.com/downloads/details/2561/)
 * [Generals Zero hour USA Missions 01 Cocktail party edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/generals-zero-hour-usa-missions-01-cocktail-party-edition)
+
+</details>
 
 ## Installation
 
