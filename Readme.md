@@ -10,7 +10,6 @@
 
 ... is a fan made map package for Command &amp; Conquer: Generals — Zero Hour with singleplayer/cooperative missions, art of defenses, and other PvPvE game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
-
 <details><summary>List of included maps, campaigns, map packs with edits</summary>
 
 * [USA Co-Op Challenge](https://www.moddb.com/games/cc-generals-zero-hour/addons/gzh-usa-co-op-challenge-rebalanced)
@@ -28,6 +27,7 @@
 * [USA 03 - Operation Beehive](https://www.cnclabs.com/downloads/details/2854/)
 * [USA 07 - Total Justice (Updated version)](https://www.cnclabs.com/downloads/details/2561/)
 * [Generals Zero hour USA Missions 01 Cocktail party edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/generals-zero-hour-usa-missions-01-cocktail-party-edition)
+* [USA01 Cocktail party edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/usa01-cocktail-party-edition)
 
 </details>
 
@@ -68,6 +68,8 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] USA 03 Operation Beehive                        | Mission        | N/A     | Unicas                               | [#200](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/200)  |
 | [ZH] USA 07 Total Justice                            | Mission        | N/A     | XJoueur50                            | [#218](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/218)  |
 | [ZH] USA ZH 01 Reversed - Cocktail Party Edition     | Mission        | N/A     | Udr                                  | [#254](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/254)  |
+| [ZH] USA 01 - Cocktail Party Edition (Locked)        | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
+| [ZH] USA 01 - Cocktail Party Edition (Unlocked)      | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
  
 ## License
 
