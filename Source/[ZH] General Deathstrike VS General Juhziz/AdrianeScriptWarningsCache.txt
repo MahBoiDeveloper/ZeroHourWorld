@@ -1,0 +1,343 @@
+0|Spectre Gunship Arrive,0
+0|Spectre Gunship Arrive Disabled,0
+0|Spectre Gunship Arrive Reset,0
+0|Spectre Gunship Deployed,0
+0|Spectre Gunship Departed,0
+0|Spectre Gunship Departed (America),0
+0|Spectre Gunship Departed (AirF1),0
+0|Spectre Gunship Departed (AirF2),0
+0|Spectre Gunship Departed (AirF3),0
+0|Spectre Gunship Departed (Lazr),0
+0|Spectre Gunship Departed (SupW),0
+0|Spectre Gunship Departed (Boss),0
+0|Spectre Gunship Deployed Reset,0
+0|WinSetup,0
+0|LossSetup,0
+0|WinMusic(USA),0
+0|LossMusic(USA),0
+0|WinMusic(China),0
+0|LossMusic(China),0
+0|WinMusic(GLA),0
+0|LossMusic(GLA),0
+0|WinStart,0
+0|LossStart,0
+0|Win/Loss Fade to black,0
+0|EvaUSA(Win),0
+0|EvaChina(Win),0
+0|EvaGLA(Win),0
+0|EvaUSA(Loss),0
+0|EvaChina(Loss),0
+0|EvaGLA(Loss),0
+0|USA End Music,0
+0|China End Music,0
+0|GLA End Music,0
+0|Win Load Screen,0
+0|Loss Load Screen,0
+0|EndVictorious,0
+0|EndDefeat,0
+0|INTRO_LaodingSetup,0
+0|AirF,0
+0|SupW,0
+0|Lazr,0
+0|USABoss,0
+0|Nuke,0
+0|Tank,0
+0|ChinaBoss/Boss,0
+0|Toxin,0
+0|Stealth,0
+0|Demo,0
+0|GLABoss,0
+0|HALO,0
+0|INTROVersus,0
+0|DemoEnemy,0
+0|INTRO_FaiTaunt1,0
+0|INTRO_FaiTaunt2,0
+0|INTRO_FaiTaunt3,0
+0|MusicSetup,0
+0|Music01,0
+0|Music02,0
+0|Music03,0
+0|Music04,0
+0|INTROSetup,0
+0|INTROCam1Move1 (USA),0
+0|INTROCam1Move1 (China),0
+0|INTROCam1Move1 (GLA),0
+0|INTROCam1Move2,0
+0|INTROTrapTrigger,0
+0|INTROJuhzizTaunt1,0
+0|INTROFadeToBlack01,0
+0|INTROPlayerBaseCam,0
+0|INTROJuhzizTaunt1,0
+0|DemoGen_GLAStructures,0
+0|Demo_GLABuildings,0
+0|Demo_GLAVehicles,0
+0|Units(Air),0
+0|Units(Ground),0
+0|GroundVehicles,0
+0|Tanks,1
+0|Particle Cannon,0
+0|ScudStorm,0
+0|NuclearMissileSilo,0
+0|CommandCenter,0
+0|Barracks,0
+0|WarFactory,0
+0|Tech Buildings,0
+0|TechCenter,0
+0|Faction Tech Buildings,0
+0|Vehicles,0
+0|Artilery,0
+0|Support Vehicles,0
+0|Aircraft,0
+0|Helicopters,0
+0|Supply Centers,0
+0|ResoucreGatherers,0
+0|Resources Buildings,0
+0|Infantry,0
+0|BlackLotus,0
+0|ColonelBurton,0
+0|JarmenKell,0
+0|Airfield,0
+0|BaseDefences,0
+0|AntiAirVehicles,0
+0|Heavy Tanks,0
+0|PowerPlants,0
+0|Superweapons,0
+0|SupplyCenter,0
+0|SpectreGunship,0
+1|==== USA ====,0
+1|Sentry Drone Gun,0
+1|USA MOAB,0
+1|USA Control Rods,0
+1|USA Control Rods (Reset),0
+1|USA Advanced Control Rods,0
+1|USA Advanced Control Rods (Reset),0
+1|USA Enemy EMP Detected,0
+1|USA Enemy EMP Detected (Reset),0
+1|USA Tomahawk Storm Ready,1
+1|USA Tomahawk Storm Fire,1
+1|==== China ==== ,0
+1|China EMP Mines,0
+1|China EMP Mines (Reset),0
+1|China Neutron Shells,0
+1|China Enemy EMP Detected,0
+1|China Enemy EMP Detected (Reset),0
+1|China Minigunner Elite Training,0
+1|China Minigunner Elite Training,1
+1|==== GLA ==== ,0
+1|GLA Foritfy Structure Voice,0
+1|Eva GLA Fortify,0
+1|GLA Cash Bounty Timer,0
+1|GLA Rebel Cash Bounty Voice,0
+1|GLA Enemy EMP Detected,0
+1|GLA Enemy EMP Detected (Reset),0
+1|Initial Money,0
+1|Player is USA,0
+1|Player is China/Boss,0
+1|Player is GLA,0
+2|DGM Palace Garrison 1,0
+2|DGM Palace Garrison 2,0
+2|Outpost 1 Destroyed,0
+2|Outpost 2 Destroyed,0
+2|3 Superweapons,0
+2|Entering Base Too Early 1,0
+2|Entering Base Too Early 2,0
+2|GLA Jarmen Hunt,0
+2|GLA Jarmen Snipe,0
+2|GLA Jarmen Retreat,0
+2|GLA Jarmen Rehunt,0
+2|Grant Initial Science and Money,0
+2|AI Upgrades,0
+2|AI Upgrades Oupost 1,0
+2|AI Upgrades Oupost 2,0
+2|Remove Outpost Market,0
+2|DGM Build Conditions Setup,0
+2|AI TIER 1 Timer,0
+2|AI TIER 2 Timer,0
+2|AI TIER 3 Timer,0
+2|AI TIER 4 Timer,0
+2|Just Build,0
+2|AI TIER 1 Build,0
+2|AI TIER 2 Build,0
+2|AI TIER 3 Build,0
+2|AI TIER 4 Build,0
+2|DGM Generals' Powers Setup,0
+2|Grant Rebel Ambush,0
+2|Grant Sneak Attack,0
+2|Grant Anthrax Bomb,0
+2|Fire Rebel Ambush,0
+2|Fire Sneak Attack,0
+2|Fire Anthrax Bomb,0
+2|GLA Center Attack,0
+2|GLA Flank Attack,0
+2|GLA Backdoor Attack,0
+2|GLA Demo Bikes Attack,0
+2|GLA Technical Center Attack,0
+2|GLA Technical Flank Attack,0
+2|GLA Technical Backdoor Attack,0
+2|GLA Battlebus Center Attack ,0
+2|GLA Battlebus Flank Attack ,0
+2|GLA Battlebus Backdoor Attack,0
+2|GLA Center Attack Seq.,0
+2|GLA Flank Attack Seq.,0
+2|GLA Backdoor Attack Seq.,0
+2|GLA Demo Bikes Attack Seq.,0
+2|GLA Technical Center Attack Seq.,0
+2|GLA Technical Flank Attack Seq.,0
+2|GLA Technical Backdoor Attack Seq.,0
+2|GLA Battlebus Center Attack Seq.,0
+2|GLA Battlebus Flank Attack Seq.,0
+2|GLA Battlebus Backdoor Attack Seq.,0
+2|GLA Just Hunt,0
+2|GLA Tunnel Network,0
+2|DGM Scud Storm Setup,0
+2|DGM Scud Storm Timer,0
+2|DGM Scud Storms are buildable,0
+2|DGM Fire Scud Storm,0
+2|GLA Bomb Truck Center Attack,0
+2|GLA Bomb Truck Flank Attack,0
+2|GLA Bomb Truck Backdoor Attack,0
+2|GLA Bomb Truck Center Attack Seq.,0
+2|GLA Bomb Truck Flank Attack Seq.,0
+2|GLA Bomb Truck Backdoor Attack Seq.,0
+2|Demo Storage Facility Destruction,0
+2|Demo Storage Facility Dies too Early,0
+2|DGM Guard Team 1,0
+2|DGM Guard Team 2,0
+2|DGM Guard Team 3,0
+2|DGM Guard Team 4,0
+2|DGM Guard Team 5,0
+2|DGM Guard Team 6,0
+2|DGM Guard Team 7,0
+2|DGM Guard Team 8,0
+2|DGM Guard Team 9,0
+2|DGM Guard Team 10,0
+2|DGM Guard Team 11,0
+2|DGM Guard Team 12,0
+2|!Drop Effect Volume,0
+2|Raise Effect Volume,0
+2|Set Counters And Flags,0
+2|VO - EscalationTimer,0
+2|Attack Timer,0
+2|Attack 1,0
+2|Attack 2,0
+2|Attack 3,0
+2|Attack 4,0
+2|Attack 5,0
+2|Attack 6,0
+2|Attack 7,0
+2|Attack 8,0
+2|Attack 9,0
+2|Attack 10,0
+2|Attack 11,0
+2|Attack 12,0
+2|Attack 13,0
+2|Filler Enable,0
+2|Filler Timer,0
+2|Reset Filler,0
+2|Filler 1,0
+2|Filler 2,0
+2|Filler 3,0
+2|Filler 4,0
+2|Filler 5,0
+2|Filler 6,0
+2|Filler 7,0
+2|Filler 8,0
+2|Filler 9,0
+2|Filler 10,0
+2|Filler 11,0
+2|Filler 12,0
+2|Filler 13,0
+2|Filler 14,0
+2|Filler 15,0
+2|Filler 16,0
+2|Filler 17,0
+2|General Destroys Player's Tech Building,0
+2|General Destroys Player's Barracks,0
+2|General Destroys Player's War Factory,0
+2|General Destroys Player's Airfield,0
+2|General Destroys Player's Base Defenses,0
+2|General Destroys Player's Command Center,0
+2|General Destroys Player's Buildings (Setup),0
+2|General Destroys Player's Buildings (Reset),0
+2|General Destroys Player's Buildings,0
+2|Player Destroys General's Tech Building,0
+2|Player Destroys General's Barracks,0
+2|Player Destroys General's War Factory,0
+2|Player Destroys General's Airfield,0
+2|Player Destroys General's Base Defenses,0
+2|Player Destroys General's Buildings (Setup),0
+2|Player Destroys Generals's Buildings (Reset),0
+2|Player Destroys General's Buildings,0
+2|Player Destroyed General's Command Center,0
+2|Player Destroyed General's MIGS (Setup),0
+2|Player Destroyed General's MIGS (Reset),0
+2|Player Destroyed General's MIGS,0
+2|Player Kills Generals's Infantry (Setup),0
+2|Player Destroys Generals's Vehicles (Setup),0
+2|Player Kills Generals's Infantry (Reset),0
+2|Player Destroys Generals's Vehicles (Reset),0
+2|Player Destroys General's Vehicles,0
+2|Player Kills General's Infantry,0
+2|Player Owns Oil Derrick,0
+2|Player Owns AP,0
+2|Player Owns an Oil Refinery,0
+2|Player Entering General's Base 1,0
+2|Player Entering General's Base 2,0
+2|Player Enters General's Base,0
+2|Player Enters General's Trapfield,0
+2|Player Enter's Main Base Closer (Enable),0
+2|Player Enters General's Flank,0
+2|Player Enters General's Backdoor,0
+2|Player Enters General's Frontdoor,0
+2|Enemy Enters Player's Base Close,0
+2|Enemy Enters Player's Base Close 2,0
+2|Enemy Enters Player's Base,0
+2|Player Enters General's Reasources,0
+2|Player Enters General's DSF,0
+2|Player Runs out of power,0
+2|Player Runs out of power (Timer),0
+2|Player Runs out of power 2,0
+2|Player Runs out of Supplies,0
+2|General Runs out of Supplies,0
+2|Player Builds A Scud Storm,0
+2|Player Builds A Nuke Silo,0
+2|Player Builds A Particle Cannon,0
+2|Player Builds Many Base Defenses,0
+2|Player Builds Many Tanks,0
+2|Player Builds Many Planes,0
+2|Player Builds Many Infantry,0
+2|Player Builds Many Buildings,0
+2|Player Fires Scud/Tomahawk Storm,0
+2|Player Fires Nuke/Cruise Missile,0
+2|Player Fires Particle Cannon,0
+2|Player Garrisons A building,0
+2|Player Trains Colonel Burton,0
+2|Player Trains Black Lotus,0
+2|Player Trains Jarmen Kell,0
+2|Player Builds an Airfield,0
+2|Player Builds a War Factory,0
+2|Player Builds a Barracks,0
+2|Player Selling Buildings,0
+2|Player is Beating General 1,0
+2|Player is Beating General 2,0
+2|Player is Beating General 3,0
+2|Player is Beating General 4,0
+2|General is Beating Player 1,0
+2|General is Beating Player 2,0
+2|General is Beating Player 3,0
+2|General is Beating Player 4,0
+3|Dead Vehicles,0
+5|DG01 Fire Scud Storm,0
+5|DemoGenO1 Attack,0
+5|DemoGenO1 Bomb Truck Attack,0
+5|DemoGenO1 Techincal Attack,0
+5|DemoGenO1 Attack Seq.,0
+5|DemoGenO1 Techincal Attack Seq.,0
+5|DemoGenO1 Guards,0
+5|DemoGenO1 Guards 2,0
+5|DemoGenO1 Guards 3,0
+5|DemoGenO1 Guards 4,0
+6|DemoGenO2 Attack,0
+6|DemoGenO2 Technical Attack,0
+6|DemoGenO2 Attack Seq.,0
+6|DemoGenO2 Technical Attack Seq.,0

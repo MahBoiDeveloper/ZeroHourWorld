@@ -27,7 +27,7 @@
 * [USA 03 - Operation Beehive](https://www.cnclabs.com/downloads/details/2854/)
 * [USA 07 - Total Justice (Updated version)](https://www.cnclabs.com/downloads/details/2561/)
 * [Generals Zero hour USA Missions 01 Cocktail party edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/generals-zero-hour-usa-missions-01-cocktail-party-edition)
-* [USA01 Cocktail party edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/usa01-cocktail-party-edition)
+* [General Juhziz Challenge](https://www.cnclabs.com/downloads/details/3106/)
 
 </details>
 
@@ -70,6 +70,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] USA ZH 01 Reversed - Cocktail Party Edition     | Mission        | N/A     | Udr                                  | [#254](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/254)  |
 | [ZH] USA 01 - Cocktail Party Edition (Locked)        | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
 | [ZH] USA 01 - Cocktail Party Edition (Unlocked)      | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
+| [ZH] General Ironside VS General Juhziz              | Mission        | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] General Leang VS General Juhziz                 | Mission        | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] General Deathstrike VS General Juhziz           | Mission        | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
  
 ## License
 
