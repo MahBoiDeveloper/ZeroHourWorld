@@ -47,7 +47,7 @@ This table contains information about all custom maps, which has been added to t
 
 | Map Name                                             | Game Mode      | Version | Author(s)                            | Related Issue                                                        |
 | ---------------------------------------------------- | -------------- | ------- | ------------------------------------ | -------------------------------------------------------------------- |
-| [ZH] USA Coop Challenge                              | Cooperative    | 1.2     | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
+| [ZH] USA Coop Challenge                              | Coop Challenge | 1.2     | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
 | [ZH] Extravaganza GLA 01                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 | [ZH] Extravaganza GLA 02                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
 | [ZH] Extravaganza GLA 03                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
@@ -59,9 +59,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Revenge Of Jarmen Kell part 1                   | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
 | [ZH] US Secret Lab                                   | Mission        | N/A     | -OAS-                                | [#23](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/23)    |
 | [ZH] Dreamlands                                      | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
-| [ZH] USA vs Toxin Challenge - Cocktail Party Edition | Mission        | N/A     | Udr                                  | [#403](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/403)  |
+| [ZH] USA vs Toxin Challenge - Cocktail Party Edition | Challenge      | N/A     | Udr                                  | [#403](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/403)  |
 | [ZH] China 04 Last Escape - Hero Mission             | Mission        | N/A     | Udr                                  | [#16](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/16)    |
-| [ZH] Christmas Themed Shell Map                      | Mission        | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
+| [ZH] Christmas Themed Shell Map                      | Shell Map      | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
 | [ZH] China 01 The Beginning                          | Mission        | N/A     | lhdlhd                               | [#216](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/216)  |
 | [ZH] USA 01 Operation Uprise                         | Mission        | N/A     | Unicas                               | [#202](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/202)  |
 | [ZH] USA 02 Operation United Unions                  | Mission        | N/A     | Unicas                               | [#201](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/201)  |
@@ -70,9 +70,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] USA ZH 01 Reversed - Cocktail Party Edition     | Mission        | N/A     | Udr                                  | [#254](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/254)  |
 | [ZH] USA 01 - Cocktail Party Edition (Locked)        | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
 | [ZH] USA 01 - Cocktail Party Edition (Unlocked)      | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
-| [ZH] General Ironside VS General Juhziz              | Mission        | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
-| [ZH] General Leang VS General Juhziz                 | Mission        | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
-| [ZH] General Deathstrike VS General Juhziz           | Mission        | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] General Ironside VS General Juhziz              | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] General Leang VS General Juhziz                 | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] General Deathstrike VS General Juhziz           | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
  
 ## License
 
