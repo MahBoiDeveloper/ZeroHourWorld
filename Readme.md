@@ -28,6 +28,7 @@
 * [USA 07 - Total Justice (Updated version)](https://www.cnclabs.com/downloads/details/2561/)
 * [Generals Zero hour USA Missions 01 Cocktail party edition](https://www.moddb.com/games/cc-generals-zero-hour/addons/generals-zero-hour-usa-missions-01-cocktail-party-edition)
 * [General Juhziz Challenge](https://www.cnclabs.com/downloads/details/3106/)
+* [Operation Conquer the Empire](https://www.cnclabs.com/downloads/details/3104/)
 
 </details>
 
@@ -73,6 +74,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] General Ironside VS General Juhziz              | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
 | [ZH] General Leang VS General Juhziz                 | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
 | [ZH] General Deathstrike VS General Juhziz           | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] Operation Conquer The Empire                    | Mission        | N/A     | General Daniel                       | [#41](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/41)    |
  
 ## License
 
