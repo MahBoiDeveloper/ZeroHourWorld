@@ -1,0 +1,75 @@
+MSNSTR:YD:CADN:Start_created_by
+	"Created by Yuri's Director in 2007. Updated 2023."
+END
+
+MSNSTR:YD:CADN:Start_cinematic
+	"The Commandos are being dropped now"
+END
+
+MSNSTR:YD:CADN:MoveToBase
+	"Get the commandos to this base in the north to gain control of it."
+END
+
+MSNSTR:YD:CADN:MoveToCityCenter
+	"Move quickly, our assault on Beijing begins soon\nand we'll need a clear path for our air support."
+END
+
+MSNSTR:YD:CADN:MoveToGatlingGuns
+	"We need to clear all AA in the area to open an air corridor for our assault on Beijing."
+END
+
+MSNSTR:YD:CADN:MoveToTanks
+	"The Chinese have a heavy tank battalion on standby\nwhich will likely attack when we link up with our armor."
+END
+
+MSNSTR:YD:CADN:USAGiveBase
+	"This is our secret base: Use it well and don't ask how it got here."
+END
+
+MSNSTR:YD:CADN:Broken_nuke_launcher
+	"Nuke Cannon Driver: Idk, it just started sparking and I jumped out."
+END
+
+MSNSTR:YD:CADN:Nuke_fire_truck
+	"Fire Truck Driver: Huh... Guess it's fixed. Let's go eat."
+END
+
+MSNSTR:YD:CADN:Nuke_fire_truck_explodes
+	"Fire Truck Driver: WTF!? LET'S GET OUT OF HERE!"
+END
+
+MSNSTR:YD:CADN:CIASendHelp
+	"CIA Officer: We found some troops willing to accept bribes."
+END
+
+MSNSTR:YD:CADN:ControlUSATanks
+	"Use these tanks to destroy the advancing Chinese tank battalion."
+END
+
+SCRIPT:MSNSTR:YD:CADN:Timer_ChinaTanksBeginAttack
+	"Chinese tanks will attack in: "
+END
+
+MSNSTR:YD:CADN:BeginAttackingUSATanks
+	"The Chinese Tank General is sending his tanks to attack ours. Prepare yourself."
+END
+
+MSNSTR:YD:CADN:AttackUSABase
+	"The Chinese tank battalion is attacking our formerly-secret base!"
+END
+
+MSNSTR:YD:CADN:FinishOff
+	"Now finish off the Chinese gatling cannons and their remaining structures so we can go home"
+END
+
+MSNSTR:YD:CADN:Reminder
+	"Finish off the Chinese air defenses and structures."
+END
+
+MSNSTR:YD:CADN:Complete
+	"Congratulations, General. That air corridor will save countless American lives\nduring our assault on Beijing."
+END
+
+MSNSTR:YD:CADN:Failed
+	"\"Our forces in the area failed, reroute the air armada.\"\n\"It's too late, they're already in the area.\""
+END
