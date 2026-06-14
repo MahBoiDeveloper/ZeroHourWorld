@@ -30,6 +30,7 @@
 * [General Juhziz Challenge](https://www.cnclabs.com/downloads/details/3106/)
 * [Operation Conquer the Empire](https://www.cnclabs.com/downloads/details/3104/)
 * [Chinese Air Defense Network 2023](https://www.cnclabs.com/downloads/details/3115/)
+* [General Granger Challenge](https://www.cnclabs.com/downloads/details/3125/)
 
 </details>
 
@@ -77,6 +78,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] General Deathstrike VS General Juhziz           | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
 | [ZH] Operation Conquer The Empire                    | Mission        | N/A     | General Daniel                       | [#41](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/41)    |
 | [ZH] China Air Defense Network                       | Mission        | N/A     | yuris-director                       | [#34](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/34)    |
+| [ZH] General Deathstrike VS General Granger          | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
  
 ## License
 
