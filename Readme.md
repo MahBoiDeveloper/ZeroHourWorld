@@ -79,6 +79,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Operation Conquer The Empire                    | Mission        | N/A     | General Daniel                       | [#41](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/41)    |
 | [ZH] China Air Defense Network                       | Mission        | N/A     | yuris-director                       | [#34](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/34)    |
 | [ZH] General Deathstrike VS General Granger          | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
+| [ZH] General Ironside VS General Granger             | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
  
 ## License
 
