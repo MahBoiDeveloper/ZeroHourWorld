@@ -1,0 +1,460 @@
+CONTROLBAR:Challenge_Briefings
+"CHINA BOSS GEN BRIEFINGS START HERE"
+END
+
+MSNSTR:CRESTY:IVSLC:DEFEATED
+"You've been defeated by General Leang!"
+END
+
+MSNSTR:CRESTY:IVSLC:VICTORIOUS
+"Congratulations, you've defeated General Leang!"
+END
+
+MSNSTR:CRESTY:IVSLC:LOCATION
+"Base Dragon, Lanzhou, China
+ \n The Tigress' Wrath"
+END
+
+MSNSTR:CRESTY:IVSLC:OBJECTIVE
+"INCOMING TRANSMISSION:
+ \n Destroying or Capturing chinese outposts will \n disable its incoming reinforcenmets perspectively."
+END
+
+MSNSTR:CRESTY:IVSLC:SEPCIAL_REINFORCEMENTS1
+"WARNING:
+ \n The 1st horde has been unleashed, prepare your anti-personnel defenses."
+END
+
+MSNSTR:CRESTY:IVSLC:SEPCIAL_REINFORCEMENTS2
+"WARNING:
+ \n The 2nd horde has been unleashed, prepare your anti-armor defenses."
+END
+
+MSNSTR:CRESTY:IVSLC:SEPCIAL_REINFORCEMENTS3
+"WARNING:
+ \n The 3rd horde has been unleashed, prepare your anti-air defenses."
+END
+
+MSNSTR:CRESTY:IVSLC:SEPCIAL_REINFORCEMENTSEARLY
+"WARNING:
+ \n You have escalated the enemy's tensions, 
+ \n all hordes will be unleashed."
+END
+
+MSNSTR:CRESTY:IVSLC:SEPCIAL_REINFORCEMENTSEARLY2
+"WARNING:
+ \n You have escalated the enemy's tensions, 
+ \n the remaining hordes will be unleashed."
+END
+
+MSNSTR:CRESTY:IVSLC:SEPCIAL_REINFORCEMENTSEARLY3
+"WARNING:
+ \n You have escalated the enemy's tensions, 
+ \n the last horde will be unleashed."
+END
+
+MSNSTR:CRESTY:IVSLC:CHINESEOUTPOSTDESTROYEDFLANK
+"Enemy flank reinforcement communications has been jammed"
+END
+
+MSNSTR:CRESTY:IVSLC:CHINESEOUTPOSTDESTROYEDCENTER
+"Enemy center reinforcement communications has been jammed"
+END
+
+MSNSTR:CRESTY:IVSLC:CHINESEOUTPOSTDESTROYEDBACKDOOR
+"Enemy back door reinforcement communications has been jammed"
+END
+
+SCRIPT:MSNSTR:CRESTY:IVSLC:1stHordeTimer
+"1st horde will be unleashed in : "
+End
+
+SCRIPT:MSNSTR:CRESTY:IVSLC:2ndHordeTimer
+"2nd horde will be unleashed in : "
+End
+
+SCRIPT:MSNSTR:CRESTY:IVSLC:3rdHordeTimer
+"3rd horde will be unleashed in : "
+End
+
+CONTROLBAR:USA_Boss_Strings
+"USA BOSS STRINGS START HERE"
+END
+
+CONTROLBAR:ToolTipUSABuildCrusaderUpdated
+"USA's main battle tank. Crusader tanks are well-armored and armed with a powerful cannon. Can be upgraded with composite armor to increase their survivability. \n \nStrong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
+END
+
+CONTROLBAR:ToolTipUSABuildPaladinUpdated
+"USA's Advanced Prototype Tank. Paladin tanks are boasted with their armor and equipped with jet-assisted shells to increase their firepower. In addition, Paladin tanks are equipped with a powerful point defense laser that can be used against enemy missiles and infantry. Can be upgraded with composite armor to further increase their survivability.  \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft"
+END
+
+ThingTemplate:SupW_AmericaVehicleMechanic
+"Mechanic"
+End
+
+CONTROLBAR:SupW_ConstructAmericaVehicleMechanic
+"&Mechanic"
+END
+
+CONTROLBAR:SupW_ToolTipUSABuildMechanic
+"Repairs vehicles within its vicinity and reconstructs structures with its advanced tools."
+END
+
+CONTROLBAR:Lazr_ToolTipUSABuildPaladin
+"USA's Modified Advanced Prototype, the Laser Paladin uses a laser to destroy missiles and enemy infantry. Arms with a powerful laser beam that can deal more damage overtime against ground targets. \n \n Strong vs. tanks, buildings, and rockets \n Weak vs. aircraft
+\n \n Power Required: 1"
+END
+
+CONTROLBAR:Lazr_ConstructAmericaVehicleComanche
+"&Laser Comanche"
+END
+
+CONTROLBAR:Lazr_ConstructAmericaInfantryColonelBurton
+"Laser Colonel &Burton"
+END
+
+CONTROLBAR:Lazr_ConstructAmericaInfantryRanger
+"Laser R&anger"
+END
+
+CONTROLBAR:ToolTipUSABuildRangerUpdated
+"America's basic infantry with the best training. Rangers are equipped with an M16 type assault rifle and body armor. They can clear garrison buildings or groups of infantry with flash-bang grenades. \n \nStrong vs. infantry \n Weak vs. light vehicles"
+END
+
+CONTROLBAR:Lazr_ToolTipUSABuildRanger
+"America's basic infantry with the best training. Laser Rangers are equipped with a laser assault rifle that can vaporize armor. They can clear garrison buildings or groups of infantry with flash-bang grenades. \n \nStrong vs. infantry, buildings \n Weak vs. aircraft"
+END
+
+CONTROLBAR:Lazr_ToolTipUSABuildColonelBurton
+"USA's famous commando. Colonel Burton is Camouflaged. Reveals himself when he shoots or plants a bomb. He is armed with the more powerful OICW burst weapon. \n \n Build Limit: 1 \n Strong vs. Infantry \n Weak vs. Scouts, Aircraft"
+END
+
+CONTROLBAR:Lazr_ToolTipUSABuildComanche
+"USA's primary attack helicopter: the Comanche. Fires powerful lasers and cannon. Re-arms in the air. \n \n Strong vs. tanks, light vehicles, infantry \n Weak vs. jet-fighters, missile-armed infantry, anti-air defenses"
+END
+
+GUI:Lazr_SpecialAbilityLaserGuidedHowitzer
+"Tomahawk Storm"
+END
+
+GUI:SupW_CruiseMissile
+"Cruise Missile"
+END
+
+CONTROLBAR:ConstructAmericaTankLaserPaladin
+"Laser &Paladin"
+END
+
+CONTROLBAR:ConstructAmericaInfantryCIAOfficer
+"CIA &Officer"
+END
+
+CONTROLBAR:ConstructAmericaTankAdvancedMicrowaveTank
+"Advanced &Microwave Tank"
+END
+
+CONTROLBAR:ToolTipUSABuildAdvancedMicrowave
+"USA's support tank that can disable buildings, vehicles, clears garrison buildings and prevents enemy infantry firing weapons when inside bunkers with a microwave beam. The heat emitter is lethal to enemy infantry when close. \n \n Strong vs. infantry, vehicles, buildings \n Weak vs. missile-armed infantry, aircraft"
+END
+
+CONTROLBAR:ToolTipUSABuildCIAOfficer
+"A well train CIA Agents, they are armed with an advanced laser pistol that ignores armor. Equips with time and remote demo charges. \n \n Strong vs. infantry, vehicles, buildings \n Weak vs. snipers, aircraft"
+END
+
+CONTROLBAR:TooltipUSAUpgradeCountermeasures2
+"All american aircraft gain extra armor and capable of evading 50% of missiles fired at them using flares. The flares are ineffective against anti-air small arms, lasers and gatting bullets"
+END
+
+CONTROLBAR:TooltipUSABoss_HypersonicAurora
+"USA's light bomber. Hypersonic attack makes Aurora immune to enemy fire. After attack, speed is reduced to 50%. \n Equipped with a Point Defense Laser. \n \n Strong vs. buildings \n Weak vs. fighters, anti-air weapon systems"
+END
+
+CONTROLBAR:ToolTipUSABoss_BuildHypersonicFuelAirAurora
+"USA's light bomber. Hypersonic attack makes Aurora immune to enemy fire while dropping a small Fuel-Air Bomb. After attack, speed is reduced to 50%. \n Equipped with a Point Defense Laser. \n \n Strong vs. buildings \n Weak vs. fighters, anti-air weapon systems"
+END
+
+CONTROLBAR:ToolTipUSABoss_CommandBarSwitch
+"Switch Command Bar"
+END
+
+CONTROLBAR:USABoss_SuperweaponsAndBaseDefensesButton
+"Switch the command bar to build superweapons."
+END
+
+CONTROLBAR:USABoss_USAStructresButton
+"Switch the command bar to build USA structures and base defenses."
+END
+
+CONTROLBAR:AmericaTomahawkStorm
+"&Tomahawk Storm"
+END
+
+CONTROLBAR:Lazr_FireAmericaLaserCannon
+"&Laser Cannon"
+END
+
+CONTROLBAR:Lazr_FireAmericaLaserCannonShortcut
+"Laser Cannon"
+END
+
+GUI:Lazr_LaserCannon
+"Laser Uplink Cannon"
+END
+
+CONTROLBAR:ConstructAmericaLaserCannon
+"Laser &Cannon"
+END
+
+CONTROLBAR:ToolTipUSABuildLaserCannon
+"Fires a laser beam anywhere on the map \n \n Power Required: 10"
+END
+
+CONTROLBAR:Lazr_ToolTipUSABuildLaserCannon2
+"Fires a red laser beam anywhere on the map"
+END
+
+CONTROLBAR:SupW_ConstructAmericaParticleCannonUplink
+"Particle Cannon (&Pink)"
+END
+
+CONTROLBAR:AirF_ConstructAmericaParticleCannonUplink
+"Particle Cannon (C&yan)"
+END
+
+CONTROLBAR:ConstructAmericaParticleCannonUplinkNew
+"Particle Cannon (&Blue)"
+END
+
+
+CONTROLBAR:SupW_ToolTipUSABuildParticleCannon
+"Fires a pink particle beam anywhere on the map \n \n Power Required: 10"
+END
+
+CONTROLBAR:AirF_ToolTipUSABuildParticleCannon
+"Fires a cyan particle beam anywhere on the map \n \n Power Required: 10"
+END
+
+CONTROLBAR:ToolTipUSABuildParticleCannonNew
+"Fires a blue particle beam anywhere on the map \n \n Power Required: 10"
+END
+
+CONTROLBAR:GLA_Boss_Strings
+"GLA BOSS STRINGS START HERE"
+END
+
+CONTROLBAR:ToolTipAmericaBuildTomahawkStorm2
+"Launches a volley of Tomahawk missiles at a target location \n \n Power Required: 10 \n \n Countdown Timer: 5:00."
+END
+
+SCRIPT:GLABoss_ToxinMissileTimer
+"Camouflauged Toxin Missle Launch In:"
+End
+
+objective
+"INCOMING TRANSMISSION \n Destroying enemy outposts will be easier to deal the enemy's main base."
+END
+
+
+CONTROLBAR:GLABoss_ToolTipGLABuildCombatBikeTerrorist
+"Fast and versatile. Comes with a toxin terrorist. \n \n Strong vs. buildings, infantry \n Weak vs. aircraft"
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildTunnelNetwork
+"Base defense and underground tunnel. Fires a stream of toxin, starts as camouflaged and arms with demolitions ability. Units can enter the Tunnel Network and exit at any other Tunnel Network."
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildTerrorist
+"Suicide soldier explodes in a cloud of toxin and demolition explosives. \n \n Strong vs. tanks, buildings \n Weak vs. infantry, light vehicles, aircraft"
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildToxinRebel
+"Fires a stream of toxin. Arms with booby traps, Demo Charges and Demolitions Ability. Starts as camouflaged. \n \n Strong vs. infantry, buildings \n Weak vs. tanks, light vehicles"
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildBombTruck
+"A suicide vehicle that can disguise to look like any vehicle friend or foe. Arms with Demolition Explosive Bomb and Bio Bomb either Anthrax Beta or Gamma. \n \n Strong vs. infantry, vehicles, buildings \n Weak vs. scouts, aircraft"
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildScudStorm
+"A superweapon that launches 9 volley of SCUD missiles at a target location. The
+scud missiles are fueled with more powerful explosives and toxins combined that
+can destroy an enemy superweapon in a single strike
+Can be camouflaged with the camo-netting upgrade. \n \n Countdown Timer: 5:00"
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildStingerSite
+"GLA's Anti-air and anti-tank base defense. Comes with 3 Toxin Stinger Soldiers that can launch deadly toxins against both ground and air tagets. Starts as camouflaged and can be upgraded with demolitions ablity."
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildStingerSoldier
+"Low fire rate and long ranged Stinger Soldier with toxin homing rockets that can destroy a ballistic missile in large numbers. Starts as camouflaged. \n \n Strong vs. tanks, vehicles, aircaft \n Weak vs. snipers, artillery shells"
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildHijacker
+"Hijackers are thieves that can capture any enemy vehicle. Camouflaged even when moving. \n \n Strong vs. tanks, vehicles \n Weak vs. infantry, scouts"
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildCommandCenter
+"Commands special GLA powers. Trains Workers for constructing buildings or gathering supplies from a supply stash. \n \n Can be upgraded with camo-netting."
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildSupplyStash
+"Collects supplies \n \n Can be upgraded with camo-netting. When upgraded, workers that gather supplies will be camouflaged."
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildBarracks
+"Trains GLA soldiers \n \n Can be upgraded with camo-netting."
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildArmsDealer
+"Builds various GLA vehicles \n \n Can be upgraded with camo-netting."
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildPalace
+"Holds important GLA technologies and upgrades. Can be garrisoned up to 5 troops as a bunker. \n \n Gives access to advanced GLA arsenal \n \n Can be upgraded with camo-netting."
+END
+
+CONTROLBAR:Slth_ToolTipGLABuildBlackMarket
+"Holds important GLA technologies and upgrades. Provides free supplies to the GLA player by selling resources inside. \n \n Can be upgraded with camo-netting."
+END
+
+CONTROLBAR:GLABoss_ConstructGLAStingerSoldier
+"Stinger S&oldier"
+END
+
+GUI:Slth_SuperweaponGPSScrambler
+"Advanced GPS Scrambler"
+END
+
+CONTROLBAR:Slth_TooltipFireGPSScrambler
+"The area of effect can be increased by leveling up. \n \nLevel 1: 10% \n Level 2: 20% \n Level 3: 30% \n  Countdown Timer: 3:00"
+END
+
+CONTROLBAR:ToolTipGLABuildSCUDLauncherUpdated
+"GLA's heavy artillery. While slow-moving, the scud launcher is equipped with a scud missile that can launch at a target location. The missiles are equipped with either explosive or anthrax warheads. \n \n Strong vs. ground targets \n Weak vs. aircraft"
+END
+
+CONTROLBAR:ToolTipGLABuildScorpion
+"GLA's light tank. Scorpions are sligthly faster and cost-effective. It can be upgraded with scorpion rockets and toxin shells to increase their firepower and effectiveness against ground targets \n \n Strong vs. light vehicles \n Weak vs. anti-tank soldiers, aircraft"
+END
+
+CONTROLBAR:Chem_ConstructGLAInfantryRPGTrooper
+"Toxin RP&G Trooper"
+END
+
+CONTROLBAR:GLABoss_ToolTipGLABuildRPGTrooperUpdated
+"RPG Troopers are armed with with toxin rocket launchers that can deal more damage against enemy vehicles and can engage air targets. The missiles will leave a small puddle of toxin on the ground to slightly increase their effectiveness against enemy-personell. \n \n Strong vs. tanks, aircraft \n Weak vs. snipers"
+END
+
+
+CONTROLBAR:China_Boss_Strings
+"CHINA BOSS STRINGS START HERE"
+END
+
+GUI:SupW_SuperweaponParticleUplinkCannon
+"Advanced Nuclear Missile"
+END
+
+
+CONTROLBAR:Boss_TooltipChinaUpgradeFanaticism
+"Additional +25% Horde bonus for Red Guards, Minigunners, Nuke Hunters and Nuclear Battlemasters."
+END
+
+CONTROLBAR:Boss_ToolTipChinaBuildECM
+"China's support vehicle that disables enemy vehicles and deflects missile prohectiles.\n \n Strong vs. tanks, vehicles \n Weak vs. bullet armed infantry, artillery shells, aircraft"
+END
+
+CONTROLBAR:ToolTipChinaBuildNukeEmperor
+"A powerful version of the Overlord, the Emperor is equipped with a speaker tower. Can be upgraded with a gattling cannon and advanced nuclear upgrades. Arms with nuclear radiation shells.\n \nStrong vs. vehicles, buildings \n Weak vs. rockets, aircraft"
+END
+
+CONTROLBAR:Boss_ToolTipChinaBuildListeningOutpost
+"China's Scout/Transport vehicle. Holds 8 infantry units. Detects stealth units. Comes with 3 Nuke Hunters and a speaker tower.\n \n Strong vs. buildings \n Weak vs. tanks, aircraft"
+END
+
+CONTROLBAR:Boss_ToolTipChinaBuildBattlemaster
+"China's main battle tank that has already installed with uranium shells and atomic reactors, it can be upgrade further with advanced nuclear upgrades. Arms with nuclear radiation shells.\n \n Gains Horde bonus when in groups of 5 or more. \n \n Strong vs. vehicles, buildings \n Weak vs. aircraft, missile armed infantry"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildNukeHunter
+"China's anti-tank infantry that is armed with radiation rocket launchers.\n \nSpecial Nuclear TNT attack. \n \n Gains Horde bonus when in groups of 5 or more. Arms with radiation rockets.\n \n Strong vs. infantry, tanks \n Weak vs. snipers"
+END
+
+CONTROLBAR:Boss_ToolTipChinaBuildNuclearSuperHacker
+"Can disable enemy buildings and vehicles with a computer virus, equips with a nuclear chain reaction suitcase bombs and can hack into the Internet to steal money. Camouflaged unless using an ability except Hack Internet. \n \n Strong vs. buildings, vehicles \n Weak vs. infantry, scouts"
+END
+
+CONTROLBAR:ChinaBoss_ConstructChinaInfantryHacker
+"Nuclear Super H&acker"
+END
+
+CONTROLBAR:Boss_ConstructChinaTankBattleMaster
+"Nuclear &Battlemaster"
+END
+
+OBJECT:ChinaBoss_ChinaTankBattleMaster
+"Nuclear Battlemaster"
+End
+
+CONTROLBAR:Boss_ConstructChinaTankEmperor
+"Nuclear Emperor &Overlord"
+END
+
+CONTROLBAR:Nuke_ConstructChinaTankOverlord
+"Nuclear &Overlord"
+END
+
+OBJECT:ChinaBoss_ChinaTankEmperor
+"Nuclear Emperor"
+END
+
+
+ThingTemplate:ChinaBoss_ChinaTankEmperor
+"Nuclear Emperor"
+END
+
+CONTROLBAR:Nuke_ConstructChinaJetMig
+"&Nuclear Mig"
+END
+
+CONTROLBAR:Boss_ConstructChinaJetMig
+"Napalm Mi&g"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildOverlord
+"China's heavy battle tank that is armed with double large cannons and it is already installed with uranium shells and atomic reactors, can be upgraded further with advanced nuclear upgrades. Arms with radiation shells.\n \nStrong vs. vehicles, buildings \n Weak vs. rockets, aircraft"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildMig
+"China's Jet-Fighters that can fire 2 nuke missiles. \n \n Strong vs. tanks, light vehicles \n Weak vs. missile armed infantry, anti-air defenses"
+END
+
+ThingTemplate:ChinaTankOverlord
+"Nuclear Emperor"
+End
+
+ThingTemplate:Nuke_ChinaTankOverlord
+"Nuclear Overlord"
+End
+
+CONTROLBAR:BayonetDescription
+"Use the bayonet on the selected enemy soldier for quick neutralization."
+END
+
+CONTROLBAR:Nuke_ConstructChinaNuclearMissileLauncher
+"Advanced Nuclear &Missile"
+END
+
+CONTROLBAR:Nuke_ToolTipChinaBuildNuclearMissileLauncher
+"Launches a nuclear missile with more powerful nuclear warheads. Builds important and advanced Chinese upgrades \n \n Power Required: 10"
+END
+
+CONTROLBAR:TooltipUpgradeChinaNuclearTanks
+"Improves the speed for chinese battle tanks further"
+END
+
+CONTROLBAR:TooltipUpgradeChinaWGUraniumShellsUpdated
+"Increases the firepower for chinese battle tanks further by 25%"
+END
+

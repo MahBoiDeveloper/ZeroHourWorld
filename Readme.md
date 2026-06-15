@@ -31,6 +31,7 @@
 * [Operation Conquer the Empire](https://www.cnclabs.com/downloads/details/3104/)
 * [Chinese Air Defense Network 2023](https://www.cnclabs.com/downloads/details/3115/)
 * [General Granger Challenge](https://www.cnclabs.com/downloads/details/3125/)
+* [China Boss Challenge](https://www.cnclabs.com/downloads/details/3159/)
 
 </details>
 
@@ -81,6 +82,10 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] General Deathstrike VS General Granger          | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
 | [ZH] General Ironside VS General Granger             | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
 | [ZH] General Leang VS General Granger                | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
+| [ZH] General Ironside VS General Leang (Easy)        | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] General Ironside VS General Leang (Hard)        | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] General Ironside VS General Leang (Insane)      | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] General Ironside VS General Leang (Medium)      | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
  
 ## License
 
