@@ -32,6 +32,7 @@
 * [Chinese Air Defense Network 2023](https://www.cnclabs.com/downloads/details/3115/)
 * [General Granger Challenge](https://www.cnclabs.com/downloads/details/3125/)
 * [China Boss Challenge](https://www.cnclabs.com/downloads/details/3159/)
+* [Dragon's Journey Intro](https://www.cnclabs.com/downloads/details/3080/)
 
 </details>
 
@@ -86,6 +87,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] General Ironside VS General Leang (Hard)        | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
 | [ZH] General Ironside VS General Leang (Insane)      | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
 | [ZH] General Ironside VS General Leang (Medium)      | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] Dragon's Journey Intro                          | Mission        | N/A     | VeLoXiuS                             | [#54](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/54)    |
  
 ## License
 

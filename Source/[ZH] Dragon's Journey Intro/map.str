@@ -1,0 +1,47 @@
+SCRIPT:MSNSTR:VELOXIUS:DJI:Timer
+	"Time until Data fully erased"
+End
+
+SCRIPT:MSNSTR:VELOXIUS:DJI:IncomingTransmission
+"Hello there, you must be the new general here. We have a mission for you.
+The GLA in this area has started to show some suspicious activity after a long time inactivity and our intel informed they were saving all of their activity data on a radio tower.
+Your primary mission is to take over the GLA radio tower and find out what they're doing"
+End
+
+SCRIPT:MSNSTR:VELOXIUS:DJI:UN
+"Sorry to distrupt you general, our radio has recieved a strange signal that interrupt our communication device for couple of hours, so we have decided to find the source of the signal and it leads us here. We also decrypt a message just 2 minutes ago. It said they will erase all data from the radio station in 32 minutes from now.
+It seems like you don't have enough human resources who are knowledgeable in the field of technology, so let's work together"
+End
+
+MSNSTR:VELOXIUS:DJI:MainObjective
+"General, you must escort that hacker to the radio station 
+\nso we could collect the GLA activity data.
+\nProtect him at all cost"
+End
+
+SCRIPT:MSNSTR:VELOXIUS:DJI:Tower1
+"General, there's nothing here, even the tower has no power in it.
+Lets head back to the main base and leave one man to guard that tower"
+End
+
+SCRIPT:MSNSTR:VELOXIUS:DJI:Tower2f
+	"General, it seems we found another radio signal in the east not far from here, we thought there would definitely be something there"
+End
+
+SCRIPT:MSNSTR:VELOXIUS:DJI:Tower2o
+"General, we have found some clues related to what you have been searching.
+The GLA stored all of their data on a radio tower in the north, but we gotta hurry there's not much time left"
+End
+
+SCRIPT:MSNSTR:VELOXIUS:DJI:sting
+"General, the main headquarters has spotted several GLA artilery unit near the GLA entrance in the north. If you could destroy all of the gla anti air near them, our air support can show up in action"
+End
+
+MSNSTR:VELOXIUS:DJI:outrotech
+"5 Hours Earlier"
+End
+
+MSNSTR:VELOXIUS:DJI:Creator
+"Map was Created by VeLoXiuS
+\nHave fun"
+End
