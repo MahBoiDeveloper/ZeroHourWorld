@@ -1,0 +1,50 @@
+MSNSTR:VELOXIUS:DJI2:INTRO1
+	"7 Hours after the last mission"
+END
+
+MSNSTR:VELOXIUS:DJI2:TAOCAP
+	"3 Hours later\nCentral HQ Communication Team"
+END
+
+MSNSTR:VELOXIUS:DJI2:PRESENT
+	"1 day later\nFar away from Tao base"
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJI2:TEXT1
+"General, You have just witnessed the rebellion from General Tao.
+\nWe tried to communicate with him for hours but as you see
+\nhe refuse all kinds of communication, he turned off all of his communication device and lastly he killed our communication team."
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJI2:TEXT2
+"This is an Order from the Central HQ
+\n1.Destroy General Tao's entire base
+\n2.Destroy All spy outpost that was scattered around this area
+\n3.Capture General Tao's experimental nuclear reactor
+\n4.Capture ONE General Tao's Command Center
+\n5.Arrest General Tao.
+\n6.Don't Lose your main Command Center
+\nYou are alone in this mission General
+\nGood Luck General, You'll need it"
+END
+
+MSNSTR:VELOXIUS:DJI2:CREATOR
+"Map Created by VeLoXiuS
+\nFeel free to leave your feedback on my discord VeLoXius#1512
+\nAlso lots of thanks to C&C ZH World Builder Community for 
+\nhelping me making this map"
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJI2:RADAR
+"General our intel report that General Tao has a Ground Control Center located to the southwest of your base. It calls in reinforcement for Tao. The place is Heavily Guarded with tanks and anti air. Destroy it to stop his reinforcement to enter the battlefield"
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJI2:USASTRAT
+"General the strategy center automaticly send a reinforcement signal to a nearby US base. The US have sent you some Tanks and a sniper rifle for your infantry, they also gave you access to use their carpet bomber. 
+\nThe US will back off if you lose the strategy center so guard it well if you still want to have access to pathfinder and carpet bomb."
+END
+
+MSNSTR:VELOXIUS:DJI2:RADARDETECT
+"General we have found some tech building from our radar 
+\nCapture it for your own advantage"
+END
