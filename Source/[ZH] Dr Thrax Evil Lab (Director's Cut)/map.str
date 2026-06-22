@@ -1,0 +1,328 @@
+SCRIPT:MSNSTR:RB:DE:INFO
+	"BARTON:\nAmmunition ran out and I've managed to lose my equipment. Great..I need to find Lotos as soon as possible. I wonder if there are zombies around here?"
+END
+
+SCRIPT:MSNSTR:RB:DE:ARTILLERYDEATH
+	"BARTON:\nLong-range guns are disabled. I also reconfigured a certain security system for myself, but I don't see where it is exactly.."
+END
+
+SCRIPT:MSNSTR:RB:DE:ZOMBEE1
+	"BARTON:\nDamn, they're really here - gotta run!"
+END
+
+SCRIPT:MSNSTR:RB:DE:ZARZ1
+	"BARTON:\nThe Gates had unlocked. Although it doesn't specify which ones exactly, there's a hint of them being Yellow. Additional information tells that parts of CODE, which will be needed later, is scattered throughout Lab on the Floor. Would be a good idea to write them down whenever I see them."
+END
+
+SCRIPT:MSNSTR:RB:DE:REACTOR1
+	"BARTON:\nThere is remote access to this reactor. I'll keep it just in case - it might come in handy!"
+END
+
+SCRIPT:MSNSTR:RB:DE:PC1
+	"BARTON:\nThere's a PC in front. Need to try to hack it."
+END
+
+SCRIPT:MSNSTR:RB:DE:GATTLINGS
+	"BARTON:\nI took control of these turrets. However, they are out of power. I can use Reactor overload to power them up - but why would I do that now?"
+END
+
+SCRIPT:MSNSTR:RB:DE:ZARZ2
+	"BARTON:\nAh! Got the Code. So, which pocket did I put my notes in? Anyhow, the Information Board nearby says that if a wrong path is chosen you're punished by an immediate death!"
+END
+
+SCRIPT:MSNSTR:RB:DE:WEAPON0
+	"BARTON:\nIn a Room with a jeep there'll be a PC with which I can unlock Gate leading to Ammunition storage. It also states here that this PC has remote access to a certain Train..."
+END
+
+SCRIPT:MSNSTR:RB:DE:WEAPON1
+	"BARTON:\nAfter unlocking the next Gate, I will drive this jeep to the Ammo-storage, alongside checking files associated with the Train..."
+END
+
+SCRIPT:MSNSTR:RB:DE:WEAPON2
+	"BARTON:\nSo, I have 2 UZI's, good shoes and armor - Hold on, Lotos - I'm coming!"
+END
+
+SCRIPT:MSNSTR:RB:DE:BEFOREBOSS
+	"BARTON:\nI think I see some kind of Large silhouette from here, it's scary. Right behind it is a chamber with Lotos inside..."
+END
+
+SCRIPT:MSNSTR:RB:DE:VIPIL
+	"BARTON:\nSelf-destruct system activated! In a few minutes everything here will go to Hell - we need to get out of here!"
+END
+
+SCRIPT:MSNSTR:RB:DE:KLYUCHUTRUPA01
+	"BARTON:\nFound a fancy KEY, it appears to unlock some kind of system. I'll probably keep it for myself - might come into play later on"
+END
+
+SCRIPT:MSNSTR:RB:DE:KLYUCHUTRUPA02
+	"BARTON:\nGot another KEY to keep for myself"
+END
+
+SCRIPT:MSNSTR:RB:DE:PKZ14-0KL
+	"BARTON:\nThe control panel is locked. There are documents here, detailing that to unlock it you need 7 keys, which are in the possession of 7 Scientists. I need to find them to move on"
+END
+
+SCRIPT:MSNSTR:RB:DE:PKZ14-1KL
+	"BARTON:\nThe control panel is locked. There are documents here, detailing that to unlock it you need 7 keys, which are in the possession of 7 Scientists. It looks like I already found 1 on the corpse. I need to find the rest"
+END
+
+SCRIPT:MSNSTR:RB:DE:PKZ14-2KL
+	"BARTON:\nThe control panel is locked. There are documents here, detailing that to unlock it you need 7 keys, which are in the possession of 7 Scientists. It looks like I already found 2 on the corpse. I need to find the rest"
+END
+
+SCRIPT:MSNSTR:RB:DE:2STULA
+	"BARTON:\nRelyng on these soldiers was a mistake, take the KEY and go"
+END
+
+SCRIPT:MSNSTR:RB:DE:PKZ14-LOHKL
+	"BARTON:\nI took KEY from this pathetic piece of crap"
+END
+
+SCRIPT:MSNSTR:RB:DE:UCHBOSSMOSHNII
+	"BARTON:\nWon't be able to get close to this scientist - guard are set on him. I have an idea - I need to go back to the PC this scientist just worked on before."
+END
+
+SCRIPT:MSNSTR:RB:DE:ZOMBEEMOI
+	"BARTON:\nI temporarily seize control of these towers affecting the zombies. Looks like that guard is in trouble now, hehehe))"
+END
+
+SCRIPT:MSNSTR:RB:DE:ZOMBEENEUBIY
+	"BARTON:\nI don't think I should kill them. These zombies can still serve me"
+END
+
+SCRIPT:MSNSTR:RB:DE:ROBOTS1
+	"BARTON:\nLooks like he's being guarded by these robots. There are others here, it appears they're off. I need to find the RadioTower and take control of them, in which case I can get to this bloody bastard!"
+END
+
+SCRIPT:MSNSTR:RB:DE:ROBOTS2
+	"BARTON:\nRadio Tower is now mine! Now I can remove this annoying obstacle.."
+END
+
+SCRIPT:MSNSTR:RB:DE:PKZ14-DRONEKL
+	"BARTON:\nCombat drones didn't help him - Yet I got the KEY"
+END
+
+SCRIPT:MSNSTR:RB:DE:QWIZ1
+"Scientist:\nWinner of FIRST ZH World Series was:
+Left) ExCal
+Cntr) SiZe
+Right) Fargo"
+END
+
+SCRIPT:MSNSTR:RB:DE:QWIZ2
+"Scientist:\nWinner of SECOND ZH World Series was:
+Left) Google
+Cntr) ExCal
+Right) SiZe"
+End
+
+SCRIPT:MSNSTR:RB:DE:QWIZ3
+"Scientist:\nWinner of 2012 CCG World Series was:
+Left) Rob-
+Cntr) HaWkY-
+Right) -Ammo"
+End
+
+SCRIPT:MSNSTR:RB:DE:PKZ14-KWIZKL
+	"BARTON:\nThis is my final answer - this KEY belongs to myself"
+END
+
+SCRIPT:MSNSTR:RB:DE:PKZ14-VSEKL
+	"BARTON:\nI have all 7 KEYs - it's time to open this Pandora's box"
+END
+
+SCRIPT:MSNSTR:RB:DE:EXIT
+	"BARTON:\nSign on the gate:'EXIT.Ask Dr.Trax for Keys"
+END
+
+SCRIPT:MSNSTR:RB:DE:KLTRUPSPRAVAGG02
+	"BARTON:\nDamn. I could have explored this corridor earlier. How convenient, a scientist lying on the floor with a particular item - his KEY is now mine."
+END
+
+SCRIPT:MSNSTR:RB:DE:KLTRUPSLEVAGG02
+	"BARTON:\nOh crap - I've been in this room before and wasted so much time! Here's the KEY."
+END
+
+SCRIPT:MSNSTR:RB:DE:HOSPITAL
+	"BARTON:\nThis is a serum, says it regenerates your health on the bottle. I guess I'll drink this"
+END
+
+SCRIPT:MSNSTR:RB:DE:VRHOSPITAL
+	"BARTON:\nBehind these gates are useful supplies. Need to get them somehow.."
+END
+
+SCRIPT:MSNSTR:RB:DE:POISON
+	"BARTON:\nLooks like medical supplies - I'll drink one bottle"
+END
+
+SCRIPT:MSNSTR:RB:DE:PIZDECNAHUYBLYATI
+	"Untill EXPLOSIVE"
+END
+
+SCRIPT:MSNSTR:RB:DE:PIZDECTRAIN
+	"Time untill Train arrival"
+END
+
+SCRIPT:MSNSTR:RB:DE:PIZDECLABE
+	"Time untill Lab DESTROY"
+END
+
+SCRIPT:MSNSTR:RB:DE:GATTLIGTINEPROIDESH
+	"BARTON:\nThis is enemy's security system, i can't get through here now. I have to disable the Reactor that I saw in the room in the northeast to cross.."
+END
+
+SCRIPT:MSNSTR:RB:DE:GATTLIG2
+	"BARTON:\nThat asshole managed to hide behind a Turret. Now I need to turn off its power. Damn it, but I could have tried to kill him before he reached the control panel"
+END
+
+SCRIPT:MSNSTR:RB:DE:GATTLIG3
+	"BARTON:\nNo matter how long they hide, all the KEYs will be mine. This one is already"
+END
+
+SCRIPT:MSNSTR:RB:DE:HAKKERMAN01
+	"Hakkerman:\nI'll help you with the Train. Just clear the way for me to the Main Control Panel."
+END
+
+SCRIPT:MSNSTR:RB:DE:HAKKERMAN02
+	"SupaHakka:\nI'll wait here for now and study this data. Clear the way for me!"
+END
+
+SCRIPT:MSNSTR:RB:DE:HAKKERMAN03
+	"Daru:\nDr.Trax is blocking the system from the other side - distract him and I'll take care of the Train."
+END
+
+SCRIPT:MSNSTR:RB:DE:FIRSTVR
+	"BARTON:\nBlocked. I need to somehow open this gate - it looks like there is an electronic lock with remote access."
+END
+
+SCRIPT:MSNSTR:RB:DE:FIRSTARMORY
+	"BARTON:\nOn the gate it is written - Armory. It seems that I can get armor and weapons there."
+END
+
+SCRIPT:MSNSTR:RB:DE:FIRSTEXPW
+	"BARTON:\nOn the gate it is written - experimental weapon room. Dr.Pipkin has the Key."
+END
+
+SCRIPT:MSNSTR:RB:DE:TOXREACTOR
+	"BARTON:\nI need to somehow disable this Reactor. I know only one way - to explode!"
+END
+
+SCRIPT:MSNSTR:RB:DE:SECONDARMORY
+	"BARTON:\nwriting says: can be opened from the Armory room"
+END
+
+SCRIPT:MSNSTR:RB:DE:DETONATOR
+	"BARTON:\nIt's an explosive. I need another detonator for it."
+END
+
+SCRIPT:MSNSTR:RB:DE:EXPLOSIVE
+	"BARTON:\nThis is the detonator. I need more explosives for him."
+END
+
+SCRIPT:MSNSTR:RB:DE:EXPANDDETO
+	"BARTON:\nGreat, I have all the components on hand. Now I just need to plant a bomb under these Reactor"
+END
+
+SCRIPT:MSNSTR:RB:DE:JEEPGAS
+	"BARTON:\nRan out of gas - continue on foot((("
+END
+
+SCRIPT:MSNSTR:RB:DE:AMMODONTFORGOTT
+	"BARTON:\nLeaving here without opening the Gate, through a PC in that room's corner, would mean that I won't be able to progress any further..."
+END
+
+MSNSTR:RB:DE:ZALUPINSK
+	"May 12, 17:35:\n Beaver-Sity,USA"
+END
+
+MSNSTR:RB:DE:CREDITS01
+	"Map created by:\n WBG-SpeCoV1K"
+END
+
+MSNSTR:RB:DE:CREDITS02
+	"Tnx for tests:\n Yug-Server and Rain"
+END
+
+MSNSTR:RB:DE:CREDITS03
+	"Tnx for Perfecto Ingrish:\n Mp3"
+END
+
+MSNSTR:RB:DE:CREDITS01BAD
+	"We defited Dr.Trax:\n But ALL dead"
+END
+
+MSNSTR:RB:DE:BARTON1
+	"Barton:\nThis is the GLA transit point, path from which lead to lab.."
+END
+
+MSNSTR:RB:DE:BARTON2
+	"Barton:\nThis is the Train. I need to find a PC who will send it directly to the Lab!"
+END
+
+MSNSTR:RB:DE:AFTERTRAX01
+	"Lotus:\nGive me a sample of Virus, it will be more reliable"
+END
+
+MSNSTR:RB:DE:AFTERTRAX02
+	"Barton:\n No problem Lotus, hold it!"
+END
+
+MSNSTR:RB:DE:AFTERTRAX03
+	"Lotus:\nI'll check the Train"
+END
+
+MSNSTR:RB:DE:AFTERTRAX04
+	"Lotus:\nRequires activation. Hackerman - enter codes!"
+END
+
+MSNSTR:RB:DE:AFTERTRAX05
+	"Hakkerman:\nOne moment..."
+END
+
+MSNSTR:RB:DE:AFTERTRAX06
+	"Hakkerman:\nReady!"
+END
+
+MSNSTR:RB:DE:AFTERTRAX07
+	"Barton:\nLotus?!"
+END
+
+MSNSTR:RB:DE:AFTERTRAX08
+	"Barton:\nShe betrayed us! We lost the Train!"
+END
+
+MSNSTR:RB:DE:AFTERTRAX09
+	"Hakkerman:\nShe activated the DESTRUCTION system of Lab!"
+END
+
+SCRIPT:MSNSTR:RB:DE:PILOT01
+	"Hakkerman:\nWe need to split up, otherwise we won't make it in time. You must open that Gate for me"
+END
+
+SCRIPT:MSNSTR:RB:DE:PILOT02
+	"Hakkerman:\nand I will open the Pilot's cell. Then we will unite and get out of here all together!"
+END
+
+SCRIPT:MSNSTR:RB:DE:PILOT03
+	"Hakkerman:\nI'm there, waiting for you to open the Gate for me"
+END
+
+SCRIPT:MSNSTR:RB:DE:PILOT04
+	"Barton:\nThe Gate is open. Quick!"
+END
+
+SCRIPT:MSNSTR:RB:DE:PILOT05
+	"Hakkerman:\nWell, why did you come with me? These Gates won't open from here"
+END
+
+SCRIPT:MSNSTR:RB:DE:PILOT06
+	"Barton:\nCan you go? We need to get out of here, fast!"
+END
+
+SCRIPT:MSNSTR:RB:DE:PILOTPRISON01
+	"Barton:\nThe cameras show that one of our pilots is captured somewhere in the Lab. If possible, it would be nice to get him out of here!"
+END
+
+SCRIPT:MSNSTR:RB:DE:HAKERPOMERDAIHUYSNIM
+	"Barton:\nAh, Hakkerman is dead! If I could rewind time, but I can't...Well, the exit is open, I still have to try to get out of here- goodbye Pilot, I won't forget you."
+END
