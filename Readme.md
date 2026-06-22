@@ -35,6 +35,7 @@
 * [Dragon's Journey Intro](https://www.cnclabs.com/downloads/details/3080/)
 * [Dragon's Journey Intro V2](https://www.cnclabs.com/downloads/details/3099/)
 * [Dead evil - Adv in Lab](https://www.cnclabs.com/downloads/details/3144/)
+* [Nuclear](https://www.cnclabs.com/downloads/details/3069/)
 
 </details>
 
@@ -91,8 +92,10 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] General Ironside VS General Leang (Medium)      | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
 | [ZH] Dragon's Journey Intro                          | Mission        | N/A     | VeLoXiuS                             | [#54](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/54)    |
 | [ZH] Dragon's Journey Intro v2                       | Mission        | N/A     | VeLoXiuS                             | [#43](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/43)    |
-| [ZH] Dr Thrax Evil Lab (Director's Cut)              | Mission        | 006     | WBG-SpeCoV1K, Yug-Server, Rain, Mp3  | [#24](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/24) |
- 
+| [ZH] Dr Thrax Evil Lab (Director's Cut)              | Mission        | 006     | WBG-SpeCoV1K, Yug-Server, Rain, Mp3  | [#24](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/24)    |
+| [ZH] Nuclear                                         | Mission        | N/A     | omarG                                | [#59](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/59)    |
+
+
 ## License
 
 Creative Commons Attribution-NonCommercial 4.0 International Public License<br/>
