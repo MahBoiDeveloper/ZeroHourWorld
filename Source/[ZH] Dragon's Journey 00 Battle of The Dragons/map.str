@@ -1,0 +1,37 @@
+MSNSTR:VELOXIUS:DJ0:INTRO1
+	"7 Hours after the last mission"
+END
+
+MSNSTR:VELOXIUS:DJ0:TAOCAP
+	"3 Hours later\nCentral HQ Communication Team"
+END
+
+MSNSTR:VELOXIUS:DJ0:PRESENT
+	"1 day later\nFar away from Tao base"
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJ0:TEXT1
+"General, You have just witnessed the rebellion from General Tao.
+\nWe tried to communicate with him for hours but as you see
+\nhe refuse all kinds of communication, he turned off all of his communication device and lastly he killed our communication team."
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJ0:TEXT2
+"This is an Order from the Central HQ
+\n1.Destroy General Tao's entire base
+\n2.Destroy All spy outpost that was scattered around this area
+\n3.Capture General Tao's experimental nuclear reactor
+\n4.Capture ONE General Tao's Command Center
+\n5.Arrest General Tao.
+\n6.Don't Lose your main Command Center
+\nYou are alone in this mission General
+\nGood Luck General, You'll need it"
+END
+
+MSNSTR:VELOXIUS:DJ0:CREATOR
+	"Map Created by VeLoXiuS\nFeel free to leave your feedback on my discord VeLoXius#1512"
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJ0:RADAR
+	"General our intel report that General Tao has a Ground Control Center located to the southwest of your base. It calls in reinforcement for Tao. The place is Heavily Guarded with tanks and anti air. Destroy it to stop his reinforcement to enter the battlefield"
+END

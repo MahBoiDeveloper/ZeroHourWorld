@@ -37,6 +37,7 @@
 * [Dead evil - Adv in Lab](https://www.cnclabs.com/downloads/details/3144/)
 * [Nuclear](https://www.cnclabs.com/downloads/details/3069/)
 * [Dragon's Journey 01 - Chasing The Dragon's Tail](https://www.cnclabs.com/downloads/details/3105/)
+* [Dragon's Journey 00 - Battle of The Dragons](https://www.cnclabs.com/downloads/details/3081/)
 
 </details>
 
@@ -96,6 +97,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Dr Thrax Evil Lab (Director's Cut)              | Mission        | 006     | WBG-SpeCoV1K, Yug-Server, Rain, Mp3  | [#24](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/24)    |
 | [ZH] Nuclear                                         | Mission        | N/A     | omarG                                | [#59](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/59)    |
 | [ZH] Dragon's Journey 01 Chasing The Dragon's Tail   | Mission        | N/A     | VeLoXiuS                             | [#40](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/40)    |
+| [ZH] Dragon's Journey 00 Battle of The Dragons       | Mission        | N/A     | VeLoXiuS                             | [#53](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/53)    |
 
 
 ## License
