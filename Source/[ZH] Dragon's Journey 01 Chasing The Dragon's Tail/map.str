@@ -1,0 +1,51 @@
+MSNSTR:VELOXIUS:DJ1:INTRO1
+	"Somewhere near the border of China and the Middle East"
+END
+
+MSNSTR:VELOXIUS:DJ1:TAOWALKTOMAR
+	"Tao has left his base only with some of his men\nhe doesn't have any fund to rebuild his army"
+END
+
+MSNSTR:VELOXIUS:DJ1:TAOTRD
+	"Tao made an agreement in the GLA black market\nhe sells his nuclear technology to the GLA resistance"
+END
+
+MSNSTR:VELOXIUS:DJ1:TAOSUR
+	"Some of Tao escaped army have followed him here"
+END
+
+MSNSTR:VELOXIUS:DJ1:KWAITAK
+	"2 weeks later"
+END
+
+MSNSTR:VELOXIUS:DJ1:KWAITAK2
+	"It seemed the deal Tao made require him\nto help the GLA to eliminate General Kwai outpost on this area"
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJ1:MSGTOPLR1
+	"General we don't have enought time to send you and your main army there. So we are relying on this Ground Control Center and a small outpost next to General Kwai base.\nYou have a very limited building access due to General Kwai obsession to Ground army. Kwai will fight alongside you as long as you don't have any ground units in his base, you are allowed to have an air unit on his base (exception : loaded helix with any ground unit is not allowed)."
+END
+
+SCRIPT:MSNSTR:VELOXIUS:DJ1:MSGTOPLR2
+"Mission objective :
+\n1. Destroy General Tao new base accross the bridge
+\n2. Eliminate all GLA in this area
+\n3. Defend General Kwai base
+\n4. Defend the Ground Control Center
+\n5. Arrest General Tao and seize his Nuclear technology from the GLA
+\n
+\nWe will send you a reinforcement in a short time.
+\nGood Luck, General"
+END
+
+MSNSTR:VELOXIUS:DJ1:CREATOR
+	"Map Created by VeLoXiuS\nFeel free to leave your feedback on my discord VeLoXius#1512"
+END
+
+MSNSTR:VELOXIUS:DJ1:HKRDIS
+	"For balance purpose you cannot build more hacker"
+END
+
+MSNSTR:VELOXIUS:DJ1:HKREN
+	"You can now build more hacker"
+END
