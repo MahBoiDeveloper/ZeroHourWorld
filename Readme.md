@@ -38,6 +38,7 @@
 * [Nuclear](https://www.cnclabs.com/downloads/details/3069/)
 * [Dragon's Journey 01 - Chasing The Dragon's Tail](https://www.cnclabs.com/downloads/details/3105/)
 * [Dragon's Journey 00 - Battle of The Dragons](https://www.cnclabs.com/downloads/details/3081/)
+* [Liberation Day ZH](https://www.cnclabs.com/downloads/details/3064/)
 
 </details>
 
@@ -98,6 +99,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Nuclear                                         | Mission        | N/A     | omarG                                | [#59](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/59)    |
 | [ZH] Dragon's Journey 01 Chasing The Dragon's Tail   | Mission        | N/A     | VeLoXiuS                             | [#40](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/40)    |
 | [ZH] Dragon's Journey 00 Battle of The Dragons       | Mission        | N/A     | VeLoXiuS                             | [#53](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/53)    |
+| [ZH] Liberation Day                                  | Mission        | N/A     | El_Chapo                             | [#62](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/62)    |
 
 
 ## License

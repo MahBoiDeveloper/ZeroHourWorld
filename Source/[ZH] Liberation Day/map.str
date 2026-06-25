@@ -1,0 +1,123 @@
+MSNSTR:ELCHAPO:LD1:INTRO:01
+	"Welcome Back, General!\n Liberation Day ZH!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:02
+	"Officer: We must find someone who wants to spy for us!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:03
+	"Ranger: We will find someone! No problem!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:04
+	"Officer: I don't accept any excuses later!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:05
+	"Ranger: Well, Let's convince someone!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:06
+	"Ranger: And now for you my dear... ."
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:07
+	"Ranger: We will still come to an agreement... ."
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:08
+	"Old Man: Welcome my friend!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:09
+	"Old Man: We have already heard about your heroic deed!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:10
+	"Old Man: For sure you can now gather support in our homes!"
+END
+
+MSNSTR:ELCHAPO:LD1:INTRO:11
+	"Old Man: But be careful! The Americans have a spy inside our community!"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE1:1
+	"Objective: Gather reinforcements in these Buildings!\n You have only 30 seconds!"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE1:2
+	"Objective: Gather reinforcements in these Buildings!"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE1:3
+	"That was the wrong house! You have been found by the spy!"
+END
+
+SCRIPT:MSNSTR:ELCHAPO:LD1:OBJECTIVE01TIME
+	"Remaining Time: "
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE1:4
+	"Objective: Free us from the oppressors!"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2A:1
+"Old Man: Hello my friend! Good to see you again!
+\n Please free this neighborhood from the occupiers!
+\n Tensions are high! You must reach the Armsdealer!"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:1
+"Old Man: Hello my friend! Good to see you again!
+\n Come and follow me. I will show you a place."
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:2CASH1
+	"Old Man: 4000$ rewards should help you to move on now."
+End
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:2CASH2
+	"Old Man: 8000$ rewards, a little bonus for your efforts."
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:OBJECTIVE2B:3
+"Old Man: In these 3 buildings you can double or halve your cash!
+\n 2 Buildings double up, 1 Building halves your amount of money!"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:OBJECTIVE2B:4
+	"Old Man: You have 3 attempts, or skip this by leaving the area."
+END
+
+SCRIPT:MSNSTR:ELCHAPO:LD1:OBJECTIVE02TIME
+	"Remaining Time: "
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:5
+	"Attempt 1"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:6
+	"Attempt 2"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:7
+	"Attempt 3"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:WIN
+	"Congrats!!! YOU WIN $$$ !!!"
+END
+
+MSNSTR:ELCHAPO:LD1:OBJECTIVE2B:LOSS
+	"Fool!!! YOU LOOSE $$$ !!!"
+END
+
+MSNSTR:ELCHAPO:LD1:FULLMAPOPENER:01
+	"Old Man: You have done so well so far!!!"
+END
+
+MSNSTR:ELCHAPO:LD1:FULLMAPOPENER:02
+	"Old Man: Now build an army and destroy their huge base!!!"
+END
