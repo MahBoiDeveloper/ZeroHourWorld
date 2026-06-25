@@ -1,0 +1,64 @@
+MSNSTR:VITEXFTW:OIW:MADEBY
+    "Made By ViTeXFTW"
+END
+
+MSNSTR:VITEXFTW:OIW:INTRO01
+    "Operation: Ice Water\nNyingchi - 29.904114, 94.388677"
+END
+
+SCRIPT:MSNSTR:VITEXFTW:OIW:INTRO01
+    "Welcome General
+    \nGeneral Tao \& General Fai are defending this part of the mountains. Your mission is to destroy their bases and give us control over this area.
+    \n
+    \nFor now we only have a limited arsenal. Reinforcements are on their way but you will have to do with this for now.
+    \n Now quickly build up your base the chinese know we are here!"
+END
+
+MSNSTR:VITEXFTW:OIW:RANK03
+    "INCOOMING TRANSMISSION:
+    \nGeneral Reinforcements have arrived. We can now build more defenses, structures and vehicles!"
+END
+
+MSNSTR:VITEXFTW:OIW:RANK05
+    "INCOOMING TRANSMISSION:
+    \nGeneral Reinforcements have arrived. You have been granted the ability to build\nthe Partical Cannon!"
+END
+
+MSNSTR:VITEXFTW:OIW:RANK05_
+    "
+    \nWe've Also Been Granted The Ability To Train Snipers!"
+END
+
+MSNSTR:VITEXFTW:OIW:NUKEDETECTED
+    "INCOOMING TRANSMISSION:
+    \nGeneral a Nuclear Missile Has Been Detected"
+END
+
+MSNSTR:VITEXFTW:OIW:POWERPLANT01
+    "INCOOMING TRANSMISSION:
+    \nGeneral Tao Generates Large Amount of Power From His Upscaled Nuclear Reactor"
+END
+
+MSNSTR:VITEXFTW:OIW:POWERPLANT02
+    "\nDestroy It To Weaken His Powergrid!"
+END
+
+ThingTemplate:Nuke_ChinaSuperReactor
+    "Super Nuclear Reactor"
+End
+
+ThingTemplate:Nuke_ChinaNukePlatform
+    "Nuke Launcher Platform"
+End
+
+ThingTemplate:Infa_ChinaTankOverlord
+    "Bunkerlord"
+End
+
+CONTROLBAR:Infa_ConstructChinaTankOverlord
+    "Bunker Overlord"
+End
+
+CONTROLBAR:Infa_ToolTipChinaBuildOverlord
+    "Filler text"
+End
