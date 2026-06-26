@@ -40,6 +40,7 @@
 * [Dragon's Journey 00 - Battle of The Dragons](https://www.cnclabs.com/downloads/details/3081/)
 * [Liberation Day ZH](https://www.cnclabs.com/downloads/details/3064/)
 * [Operation: Ice Water](https://www.cnclabs.com/downloads/details/3119/)
+* [General Alexander Challenge](https://www.cnclabs.com/downloads/details/3079/)
 
 </details>
 
@@ -102,6 +103,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Dragon's Journey 00 Battle of The Dragons       | Mission        | N/A     | VeLoXiuS                             | [#53](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/53)    |
 | [ZH] Liberation Day                                  | Mission        | N/A     | El_Chapo                             | [#62](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/62)    |
 | [ZH] Operation Ice Water                             | Mission        | N/A     | ViTeXFTW                             | [#32](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/32)    |
+| [ZH] General Deathstrike VS General Alexander        | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
+| [ZH] General Ironside VS General Alexander           | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
+| [ZH] General Leang VS General Alexander              | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
 
 ## License
 
