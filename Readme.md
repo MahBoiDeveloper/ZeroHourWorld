@@ -41,6 +41,7 @@
 * [Liberation Day ZH](https://www.cnclabs.com/downloads/details/3064/)
 * [Operation: Ice Water](https://www.cnclabs.com/downloads/details/3119/)
 * [General Alexander Challenge](https://www.cnclabs.com/downloads/details/3079/)
+* [Casino - Resurrection Pack](https://www.moddb.com/games/cc-generals-zero-hour/addons/casino-resurrection-pack)
 
 </details>
 
@@ -53,6 +54,14 @@ Copy maps from `Source\` folder to your local `%USERPROFILE%\Documents\Command a
 ### Developers
 
 * mah_boi — project's author, maintainer
+
+### Contributors
+
+* [DESolatorTrooper](https://github.com/DESolatorTrooper-59) — create logo of the project
+
+### Associates
+
+* [bobtista](https://github.com/bobtista) — author of the `scb` scripts [converting tool](https://github.com/TheSuperHackers/GeneralsGameCode/pull/1856)
 
 ### Map authors
 
@@ -106,6 +115,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] General Deathstrike VS General Alexander        | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
 | [ZH] General Ironside VS General Alexander           | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
 | [ZH] General Leang VS General Alexander              | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
+| [ZH] Casino Resurrection (2P)                        | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 
 ## License
 
