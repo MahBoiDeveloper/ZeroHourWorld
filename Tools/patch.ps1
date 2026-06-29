@@ -6,19 +6,22 @@ param(
   [string]$PatchDescriptionPath
 )
 
+# Debug
+Write-Host "Starting patch.ps1"
+Write-Host "ScriptsPath: $ScriptsPath"
+Write-Host "PatchDescriptionPath: $PatchDescriptionPath"
+
 # Read files
 $scriptsText = Get-Content -LiteralPath $ScriptsPath -Raw
 $patchLines  = Get-Content -LiteralPath $PatchDescriptionPath
 
 # Replacements
-foreach ($line in $patchLines) 
-{
+foreach ($line in $patchLines) {
   if ([string]::IsNullOrWhiteSpace($line)) { continue }
 
-  $parts = $line.Split("///", 2)
-  if ($parts.Count -ne 2)
-  {
-    throw "Некорректная строка патча (ожидался формат text///sample): $line"
+  $parts = $line -split "///", 2
+  if ($parts.Count -ne 2) {
+    throw "Invalid patch line. Expected format: text///sample. Line=$line. Parts=$parts"
   }
 
   $from = $parts[0]
