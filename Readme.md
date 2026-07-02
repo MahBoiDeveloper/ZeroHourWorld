@@ -116,8 +116,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] General Ironside VS General Alexander           | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
 | [ZH] General Leang VS General Alexander              | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
 | [ZH] Casino Resurrection (2P)                        | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection (5P)                        | Casino         | 8       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection (3P)                        | Casino         | 7       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection (4P)                        | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection (5P)                        | Casino         | 8       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 
 ## License
 
