@@ -119,6 +119,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Casino Resurrection (3P)                        | Casino         | 7       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection (4P)                        | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection (5P)                        | Casino         | 8       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection (6P)                        | Casino         | 14      | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 
 ## License
 
