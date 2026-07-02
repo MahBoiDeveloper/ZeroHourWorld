@@ -120,6 +120,10 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Casino Resurrection (4P)                        | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection (5P)                        | Casino         | 8       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection (6P)                        | Casino         | 14      | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Two (2v2)                   | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Four (2v2)                  | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Five (2v2)                  | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Six (2v2)                   | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 
 ## License
 

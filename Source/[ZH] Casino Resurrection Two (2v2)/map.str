@@ -1,0 +1,863 @@
+MSNSTR:HBCX:CR2P2:INTRO
+"Resurrection Two - Casino by Haubibban & cetx"
+END
+
+MSNSTR:HBCX:CR2P2:MAPPLOT
+"Enter Casino building to get units or money!"
+END
+
+MSNSTR:HBCX:CR2P2:2NDECOINFO
+"Oil Derrick will spawn on your supply pile once you deplete it!"
+END
+
+MSNSTR:HBCX:CR2P2:README
+"For more info please examine the ReadMe file in the map folder!"
+END
+
+MSNSTR:HBCX:CR2P2:GLHF
+"Good Luck, Generals!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropKingRaptorsPlayer0
+"Player 1 has won King Raptors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropKingRaptorsPlayer1
+"Player 2 has won King Raptors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropKingRaptorsPlayer2
+"Player 3 has won King Raptors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropKingRaptorsPlayer3
+"Player 4 has won King Raptors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropKingRaptorsPlayer4
+"Player 5 has won King Raptors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropKingRaptorsPlayer5
+"Player 6 has won King Raptors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthComanchePlayer0
+"Player 1 has won Stealth Comanches"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthComanchePlayer1
+"Player 2 has won Stealth Comanches"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthComanchePlayer2
+"Player 3 has won Stealth Comanches"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthComanchePlayer3
+"Player 4 has won Stealth Comanches"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthComanchePlayer4
+"Player 5 has won Stealth Comanches"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthComanchePlayer5
+"Player 6 has won Stealth Comanches"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTankHelixPlayer0
+"Player 1 has won a Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTankHelixPlayer1
+"Player 2 has won a Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTankHelixPlayer2
+"Player 3 has won a Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTankHelixPlayer3
+"Player 4 has won a Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTankHelixPlayer4
+"Player 5 has won a Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTankHelixPlayer5
+"Player 6 has won a Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropInfantryHelixPlayer0
+"Player 1 has won an Assault Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropInfantryHelixPlayer1
+"Player 2 has won an Assault Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropInfantryHelixPlayer2
+"Player 3 has won an Assault Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropInfantryHelixPlayer3
+"Player 4 has won an Assault Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropInfantryHelixPlayer4
+"Player 5 has won an Assault Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropInfantryHelixPlayer5
+"Player 6 has won an Assault Helix"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTacticalGroupPlayer0
+"Player 1 has won a Tactical Group"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTacticalGroupPlayer1
+"Player 2 has won a Tactical Group"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTacticalGroupPlayer2
+"Player 3 has won a Tactical Group"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTacticalGroupPlayer3
+"Player 4 has won a Tactical Group"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTacticalGroupPlayer4
+"Player 5 has won a Tactical Group"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropTacticalGroupPlayer5
+"Player 6 has won a Tactical Group"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropExplosivesPlayer0
+"Player 1 has won some explosives"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropExplosivesPlayer1
+"Player 2 has won some explosives"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropExplosivesPlayer2
+"Player 3 has won some explosives"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropExplosivesPlayer3
+"Player 4 has won some explosives"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropExplosivesPlayer4
+"Player 5 has won some explosives"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropExplosivesPlayer5
+"Player 6 has won some explosives"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBattleBusPlayer0
+"Player 1 has won Stealth Battlebus"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBattleBusPlayer1
+"Player 2 has won Stealth Battlebus"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBattleBusPlayer2
+"Player 3 has won Stealth Battlebus"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBattleBusPlayer3
+"Player 4 has won Stealth Battlebus"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBattleBusPlayer4
+"Player 5 has won Stealth Battlebus"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBattleBusPlayer5
+"Player 6 has won Stealth Battlebus"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAntiAirPlayer0
+"Player 1 has won some Anti-Air"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAntiAirPlayer1
+"Player 2 has won some Anti-Air"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAntiAirPlayer2
+"Player 3 has won some Anti-Air"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAntiAirPlayer3
+"Player 4 has won some Anti-Air"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAntiAirPlayer4
+"Player 5 has won some Anti-Air"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAntiAirPlayer5
+"Player 6 has won some Anti-Air"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropOverlordsPlayer0
+"Player 1 has won Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropOverlordsPlayer1
+"Player 2 has won Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropOverlordsPlayer2
+"Player 3 has won Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropOverlordsPlayer3
+"Player 4 has won Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropOverlordsPlayer4
+"Player 5 has won Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropOverlordsPlayer5
+"Player 6 has won Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeOverlordsPlayer0
+"Player 1 has won Nuke Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeOverlordsPlayer1
+"Player 2 has won Nuke Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeOverlordsPlayer2
+"Player 3 has won Nuke Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeOverlordsPlayer3
+"Player 4 has won Nuke Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeOverlordsPlayer4
+"Player 5 has won Nuke Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeOverlordsPlayer5
+"Player 6 has won Nuke Overlords"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropEmperorsPlayer0
+"Player 1 has won Emperors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropEmperorsPlayer1
+"Player 2 has won Emperors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropEmperorsPlayer2
+"Player 3 has won Emperors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropEmperorsPlayer3
+"Player 4 has won Emperors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropEmperorsPlayer4
+"Player 5 has won Emperors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropEmperorsPlayer5
+"Player 6 has won Emperors"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTechnicalsPlayer0
+"Player 1 has won Stealth Technicals"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTechnicalsPlayer1
+"Player 2 has won Stealth Technicals"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTechnicalsPlayer2
+"Player 3 has won Stealth Technicals"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTechnicalsPlayer3
+"Player 4 has won Stealth Technicals"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTechnicalsPlayer4
+"Player 5 has won Stealth Technicals"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTechnicalsPlayer5
+"Player 6 has won Stealth Technicals"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropMaraudersPlayer0
+"Player 1 has won Marauders with Pilots"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropMaraudersPlayer1
+"Player 2 has won Marauders with Pilots"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropMaraudersPlayer2
+"Player 3 has won Marauders with Pilots"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropMaraudersPlayer3
+"Player 4 has won Marauders with Pilots"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropMaraudersPlayer4
+"Player 5 has won Marauders with Pilots"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropMaraudersPlayer5
+"Player 6 has won Marauders with Pilots"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAngryMobsAndStealthOverlordPlayer0
+"Player 1 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAngryMobsAndStealthOverlordPlayer1
+"Player 2 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAngryMobsAndStealthOverlordPlayer2
+"Player 3 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAngryMobsAndStealthOverlordPlayer3
+"Player 4 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAngryMobsAndStealthOverlordPlayer4
+"Player 5 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAngryMobsAndStealthOverlordPlayer5
+"Player 6 has won Angry Mobs and Stealth Overlord"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTomahawkPlayer0
+"Player 1 has won Stealth Tomahawks"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTomahawkPlayer1
+"Player 2 has won Stealth Tomahawks"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTomahawkPlayer2
+"Player 3 has won Stealth Tomahawks"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTomahawkPlayer3
+"Player 4 has won Stealth Tomahawks"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTomahawkPlayer4
+"Player 5 has won Stealth Tomahawks"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthTomahawkPlayer5
+"Player 6 has won Stealth Tomahawks"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropVanillaScudsPlayer0
+"Player 1 has won Scud Launchers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropVanillaScudsPlayer1
+"Player 2 has won Scud Launchers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropVanillaScudsPlayer2
+"Player 3 has won Scud Launchers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropVanillaScudsPlayer3
+"Player 4 has won Scud Launchers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropVanillaScudsPlayer4
+"Player 5 has won Scud Launchers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropVanillaScudsPlayer5
+"Player 6 has won Scud Launchers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBuggiesPlayer0
+"Player 1 has won Stealth Buggies"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBuggiesPlayer1
+"Player 2 has won Stealth Buggies"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBuggiesPlayer2
+"Player 3 has won Stealth Buggies"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBuggiesPlayer3
+"Player 4 has won Stealth Buggies"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBuggiesPlayer4
+"Player 5 has won Stealth Buggies"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropStealthBuggiesPlayer5
+"Player 6 has won Stealth Buggies"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop5000Player0
+"Player 1 has won 5000$"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop5000Player1
+"Player 2 has won 5000$"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop5000Player2
+"Player 3 has won 5000$"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop5000Player3
+"Player 4 has won 5000$"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop5000Player4
+"Player 5 has won 5000$"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop5000Player5
+"Player 6 has won 5000$"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoJarmenPlayer0
+"Player 1 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoJarmenPlayer1
+"Player 2 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoJarmenPlayer2
+"Player 3 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoJarmenPlayer3
+"Player 4 has won Demo Jarmen and Combat Cycle"
+END
+
+MSNSTR:HBCX:CR2P2:Chaos!
+"Aurora Alphas can now be built in Command Centers!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoJarmenPlayer4
+"Player 5 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoJarmenPlayer5
+"Player 6 has won Demo Jarmen and Combat Cycle"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropHackersPlayer0
+"Player 1 has won Hackers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropHackersPlayer1
+"Player 2 has won Hackers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropHackersPlayer2
+"Player 3 has won Hackers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropHackersPlayer3
+"Player 4 has won Hackers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropHackersPlayer4
+"Player 5 has won Hackers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropHackersPlayer5
+"Player 6 has won Hackers"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeTruckPlayer0
+"Player 1 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeTruckPlayer1
+"Player 2 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeTruckPlayer2
+"Player 3 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeTruckPlayer3
+"Player 4 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeTruckPlayer4
+"Player 5 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeTruckPlayer5
+"Player 6 has won Stealth Convoy Truck!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeMigsPlayer0
+"Player 1 has won Nuke MiGs!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeMigsPlayer1
+"Player 2 has won Nuke MiGs!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeMigsPlayer2
+"Player 3 has won Nuke MiGs!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeMigsPlayer3
+"Player 4 has won Nuke MiGs!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeMigsPlayer4
+"Player 5 has won Nuke MiGs!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeMigsPlayer5
+"Player 6 has won Nuke MiGs!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropLotusAndHackersPlayer0
+"Player 1 has won Lotus and Hackers!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropLotusAndHackersPlayer1
+"Player 2 has won Lotus and Hackers!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropLotusAndHackersPlayer2
+"Player 3 has won Lotus and Hackers!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropLotusAndHackersPlayer3
+"Player 4 has won Lotus and Hackers!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropLotusAndHackersPlayer4
+"Player 5 has won Lotus and Hackers!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropLotusAndHackersPlayer5
+"Player 6 has won Lotus and Hackers!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop10000Player0
+"Player 1 has won 10000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop10000Player1
+"Player 2 has won 10000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop10000Player2
+"Player 3 has won 10000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop10000Player3
+"Player 4 has won 10000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop10000Player4
+"Player 5 has won 10000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop10000Player5
+"Player 6 has won 10000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoScudsPlayer0
+"Player 1 has won Demo Scuds!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoScudsPlayer1
+"Player 2 has won Demo Scuds!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoScudsPlayer2
+"Player 3 has won Demo Scuds!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoScudsPlayer3
+"Player 4 has won Demo Scuds!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoScudsPlayer4
+"Player 5 has won Demo Scuds!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDemoScudsPlayer5
+"Player 6 has won Demo Scuds!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeCannonsPlayer0
+"Player 1 has won Nuke Cannons!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeCannonsPlayer1
+"Player 2 has won Nuke Cannons!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeCannonsPlayer2
+"Player 3 has won Nuke Cannons!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeCannonsPlayer3
+"Player 4 has won Nuke Cannons!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeCannonsPlayer4
+"Player 5 has won Nuke Cannons!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropNukeCannonsPlayer5
+"Player 6 has won Nuke Cannons!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropCombatChinookPlayer0
+"Player 1 has won Combat Chinook!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropCombatChinookPlayer1
+"Player 2 has won Combat Chinook!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropCombatChinookPlayer2
+"Player 3 has won Combat Chinook!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropCombatChinookPlayer3
+"Player 4 has won Combat Chinook!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropCombatChinookPlayer4
+"Player 5 has won Combat Chinook!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropCombatChinookPlayer5
+"Player 6 has won Combat Chinook!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAuroraPlayer0
+"PLAYER 1 HAS WON AURORA!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAuroraPlayer1
+"PLAYER 2 HAS WON AURORA!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAuroraPlayer2
+"PLAYER 3 HAS WON AURORA!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAuroraPlayer3
+"PLAYER 4 HAS WON AURORA!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAuroraPlayer4
+"PLAYER 5 HAS WON AURORA!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropAuroraPlayer5
+"PLAYER 6 HAS WON AURORA!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperJarmenPlayer0
+"PLAYER 1 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperJarmenPlayer1
+"PLAYER 2 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperJarmenPlayer2
+"PLAYER 3 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperJarmenPlayer3
+"PLAYER 4 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperJarmenPlayer4
+"PLAYER 5 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperJarmenPlayer5
+"PLAYER 6 HAS WON SUPER JARMEN!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDossBoiserPlayer0
+"PLAYER 1 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDossBoiserPlayer1
+"PLAYER 2 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDossBoiserPlayer2
+"PLAYER 3 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDossBoiserPlayer3
+"PLAYER 4 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDossBoiserPlayer4
+"PLAYER 5 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropDossBoiserPlayer5
+"PLAYER 6 HAS WON BOSS DOSER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperStealthPlayer0
+"PLAYER 1 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperStealthPlayer1
+"PLAYER 2 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperStealthPlayer2
+"PLAYER 3 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperStealthPlayer3
+"PLAYER 4 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperStealthPlayer4
+"PLAYER 5 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDropSuperStealthPlayer5
+"PLAYER 6 HAS WON SUPER STEALTH WORKER!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop20000Player0
+"PLAYER 1 HAS WON 20000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop20000Player1
+"PLAYER 2 HAS WON 20000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop20000Player2
+"PLAYER 3 HAS WON 20000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop20000Player3
+"PLAYER 4 HAS WON 20000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop20000Player4
+"PLAYER 5 HAS WON 20000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoDrop20000Player5
+"PLAYER 6 HAS WON 20000$!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Secret_Intro_String
+"StaZzz Noob!!!"
+END
+
+MSNSTR:HBCX:CR2P2:SWON
+"Superweapons have been enabled!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Casino1
+"Casino 1: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Casino2
+"Casino 2: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Casino3
+"Casino 3: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Casino4
+"Casino 4: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Casino5
+"Casino 5: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Casino6
+"Casino 6: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:CasinoMiddle
+"Middle Casino: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:OilDerick
+"Oil Derrick: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2: OilDerick
+"Oil Derrick: "
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:OilDerick 
+"Oil Derrick: "
+END
+
+MSNSTR:HBCX:CR2P2:2NDECOON
+"Secondary Economy Enabled!"
+END
+
+MSNSTR:HBCX:CR2P2:2NDECOOFF
+"Secondary Economy Disabled!"
+END
+
+SCRIPT:MSNSTR:HBCX:CR2P2:Observer_Check_Failed
+"Observer detected on player slot 1-4. \n Please make sure you don't have any observers in these slots. \n Otherwise the map will not work correctly. \n Observers will not affect map's gameplay only on player spots 5-8."
+END
+
+CONTROLBAR:ToolTipUSABuildLaserPaladin
+"Paladin tank equipped with the laser gun. \n Can use Point Defense Laser against missiles and infantry at close range. \n \n Laser cannon fires twise as fast compared to Laser Crusader. \n Tank doesn't disable upon low power. \n \n Strong vs. Tanks, Buildings. \n Weak vs. Infantry, Aircraft. \n Requires Power: 1"
+END
+
+CONTROLBAR:ConstructAmericaTankLaserPaladin
+"Laser &Paladin"
+END
+
+OBJECT:LaserPaladin
+"Laser Paladin"
+END
