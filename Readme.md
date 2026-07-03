@@ -42,6 +42,7 @@
 * [Operation: Ice Water](https://www.cnclabs.com/downloads/details/3119/)
 * [General Alexander Challenge](https://www.cnclabs.com/downloads/details/3079/)
 * [Casino - Resurrection Pack](https://www.moddb.com/games/cc-generals-zero-hour/addons/casino-resurrection-pack)
+* [Dragon's Journey 02 - Road of Despair](https://www.cnclabs.com/downloads/details/3111/)
 
 </details>
 
@@ -124,6 +125,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Casino Resurrection Four (2v2)                  | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection Five (2v2)                  | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection Six (2v2)                   | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Brutal)    | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
 
 ## License
 
