@@ -43,6 +43,7 @@
 * [General Alexander Challenge](https://www.cnclabs.com/downloads/details/3079/)
 * [Casino - Resurrection Pack](https://www.moddb.com/games/cc-generals-zero-hour/addons/casino-resurrection-pack)
 * [Dragon's Journey 02 - Road of Despair](https://www.cnclabs.com/downloads/details/3111/)
+* [Desert Gauntlet V2](https://www.cnclabs.com/downloads/details/3145/)
 
 </details>
 
@@ -129,6 +130,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Dragon's Journey 02 Road of Despair (Easy)      | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
 | [ZH] Dragon's Journey 02 Road of Despair (Hard)      | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
 | [ZH] Dragon's Journey 02 Road of Despair (Medium)    | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Desert Gauntlet                                 | Challenge      | 2       | BKR                                  | [#25](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/25)    |
 
 ## License
 

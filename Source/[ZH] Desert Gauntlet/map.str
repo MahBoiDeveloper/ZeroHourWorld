@@ -1,0 +1,171 @@
+MSNSTR:BKR:DG:INTRO:Location
+"Desert Gauntlet \n 'By BKR'"
+End
+
+SCRIPT:MSNSTR:BKR:DG:IntroBriefing
+"Welcome to Desert Gauntlet. Here you will be put through 25 scenerios that will test your skill and knowledge of this game. \n When each level loads and this box appears, you will be able to Right-Mouse click and drag or use the arrow keys to look at the map before starting. \n These first few levels will be simple while the later levels will be more complicated. If you fail a level, it will reset. So don't try to be perfect the first time you play. \n Don't forget to use hotkeys and control groups(Ctrl+number 0-9 to set, then 0-9 to select). \n Good Luck."
+End
+
+MSNSTR:BKR:DG:UpgradeWave1
+"Midgame upgrades now unlocked."
+End
+
+MSNSTR:BKR:DG:UpgradeWave2
+"Lategame upgrades and Radar now unlocked."
+End
+
+MSNSTR:BKR:DG:VICTORY:Normal
+"All levels cleared. \n Well Done."
+End
+
+MSNSTR:BKR:DG:VICTORY:Perfect
+"Perfect Clear! \n Congratulations!"
+End
+
+SCRIPT:MSNSTR:BKR:DG:LevelCount
+"Level"
+End
+
+SCRIPT:MSNSTR:BKR:DG:TimeLimit
+"Win within"
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level01Briefing
+"Level 1: \n Destroy the Supply Center and War Factory. No units need to survive as long as both targets are destroyed. \n \n HINT: Hold 'Ctrl' and click between the War Factory and Supply Center with your Terrorists to force fire there."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level02Briefing
+"Level 2: \n Destroy the Power Plant and Barracks with your Troop Crawler rush. \n \n HINT: Distract the EMP Patriots with the Crawlers or a single Red Guard."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level03Briefing
+"Level 3: \n Use scaffolds to deny Salvage Crates. Don't let the Technical grab more than 1 Crate. \n \n HINT: The default hotkey to cancel a scaffold is 'C'."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level04Briefing
+"Level 4: \n Angle your troops in order to topple the tower onto the turret. \n \n HINT: You can rotate the camera by clicking the 'Mouse Wheel' to line up your Tank Hunters better."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level05Briefing
+"Level 5: \n Destroy the enemy factories(tunnels excluded) with careful tank control."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level06Briefing
+"Level 6: \n Destroy the enemy building and build an Airfield built without losing any jets. \n \n HINT: Hold 'Alt' while clicking to keep your jets distracted."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level07Briefing
+"Level 7: \n Steal the enemy Dozer with Jarmen Kell in order to place a Command Center and Power Plant scaffold quicky. \n \n HINT: Click the dozer before Jarmen enters it in order to place scaffolds faster."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level08Briefing
+"Level 8: \n Bait the enemy out of the tunnel and let your Carpet Bomb do the rest. \n \n NOTE: the Carpet Bomber spawns from the south."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level09Briefing
+"Level 9: \n Spread your EMP Patriot missile attacks around to survive."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level10Briefing
+"Level 10: \n Use Rebel Ambush to destroy the enemy Command Center."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level11Briefing
+"Level 11: \n Bait the tanks into your Demo Traps. \n \n NOTE: The traps must be manually detonated."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level12Briefing
+"Level 12: \n Destroy all structures while eyeing your surroundings. \n \n NOTE: This level is a tribute to a GameReplays legend."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level13Briefing
+"Level 13: \n Hold 'Ctrl' to force fire the disguised Bomb Trucks."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level14Briefing
+"Level 14: \n Blow up the enemy with your Nuke Battlemasters. \n \n HINT: Try using formation move. \n \n NOTE: A legendary noob once claimed that these tanks blow up like Bomb Trucks."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level14BriefingPart2
+"That was too easy. Now try doing the opposite. Destroy the Nuke Battemasters with Tank Hunters."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level15Briefing
+"Level 15: \n Use your garrison to defeat the unfriendly housekeepers."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level16Briefing
+"Level 16: \n Clear the Anthrax with your Toxin Tractor using Contaminate before losing your tanks."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level17Briefing
+"Level 17: \n Micro your ECMs with your Gattling Tanks carefully to win."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level18Briefing
+"Level 18: \n Defend the Dozer and scaffold until construction is complete and all enemies are cooked. \n \n HINT: Don't do anything foolish here or else you will pay dearly. I mean it!!!"
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level19Briefing
+"Level 19: \n Humvee micro challenge with a twist. Every 5 units you kill causes the enemy to transform into more dangerous units. \n \n HINT: Units move faster when going diagonally. Use this to your advantage."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level20Briefing
+"Level 20: \n Find the 3 stealthed Black Markets out of 9 spots with your Barracks waypoint ability before using the Particle Cannon to destroy them. \n \n HINT: Click rapidly with the Particle Beam to make it move faster."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level21Briefing
+"Level 21: \n Destroy all structures using your superior numbers while dodging Generals Powers. \n \n HINT: Your single Spy Drone use is not meant for stealth detection."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level22Briefing
+"Level 22: \n Destroy all essential structures belonging to the middle player with a well timed and rage inducing backstab. Don't let the top player die. \n \n HINT: As soon as you attack, the enemy will focus on you rather than the top player. \n \n NOTE: The enemy types in chat for this level."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level23Briefing
+"Level 23: \n Leapfrog your Scud Launchers to stop the enemy attack wave. At least 1 of your SCUD Launchers must survive. \n \n NOTE: Your SCUDs cannot collect Salvage."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level24Briefing
+"Level 24: \n Defeat the enemy Comanches with only Support Powers. \n \n HINT: Target the shadows with your Leaflet."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level24BriefingPart2
+"Ok Mr. Expert. Now try stopping a MOAB. \n \n NOTE: Your Command Center health will be reduced to MOAB kill range."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Level25Briefing
+"Final Level: \n Defeat the Tomahawks. \n HINT: Move towards the Tomahawks as they launch in somewhat of a zig-zag pattern."
+End
+
+SCRIPT:MSNSTR:BKR:DG:Whine1
+"[AI] wtf moron"
+End
+
+SCRIPT:MSNSTR:BKR:DG:Whine2
+"[AI] fkn stupid"
+End
+
+SCRIPT:MSNSTR:BKR:DG:Whine3
+"[AI] dumb noob"
+End
+
+SCRIPT:MSNSTR:BKR:DG:Whine4
+"[AI] omfg no iq"
+End
+
+SCRIPT:MSNSTR:BKR:DG:Whine5
+"[AI] fkn teaming"
+End
+
+SCRIPT:MSNSTR:BKR:DG:Whine6
+"[AI] mentally bad"
+End
+
+SCRIPT:MSNSTR:BKR:DG:WhineFinal
+"[AI] reported"
+End
+
+SCRIPT:MSNSTR:BKR:DG:WhineTaunt
+"[AI] suck it losers"
+End
