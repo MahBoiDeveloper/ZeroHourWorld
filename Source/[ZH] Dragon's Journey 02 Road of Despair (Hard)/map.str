@@ -1,0 +1,84 @@
+intro1
+"9 Hours after the defeat of Tao and the GLA resistance"
+End
+
+intro2
+"Biker : Comrades, we've lost our warrior in the West,
+\nand now China has captured the person responsible for our loss."
+End
+
+intro3
+"Biker : They want to put him on trial. But as we all know
+\nhe deserve to be killed by our own hands so our fallen brothers
+\ncould finally rest in peace"
+End
+
+intro4
+"Leader : You all heard what he said, we must find him
+\nand kill him this instance"
+End
+
+intro5
+"Biker : They will move through our territory, this is our
+\nbest chance to set up an ambush"
+End
+
+intro6
+"Leader : Spread out and set up an ambush. We'll show them no mercy"
+End
+
+camtop1
+"27 hours later"
+End
+
+SCRIPT:p1come
+"General, General Kwai has given us control to some of his army to Escort General Tao to his trial.
+\n
+\nYour mission is to escort the POW to the other side of the map. our report said they have spotted a large scale activity in this area, you should move carefully on escorting that POW truck
+\n
+\nThe POW truck will move once you eliminate the thread and it will stop once it gets close enought to the ambush area"
+End
+
+roadblock
+"Seems like the main bridge is down, and the main 
+\nroad has been blocked, find anoher way"
+End
+
+Agent
+"Agent : Thanks for the help, we don't know how much longer we could 
+\nsurvive here. we're stuck on the middle of nowhere then an avalanche happen
+\nand seal off this area"
+End
+
+Agent2
+"Agent : If you'd like to go through the main road, we could help you
+\nremove those road blocks. Just take me there and escort us to the nearest base."
+End
+
+bombplant
+"Agent : Move back the bomb gonna explode soon"
+End
+
+SCRIPT:reinforcement
+"General, we have sent you a reinforcement
+\nthey're all Tao trusted man and they want to help you
+\nto escort him."
+End
+
+SCRIPT:Repair
+"General looks like our POW truck went out of battery.
+\nWe'll try to repair it but it will take time to do it"
+End
+
+SCRIPT:Timer
+"Repair time : "
+End
+
+SCRIPT:Loset
+"Time Remaining until the siege : "
+End
+
+creator
+"Map Created by VeLoXiuS
+\nFeel free to leave your feedback on my discord VeLoXius#1512"
+End

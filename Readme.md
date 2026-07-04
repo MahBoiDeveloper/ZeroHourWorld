@@ -126,6 +126,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Casino Resurrection Five (2v2)                  | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Casino Resurrection Six (2v2)                   | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
 | [ZH] Dragon's Journey 02 Road of Despair (Brutal)    | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Easy)      | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Hard)      | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Medium)    | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
 
 ## License
 
