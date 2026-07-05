@@ -3,3 +3,5 @@ Build
 Tools/_Patched
 Tools/replaces.txt
 Tools/source.scb
+**/Source/*/AdrianeMapSettings.ini
+**/Source/*/AdrianeScriptWarningsCache.txt
