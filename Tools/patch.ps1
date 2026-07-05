@@ -29,11 +29,7 @@ foreach ($line in $patchLines) {
 
   $escapedFrom = [Regex]::Escape($from)
 
-  $scriptsText = [Regex]::Replace(
-    $scriptsText,
-    $escapedFrom,
-    [System.Text.RegularExpressions.MatchEvaluator]{ param($m) $to }
-  )
+  $scriptsText = $scriptsText.Replace('"' + $from + '"', '"' + $to + '"')
 }
 
 # Write back
