@@ -1,0 +1,88 @@
+MSNSTR:BH:TAOVOL2:M3:GeneralCaptureAmericaAvenger
+"General,we recycled the America Armored Avenger.Time to build more from our Supply Center."
+end
+
+MSNSTR:BH:TAOVOL2:M3:Intro
+"Philippine borders, Babuyan Island.
+\n10 hours after the battle in Japan."
+end
+
+MSNSTR:BH:TAOVOL2:M3:IntroLeang1
+"Hello, general! Its Leang! We have explored base of Rokuro-kubi.
+\nHe had defeated in Japan, but he is not going to surrender.
+\nFor now his target is Philippines. Rokuro wants to destroy its state and create his center.
+\nPhilippines president is informed about the situation. He believes our force."
+end
+
+MSNSTR:BH:TAOVOL2:M3:IntroLeang3
+"Our cybernetics explored, that Rokuro learned how to control minds of humans.
+\nHe transformed some our soldiers to his own zombies because of nano-robots.
+\nHint:The Hijacker are Good for somethings."
+end
+
+MSNSTR:BH:TAOVOL2:M3:IntroLeang4
+"Rokuro-Kubi must be stopped here. Otherwise, our civilization can be destroyed.
+\nThis is our final battle with Ningen mind. It must be defeated here."
+end
+
+MSNSTR:BH:TAOVOL2:M3:IntroLeang5
+"Rokuro himself leading this operation. We found his mind in the looted super-tank.
+\nDestroy this mechanism and the Ningen mind will be fully annihilated."
+end
+
+MSNSTR:BH:TAOVOL2:M3:IntroTask
+"Your task - to destroy super-tank of USA army, captured by the Ningen undead mind.
+\nAnnihilate all zombie soldiers and rebellious vehicles in this island!"
+end
+
+MSNSTR:BH:TAOVOL2:M3:Outro1
+"Rokuro-kubi: - No.... No.... Nooooo... You just monkeys! You are primitive hominids!
+\nYou cant... defeat me..... You all..... pathetic.... zzzzz.....zzzzshhhshshh....!"
+end
+
+MSNSTR:BH:TAOVOL2:M3:Outro2
+"Leang: - General, it seems, we defeated Ningen threat. Rokuro-kubi is dead now.
+\nThis is the glorious victory, really! The glorious victory, sir!
+\nYeah! We see how enemy vehicles are shutting down! all of them are out of energy!.
+\nGeneral, my congrats to you! You saved our planet! You saved the mankind today!."
+end
+
+MSNSTR:BH:TAOVOL2:M3:Outro2-1
+"RedGuard:General,We Detected some things from the Tunnel in the North-West.
+\nGeneral Tao:Fire the Cruise Missile and Deploy the Armored Strike Team to Neutralize
+\nThem near the Tunnel."
+end
+
+MSNSTR:BH:TAOVOL2:M3:Outro2-2
+"RedGuard:General,Ningen Base CounterAttack Armored Team 1 had been Destroyed.
+\nBut The Ningen Base Still had the Strike team signal in another Tunnel.
+\nGeneral Tao:Good,and Our second Armored Strike Team's arrived.Let get this Done."
+end
+
+MSNSTR:BH:TAOVOL2:M3:Outro2-3
+"Hacker:General,there are some things come out from the Tunnel.
+\nRokuro-kubi:You think.......You can defeat.......meeeeeeee..............
+\nI'm not........done.........yeeeeeeeeet..........."
+end
+
+MSNSTR:BH:TAOVOL2:M3:Outro2-4
+"Rokuro-Kubi:What are you doing here,no........no......nein.......nah..............
+\nMy Connect............-Voice of Something disconnected from the Custom Vehicle.
+\nNuke Hacker:General,We disconnected the Rokuro-Kubi Brain Device from these Tanks.
+\nGeneral Tao:Well Done.After Recycled these Tanks,Destroy these Brain Device."
+end
+
+MSNSTR:BH:TAOVOL2:M3:Outro2-5
+"Nuke Helix Pilot:All Cargo are on the Deck,Return to Base.
+\nHacker:And the Brain Device been Destroyed Successfully.
+\nGeneral Tao:Yeah,we can take a rest now."
+end
+
+MSNSTR:BH:TAOVOL2:M3:Lose1-1
+"General Leang:General Tao,General,damn it.HQ,We lost General Tao's signal.
+\nChina HQ:Just get the Fuck out,General Leang.......
+\nRokuro-Kubi:Now I will expand my army and kill the Assholes who captured my Territory
+\nIn this world,hahahahahahaha.................................."
+end
+
+

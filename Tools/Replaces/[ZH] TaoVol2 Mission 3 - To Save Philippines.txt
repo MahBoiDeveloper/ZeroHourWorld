@@ -1,0 +1,15 @@
+GeneralCaptureAmericaAvenger///MSNSTR:BH:TAOVOL2:M3:GeneralCaptureAmericaAvenger
+Intro///MSNSTR:BH:TAOVOL2:M3:Intro
+IntroLeang1///MSNSTR:BH:TAOVOL2:M3:IntroLeang1
+IntroLeang3///MSNSTR:BH:TAOVOL2:M3:IntroLeang3
+IntroLeang4///MSNSTR:BH:TAOVOL2:M3:IntroLeang4
+IntroLeang5///MSNSTR:BH:TAOVOL2:M3:IntroLeang5
+IntroTask///MSNSTR:BH:TAOVOL2:M3:IntroTask
+Outro1///MSNSTR:BH:TAOVOL2:M3:Outro1
+Outro2///MSNSTR:BH:TAOVOL2:M3:Outro2
+Outro2-1///MSNSTR:BH:TAOVOL2:M3:Outro2-1
+Outro2-2///MSNSTR:BH:TAOVOL2:M3:Outro2-2
+Outro2-3///MSNSTR:BH:TAOVOL2:M3:Outro2-3
+Outro2-4///MSNSTR:BH:TAOVOL2:M3:Outro2-4
+Outro2-5///MSNSTR:BH:TAOVOL2:M3:Outro2-5
+Lose1-1///MSNSTR:BH:TAOVOL2:M3:Lose1-1

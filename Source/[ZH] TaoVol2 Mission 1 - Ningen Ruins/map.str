@@ -1,0 +1,62 @@
+MSNSTR:BH:TAOVOL2:M1:INTRO
+"Ningen Island, Pacific sector region.
+\n1200 km from the Ruku Islands."
+END
+
+MSNSTR:BH:TAOVOL2:M1:INTRO0
+"Hello general Tao. We have received the SOS signal from this island.
+\nIt was the signal from american base. We need to check it now."
+end
+
+MSNSTR:BH:TAOVOL2:M1:INTRO1
+"Our scanners are showing interesting things. American base is here.
+\nAnd its fully functional. But there is no any crew"
+END
+
+MSNSTR:BH:TAOVOL2:M1:INTRO2
+"Strange things, sir. Vehicles are moving without pilots.
+\nSomething is wrong here. Stop.... Stop.... Stop...."
+END
+
+MSNSTR:BH:TAOVOL2:M1:INTRO3
+"They are attacking us! Vehicles are going to attack us!.
+\nWe need to destroy this base anyway!"
+END
+
+MSNSTR:BH:TAOVOL2:M1:INTRO4
+"Check the ruins of Ningen civilization around.
+\nIts possible, that all of this have connections"
+END
+
+MSNSTR:BH:TAOVOL2:M1:INTRO5
+"Your task - explore the Ningen empire ruins and destroy vehicles base.
+\nWe need to understand more what happened here"
+END
+
+MSNSTR:BH:TAOVOL2:M1:INTRO6
+"Good luck, general.
+\nWe need be very careful, its dangerous situation"
+END
+
+MSNSTR:BH:TAOVOL2:M1:INTRO_ENDING
+"You had been defeated, general.
+\nYou failed in your attempts to explore this island"
+END
+
+MSNSTR:BH:TAOVOL2:M1:NINGENCANNONINFO
+"Its very interesting. Americans tried to explore Ningen ruins.
+\nLets capture this temple. Maybe we will find something cool."
+END
+
+MSNSTR:BH:TAOVOL2:M1:OUTROSTART
+"Leang: We had understood what is here. American base was under control of AI system.
+\nOh.... My God! This AI took control of other american and japanese bases around too.
+\nAnother bad news. AI is going to attack the land now. Japan is the target!
+\nWe need to send it to Japanese government immediately! Go! Go!"
+END
+
+MSNSTR:BH:TAOVOL2:M1:OUTRO1
+"We need to connect with UN and NORAD right now! This is very serious, general!
+\nGeneral Leang was right. To explore Ningen secrets was very bad idea!
+\nAnd now we all have the bad aftermath."
+END

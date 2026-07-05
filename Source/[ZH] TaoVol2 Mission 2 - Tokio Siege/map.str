@@ -1,0 +1,80 @@
+MSNSTR:BH:TAOVOL2:M2:Intro
+"Tokio borders, Japan territory.
+\n5 hours after the Ningen island battle."
+END
+
+MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech
+"Rokuro-kubi: - Greetings, citizen of Djomon! My name is Pasti Rokuro-kubi!
+\nListen to me very carefully. Because i will not repeat."
+END
+
+MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech1
+"Thousand years Ningen owned these lands. Lands, what you call Nippon.
+\n70 000 years ago the terrible Cataclysm destroyed our culture. Many of us died.
+\nBut your scientists were clever to explore our island and help my mind to be restored.
+\nThis was my second born. And the second chance for the Ningen."
+END
+
+MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech2
+"Your scientists found my computer, which was the copy of my precious being.
+\nI have no body for now. But i can control all. Your machines and your steel armies.
+\nI am merciful. So i am giving you task - to clean these islands and return it to us.
+\nAll citizens of Nippon and other islands must leave our land."
+END
+
+MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech3
+"I took control of all your vehicles. And my mind will spread to all your machines.
+\nGo away from our land. Ningens will rule again. And you... You will know your place"
+END
+
+MSNSTR:BH:TAOVOL2:M2:IntroCivilianSpeech1
+"Civilian 1:What was that?I heard the Air-Siren.........
+\nCivilian 2:Run......we had been invaded..........."
+END
+
+MSNSTR:BH:TAOVOL2:M2:IntroLeang
+"Leang: - General, we need to save Japan from the rebellious machine attack! Its the disaster!.
+\nThis... Rokuro-Kubi had captured all american vehicles! He attacked all Japanese seaside!
+\nGeneral Yosiro and UN army will help you to protect Japan lands. Destroy all enemies!
+\nSave the Tokio and all cities! Annihilate army of Rokuro-Kubi!"
+END
+
+MSNSTR:BH:TAOVOL2:M2:NuclearCannonInfo
+"Ningens destroyed our Nuclear control center. But it has 30% functional.
+\nCapture the control center. Enemies are too much, we need to use superweapon!"
+END
+
+MSNSTR:BH:TAOVOL2:M2:NuclearRetookSilo
+"General,We re-took this Nuke Facility here.
+\nGeneral Tao:Excellent,let me insert the Launch Codes for it."
+END
+
+MSNSTR:BH:TAOVOL2:M2:NuclearDiscovery
+"Hacker:General,I found a strange area at this Island.
+\nGeneral Nuke:What was that?
+\nHacker:I don't know,maybe it's an Ancident Tunnel for something In and Out."
+END
+
+MSNSTR:BH:TAOVOL2:M2:GeneralCaptureAvenger
+"General,we recycled the America Armored Avenger.Let build more from our Supply Center."
+END
+
+MSNSTR:BH:TAOVOL2:M2:GeneralCapturePaladin
+"General,we recycled the America Custom Paladin.Our Supply Center is ready for this."
+END
+
+MSNSTR:BH:TAOVOL2:M2:Outro
+"Rokuro-kubi: - Its not the final, humans. You are the evil. And i will destroy your genus!
+\nI will return with more armies... With more machines and kill you for glory of Ningen!"
+END
+
+MSNSTR:BH:TAOVOL2:M2:Outro1
+"UN Ally Base Commander:General,we re-took this America Successfully Here.
+\nGeneral Nuke:Let Re-Supply this Base here,shall we?
+\nUN Ally Base Supply Convoy:Roger,We're approaching now."
+END
+
+MSNSTR:BH:TAOVOL2:M2:Outro2
+"Leang: - General, we had protected the Japanese seaside. We cleaned Tokio and Tokusima.
+\nBut its not the final. We need to destroy this AI at all. This creature must not win."
+END

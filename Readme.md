@@ -44,6 +44,7 @@
 * [Casino - Resurrection Pack](https://www.moddb.com/games/cc-generals-zero-hour/addons/casino-resurrection-pack)
 * [Dragon's Journey 02 - Road of Despair](https://www.cnclabs.com/downloads/details/3111/)
 * [Desert Gauntlet V2](https://www.cnclabs.com/downloads/details/3145/)
+* [Tao Unofficial Campaign - Return of Ancients](https://www.moddb.com/games/cc-generals-zero-hour/addons/tao-unofficial-campaign-return-of-ancients)
 
 </details>
 
@@ -131,6 +132,10 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Dragon's Journey 02 Road of Despair (Hard)      | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
 | [ZH] Dragon's Journey 02 Road of Despair (Medium)    | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
 | [ZH] Desert Gauntlet                                 | Challenge      | 2       | BKR                                  | [#25](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/25)    |
+| [ZH] Rokuro Home                                     | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] TaoVol2 Mission 1 - Ningen Ruins                | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] TaoVol2 Mission 2 - Tokio Siege                 | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] TaoVol2 Mission 3 - To Save Philippines         | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
 
 ## License
 

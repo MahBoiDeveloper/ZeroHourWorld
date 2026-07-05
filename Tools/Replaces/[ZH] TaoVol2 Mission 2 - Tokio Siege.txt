@@ -1,0 +1,15 @@
+Intro///MSNSTR:BH:TAOVOL2:M2:Intro
+IntroPastiSpeech///MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech
+IntroPastiSpeech1///MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech1
+IntroPastiSpeech2///MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech2
+IntroPastiSpeech3///MSNSTR:BH:TAOVOL2:M2:IntroPastiSpeech3
+IntroCivilianSpeech1///MSNSTR:BH:TAOVOL2:M2:IntroCivilianSpeech1
+IntroLeang///MSNSTR:BH:TAOVOL2:M2:IntroLeang
+NuclearCannonInfo///MSNSTR:BH:TAOVOL2:M2:NuclearCannonInfo
+NuclearRetookMissileSilo///MSNSTR:BH:TAOVOL2:M2:NuclearRetookSilo
+NuclearDiscoveryJapaneseAncidentArea///MSNSTR:BH:TAOVOL2:M2:NuclearDiscovery
+GeneralCaptureAmericaAvenger///MSNSTR:BH:TAOVOL2:M2:GeneralCaptureAvenger
+GeneralCaptureAmericaCustomPaladin///MSNSTR:BH:TAOVOL2:M2:GeneralCapturePaladin
+Outro///MSNSTR:BH:TAOVOL2:M2:Outro
+Outro1///MSNSTR:BH:TAOVOL2:M2:Outro1
+Outro2///MSNSTR:BH:TAOVOL2:M2:Outro2
