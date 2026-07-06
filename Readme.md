@@ -45,6 +45,7 @@
 * [Dragon's Journey 02 - Road of Despair](https://www.cnclabs.com/downloads/details/3111/)
 * [Desert Gauntlet V2](https://www.cnclabs.com/downloads/details/3145/)
 * [Tao Unofficial Campaign - Return of Ancients](https://www.moddb.com/games/cc-generals-zero-hour/addons/tao-unofficial-campaign-return-of-ancients)
+* [OWH - The Beginning](https://www.cnclabs.com/downloads/details/3059/)
 
 </details>
 
@@ -136,6 +137,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] TaoVol2 Mission 1 - Ningen Ruins                | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
 | [ZH] TaoVol2 Mission 2 - Tokio Siege                 | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
 | [ZH] TaoVol2 Mission 3 - To Save Philippines         | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] One Way Home - The Beginning                    | Mission        | N/A     | Juhhzizz                             | [#63](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/63)    |
 
 ## License
 

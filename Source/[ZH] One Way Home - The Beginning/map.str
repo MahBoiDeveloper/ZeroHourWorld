@@ -1,0 +1,15 @@
+MSNSTR:JHZ:OWHP:MISSIONNAME
+"One Way Home - Prologue\nThe Beginning"
+END
+
+MSNSTR:JHZ:OWHP:LITTLEMISSION
+"General, we has been attacked by the GLA\nTime to get our revenge"
+END
+
+MSNSTR:JHZ:OWHP:FINALMISSION
+"Main mission:\nDestroy the GLA commandcenter!"
+END
+
+MSNSTR:JHZ:OWHP:TIPP
+"We have limited supplies, build supply-drop zones!"
+END
