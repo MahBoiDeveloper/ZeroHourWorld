@@ -1,0 +1,60 @@
+MSNSTR:GRMT:DFR:Intro1
+"Xinjiang, Lanzhou
+\nChinese Nuclear Facility Lop-Nor"
+END
+
+SCRIPT:MSNSTR:GRMT:DFR:ProtectFactory_Countdown
+"Protect The Factory For:"
+END
+
+SCRIPT:MSNSTR:GRMT:DFR:Stranded_USA_Ranger
+"General, According to our intel the GLA has establish a huge base in the forest hills. This alone makes an assault to their base is extremely hard to do, but luckily our Nuclear Facility have the firepower to desimate the GLA in that hills. Therefore recapturing the facility is an absolute must
+\n
+\nUnfortunately the US agent who provide intel to us encounter resistant in the way out and now he's stranded somewhere in this area, If we manage to save him, the US will aid us in this operation. Find and bring him to the US rescue team, southwest of our position. Bring this person back to home in one piece, Good Luck General!"
+End 
+
+MSNSTR:GRMT:DFR:Stranded_USA_Ranger_Saved
+"General, we have manage to save the stranded US agent
+\nThe US will now help us fight the GLA in this operation"
+End 
+
+MSNSTR:GRMT:DFR:Spotted_Briefing
+"General, the GLA has spotted us!
+\nPrepare for Battle!"
+END
+
+MSNSTR:GRMT:DFR:GLA_Bases_Warning
+"General, According to our intel the GLA base is heavily fortified
+\nIts adviseable to recapture the Nuclear Facility instead"
+END
+
+MSNSTR:GRMT:DFR:Protect_Factory
+"General, We have recapture the Nuclear Facility
+\nNow you must protect it until the missiles are ready to launch!"
+END
+
+MSNSTR:GRMT:DFR:Overlord_And_NukeCannon_Enabled
+"General, We're now able to build our Heavy Tanks and Heavy Artillery
+\nin the War Factory. The Overlord and Nuke Cannon, make good use of
+\nthem to protect our factory General!"
+End
+
+MSNSTR:GRMT:DFR:GLA_Main_Forces_Activated
+"General, The GLA Main Base is now in high alert
+\nThey will start to sending massive forces to our base and US base!"
+END
+
+MSNSTR:GRMT:DFR:GLA_Main_Forces_Activated2
+"General, GLA Bridge Guard has spotted us!
+\nTheir main base is now in high alert, prepare for a fierce battle!"
+END
+
+MSNSTR:GRMT:DFR:USA_Intel_Killed
+"General, The US Agent has been killed
+\nThe US is very dissapointed of us and will not provide any support in this operation!"
+END
+
+MSNSTR:GRMT:DFR:USA_Defeated
+"General, The US has been defeated!
+\nPrepare for GLA assaults on our flank!"
+END

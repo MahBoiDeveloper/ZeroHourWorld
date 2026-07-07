@@ -1,0 +1,12 @@
+Intro1///MSNSTR:GRMT:DFR:Intro1
+SCRIPT: ProtectFactory_Countdown///SCRIPT:MSNSTR:GRMT:DFR:ProtectFactory_Countdown
+SCRIPT:Stranded_USA_Ranger///SCRIPT:MSNSTR:GRMT:DFR:Stranded_USA_Ranger
+Stranded_USA_Ranger_Saved///MSNSTR:GRMT:DFR:Stranded_USA_Ranger_Saved
+Spotted_Briefing///MSNSTR:GRMT:DFR:Spotted_Briefing
+GLA_Bases_Warning///MSNSTR:GRMT:DFR:GLA_Bases_Warning
+Protect_Factory///MSNSTR:GRMT:DFR:Protect_Factory
+Overlord_And_NukeCannon_Enabled///MSNSTR:GRMT:DFR:Overlord_And_NukeCannon_Enabled
+GLA_Main_Forces_Activated///MSNSTR:GRMT:DFR:GLA_Main_Forces_Activated
+GLA_Main_Forces_Activated2///MSNSTR:GRMT:DFR:GLA_Main_Forces_Activated2
+USA_Intel_Killed///MSNSTR:GRMT:DFR:USA_Intel_Killed
+USA_Defeated///MSNSTR:GRMT:DFR:USA_Defeated
