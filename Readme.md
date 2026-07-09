@@ -47,6 +47,7 @@
 * [Tao Unofficial Campaign - Return of Ancients](https://www.moddb.com/games/cc-generals-zero-hour/addons/tao-unofficial-campaign-return-of-ancients)
 * [OWH - The Beginning](https://www.cnclabs.com/downloads/details/3059/)
 * [Death Factory [Remastered]](https://www.cnclabs.com/downloads/details/3066/)
+* [Alexandres Campaign-S1 Resistence](https://www.cnclabs.com/downloads/details/3056/)
 
 </details>
 
@@ -140,6 +141,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] TaoVol2 Mission 3 - To Save Philippines         | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
 | [ZH] One Way Home - The Beginning                    | Mission        | N/A     | Juhhzizz                             | [#63](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/63)    |
 | [ZH] Death Factory Remastered                        | Mission        | N/A     | Gramantio                            | [#61](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/61)    |
+| [ZH] Alexandres Campaign S1 Resistence               | Mission        | N/A     | EFEW43252                            | [#66](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/66)    |
 
 ## License
 
