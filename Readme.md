@@ -59,7 +59,7 @@ Copy maps from `Source\` folder to your local `%USERPROFILE%\Documents\Command a
 
 ### Developers
 
-* mah_boi — project's author, maintainer
+* [mah_boi](https://github.com/MahBoiDeveloper) — project's author, maintainer
 
 ### Contributors
 
