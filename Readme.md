@@ -48,6 +48,7 @@
 * [OWH - The Beginning](https://www.cnclabs.com/downloads/details/3059/)
 * [Death Factory [Remastered]](https://www.cnclabs.com/downloads/details/3066/)
 * [Alexandres Campaign-S1 Resistence](https://www.cnclabs.com/downloads/details/3056/)
+* [Hilams 2nd Challenge](https://www.cnclabs.com/downloads/details/3127/)
 
 </details>
 
@@ -142,6 +143,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] One Way Home - The Beginning                    | Mission        | N/A     | Juhhzizz                             | [#63](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/63)    |
 | [ZH] Death Factory Remastered                        | Mission        | N/A     | Gramantio                            | [#61](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/61)    |
 | [ZH] Alexandres Campaign S1 Resistence               | Mission        | N/A     | EFEW43252                            | [#66](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/66)    |
+| [ZH] Hilams 2nd Challenge                            | Challenge      | N/A     | EFEW43252                            | [#29](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/29)    |
 
 ## License
 
