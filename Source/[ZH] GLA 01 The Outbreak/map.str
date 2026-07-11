@@ -1,0 +1,63 @@
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG1
+"Masyaf City, Syria.
+\nConsumer Fraud.
+\nOperation :The Outbreak(Of War)"
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG2
+"06:25 35.06659N, 36.34336E
+\nGLA's Anthrax Research Station, 
+\nunder a shoe factory, has a toxic leak.."
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG3
+"Brother, We lost toxic factory
+\nThe Americans took our brothers as hostage, 
+\nYou need to Kill them before they get the intel"
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG4
+"Mission Objective:
+\nExecute All of the 7 hostage, 
+\nThe hostage may runaway so Plan before you act."
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG5
+"Incoming Transmission:
+\nShermin Demian has been Executed."
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG6
+"Incoming Transmission:
+\nRashod Saade, Rohi Quadri
+\nhas been Executed."
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG7
+"Incoming Transmission:
+\nWasifi Tariq
+\nhas been Executed."
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG8
+"Incoming Transmission:
+\nCairo Mohamed, Mazin Rais, Shafiq Imam
+\nhas been Executed."
+END
+
+SCRIPT:MSNSTR:SUPZH:GLA:01:KILLHOSTAGES
+"Hostages left have to Kill"
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG9
+"Incoming Transmission:
+\nBrother, The High table
+\nLet you use the shelter camp to build and recruit."
+END
+
+MSNSTR:SUPZH:GLA:01:CAPTION_DIALOG10
+"Incoming Transmission:
+\nWell done Brother,
+\nNow Destroy American shelter,
+\nLeave them nothing."
+END
