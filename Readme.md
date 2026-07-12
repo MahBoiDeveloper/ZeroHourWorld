@@ -51,6 +51,7 @@
 * [Hilams 2nd Challenge](https://www.cnclabs.com/downloads/details/3127/)
 * [[SUPZH]GLA01 The Outbreak](https://www.cnclabs.com/downloads/details/3089/)
 * [[SUPZH]GLA02 Al Halabia](https://www.cnclabs.com/downloads/details/3090/)
+* [[SUPZH]GLA03 Postal Services](https://www.cnclabs.com/downloads/details/3091/)
 <!-- * []() -->
 
 </details>
@@ -149,6 +150,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Hilams 2nd Challenge                            | Challenge      | N/A     | EFEW43252                            | [#29](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/29)    |
 | [ZH] GLA 01 The Outbreak                             | Mission        | N/A     | Supakrid                             | [#51](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/51)    |
 | [ZH] GLA 02 Al Halabia                               | Mission        | N/A     | Supakrid                             | [#50](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/50)    |
+| [ZH] GLA 03 Postal Services                          | Mission        | N/A     | Supakrid                             | [#49](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/49)    |
 
 ## License
 
