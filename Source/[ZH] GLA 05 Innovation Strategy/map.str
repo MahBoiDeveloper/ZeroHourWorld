@@ -1,0 +1,111 @@
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG1
+"Khunayfis, Syria.
+\nFree Fire Zone.
+\nOperation :Innovation Strategy."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG2
+"06.42 34.22818N, 37.80033E
+\nUS forces are Operate a secret task here
+\nWe're tracking their Trucks was from Qattinah."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG3
+"This area is full of American forces activity
+\nThe UN Can't do anything about Shepherd Order
+\nWe will punish them by ourself."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG4
+"Incoming Transmission:
+\nWe were condemned as terrorists
+\nWe will prove to the World know the truth."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG5
+"Mission Objective: #1
+\nWe need to stolen Shepherd Classified intel
+\nfrom Strategy Center on that Mountain
+\nit could be link up with the US.Main Base."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG6
+"Mission Objective: #2
+\nDefend All the Strategy Center
+\nUntil Saboteur can link up the data."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG7
+"We don't need to lose many of Our men in this fight
+\nbe Smart like a Snake, and be Strong like a Lion,
+\nGood Hunting, Brother."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG8
+"Bonus Objective:
+\nWe locate American detained our war hero here
+\nSecure city on the north will free our warrior."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG9
+"Incoming Transmission:
+\nOur intel confirmed Gen.Xu Yang need something from American base
+\nProtect American base from China forces."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG10
+"Incoming Transmission:
+\nWe located Chinese base here,
+\nThey're know we're here 
+\nbrother, protect Your base."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG11
+"Incoming Transmission:
+\nJarmen kell tell us about Tunnel Network in this region
+\nWe can infiltrate without enemy can detected us."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG12
+"Incoming Transmission:
+\nBrother, Our Saboteur said he need more time
+\nWe're sending reinforcement coming in hot."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG13
+"Mission Objective: #2
+\nDefend all Strategy center inthis region
+\nUntil Sabotuer can link up the data from US.Main base."
+END
+
+SCRIPT:MSNSTR:SUPZH:GLA:05:HACKDATA
+"Hacking and Transferring Shepherd Data"
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG14
+"Bonus Objective: #2
+\nCapture One of a China Nuclear Reactor.
+\nit will be reduce the transferring time."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG15
+"CAUTION! : Beware every steps!
+\nWe need to Complete Objective #1 First!
+\nDon't go to this way!."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG16
+"Command Center is Available.
+\nAdvance Units ready for training."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG17
+"Excellent works! Brother.
+\nOur Warrior crying for war with Europe."
+END
+
+MSNSTR:SUPZH:GLA:05:CAPTION_DIALOG18
+"Map Created by @SUP_ZH.
+\nYou can find me and more operation
+\nin my Youtube Channel."
+END
