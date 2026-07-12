@@ -50,6 +50,7 @@
 * [Alexandres Campaign-S1 Resistence](https://www.cnclabs.com/downloads/details/3056/)
 * [Hilams 2nd Challenge](https://www.cnclabs.com/downloads/details/3127/)
 * [[SUPZH]GLA01 The Outbreak](https://www.cnclabs.com/downloads/details/3089/)
+* [[SUPZH]GLA02 Al Halabia](https://www.cnclabs.com/downloads/details/3090/)
 <!-- * []() -->
 
 </details>
@@ -147,6 +148,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Alexandres Campaign S1 Resistence               | Mission        | N/A     | EFEW43252                            | [#66](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/66)    |
 | [ZH] Hilams 2nd Challenge                            | Challenge      | N/A     | EFEW43252                            | [#29](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/29)    |
 | [ZH] GLA 01 The Outbreak                             | Mission        | N/A     | Supakrid                             | [#51](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/51)    |
+| [ZH] GLA 02 Al Halabia                               | Mission        | N/A     | Supakrid                             | [#50](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/50)    |
 
 ## License
 
