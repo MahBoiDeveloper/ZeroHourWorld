@@ -52,6 +52,7 @@
 * [[SUPZH]GLA01 The Outbreak](https://www.cnclabs.com/downloads/details/3089/)
 * [[SUPZH]GLA02 Al Halabia](https://www.cnclabs.com/downloads/details/3090/)
 * [[SUPZH]GLA03 Postal Services](https://www.cnclabs.com/downloads/details/3091/)
+* [[SUPZH]GLA04 Loose Ends](https://www.cnclabs.com/downloads/details/3092/)
 <!-- * []() -->
 
 </details>
@@ -151,6 +152,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] GLA 01 The Outbreak                             | Mission        | N/A     | Supakrid                             | [#51](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/51)    |
 | [ZH] GLA 02 Al Halabia                               | Mission        | N/A     | Supakrid                             | [#50](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/50)    |
 | [ZH] GLA 03 Postal Services                          | Mission        | N/A     | Supakrid                             | [#49](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/49)    |
+| [ZH] GLA 04 Loose Ends                               | Mission        | N/A     | Supakrid                             | [#48](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/48)    |
 
 ## License
 
