@@ -54,6 +54,7 @@
 * [[SUPZH]GLA03 Postal Services](https://www.cnclabs.com/downloads/details/3091/)
 * [[SUPZH]GLA04 Loose Ends](https://www.cnclabs.com/downloads/details/3092/)
 * [[SUPZH]GLA05 Innovation Strategy](https://www.cnclabs.com/downloads/details/3093/)
+* [[SUPZH]GLA06 Zero Hour](https://www.cnclabs.com/downloads/details/3094/)
 <!-- * []() -->
 
 </details>
@@ -155,6 +156,8 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] GLA 03 Postal Services                          | Mission        | N/A     | Supakrid                             | [#49](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/49)    |
 | [ZH] GLA 04 Loose Ends                               | Mission        | N/A     | Supakrid                             | [#48](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/48)    |
 | [ZH] GLA 05 Innovation Strategy                      | Mission        | N/A     | Supakrid                             | [#47](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/47)    |
+| [ZH] GLA 06 Zero Hour                                | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
+| [ZH] GLA 06 Zero Hour (Brutal)                       | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
 
 ## License
 
