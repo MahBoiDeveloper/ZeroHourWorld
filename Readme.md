@@ -55,6 +55,7 @@
 * [[SUPZH]GLA04 Loose Ends](https://www.cnclabs.com/downloads/details/3092/)
 * [[SUPZH]GLA05 Innovation Strategy](https://www.cnclabs.com/downloads/details/3093/)
 * [[SUPZH]GLA06 Zero Hour](https://www.cnclabs.com/downloads/details/3094/)
+* [[SUPZH]GLA07 Final Destiny [Pack]](https://www.cnclabs.com/downloads/details/3095/)
 <!-- * []() -->
 
 </details>
@@ -158,6 +159,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] GLA 05 Innovation Strategy                      | Mission        | N/A     | Supakrid                             | [#47](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/47)    |
 | [ZH] GLA 06 Zero Hour                                | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
 | [ZH] GLA 06 Zero Hour (Brutal)                       | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
+| [ZH] GLA 07 Final Destiny                            | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
+| [ZH] GLA 07 Final Destiny (Easy)                     | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
+| [ZH] GLA 07 Final Destiny (Brutal)                   | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
 
 ## License
 
