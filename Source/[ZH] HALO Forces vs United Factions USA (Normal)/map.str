@@ -1,0 +1,2348 @@
+MSNSTR:GRMT:HALOVSUFN:BRIEFING
+"United Factions GLA vs United Factions USA
+\nDifficulty : Normal
+\nUnited Factions Gamemode by Gramantio"
+End
+
+MSNSTR:GRMT:HALOVSUFN:VICTORIOUS
+"Congratulations General!
+\n You've beaten United Factions USA in Normal Difficulty"
+End
+
+CONTROLBAR:EveryoneProperty
+"------------------- EVERYONE STRING START HERE -------------------"
+End
+
+CONTROLBAR:GenericBombardCommand
+"Bombar&d Area"
+End
+
+CONTROLBAR:ToolTipGenericBombardCommand
+"Order This Unit To Bombard The
+\nSelected Ground Area
+\n"
+End
+
+CONTROLBAR:PurchasedUpgradeUnavailable
+"Upgrade Unavaible"
+End
+
+UPGRADE:HighCaliberRounds
+"High Caliber Rounds"
+End
+
+CONTROLBAR:UpgradeHighCaliberRounds
+"Hi&gh Caliber Rounds"
+End
+
+CONTROLBAR:TooltipUpgradeHighCaliberRounds
+"Replace vehicles and base defenses small arms
+\ninto powerful high caliber rounds
+\n
+\n+25% Damage"
+End
+
+UPGRADE:CombatHeliBombDrop
+"Combat Helicopter Bomb Add-on"
+End
+
+CONTROLBAR:UpgradeCombatHeliBomb
+"Bomb Drop Add-o&n"
+End
+
+CONTROLBAR:UpgradeTooltipCombatHeliBomb
+"Instal Bomb Drop Add-on on this Combat Heli
+\n
+\nUSA : Fuel Bomb
+\nGLA : Toxin Demo Bomb
+\nHALO : EMP Pulse Bomb
+\nChina : Napalm Bomb
+\n
+\nBuild Time : 30 Seconds"
+End
+
+CONTROLBAR:DropCombatHeliBomb
+"&Drop Bomb"
+End
+
+CONTROLBAR:ToolTipDropCombatHeliBomb
+"Drop Bomb directly below this Combat Heli
+\n
+\nUSA : High Explosive Bomb
+\nGLA : Toxin Demo Bomb
+\nHALO : EMP Pulse Bomb
+\nChina : Napalm Bomb
+\n
+\nCooldown Timer : 10 Seconds"
+End
+ThingTemplate:HALOInfantryGrazia
+"Fiera Grazia"
+End
+
+CONTROLBAR:SelectCommandCenterFromShortcut
+"Select Command Cente&r"
+End
+
+CONTROLBAR:ToolTipSelectCommandCenterFromShortcut
+"Select Command Centers in order to conveniently launch general powers"
+End
+
+CONTROLBAR:ToolTipUnitedFactionsBuildParticleCannon
+"Build Time : 60 Seconds
+\n
+\nFire a devastating laser beam to a space satelite, redirecting
+\nthem towards specific targeted location
+\n
+\nPower Required : 10"
+End
+
+CONTROLBAR:USAProperty
+"------------------- USA STRING START HERE -------------------"
+End
+
+ThingTemplate:AmericaJetHeavyGunship3
+"Heavy Gunship"
+End
+
+ThingTemplate:AmericaJetHeavyGunship2
+"Heavy Gunship"
+End
+
+ThingTemplate:AmericaJetHeavyGunship1
+"Heavy Gunship"
+End
+
+ThingTemplate:AmericaInfantryMarine
+"Marine"
+End
+
+ThingTemplate:AmericaTankEliteLaserCrusader
+"Elite Laser Crusader"
+End
+
+UPGRADE:PointDefenseLaserTurret
+"Point Defense Laser Add-on"
+End
+
+CONTROLBAR:UpgradePointDefenseLaserTurret
+"Point Defense &Laser Turret"
+End
+
+CONTROLBAR:ToolTipUpgradePointDefenseLaserTurret
+"Equip this tank with Point Defense Laser Turret.
+\nLaser turret grant defense system againts Small
+\nMissiles and Infantry"
+End
+
+CONTROLBAR:PurchasedUpgradePointDefenseLaserTurret
+"This Tank is equipped with Point Defense Laser Turret"
+End
+
+UPGRADE:MachineGunTurret
+"Machine Gun Turret Add-on"
+End
+
+CONTROLBAR:UpgradeMachineGunTurret
+"&Machine Gun Turret"
+End
+
+CONTROLBAR:ToolTipUpgradeMachineGunTurret
+"Equip this tank with Machine Gun Turret. Greatly
+\nenhance this tank power againts all ground targets"
+End
+
+CONTROLBAR:PurchasedUpgradeMachineGunTurret
+"This Tank is equipped with Machine Gun Turret"
+End
+
+UPGRADE:LaserAntiAirTurret
+"Laser Anti Air Turret"
+End
+
+CONTROLBAR:UpgradeLaserAntiAirTurret
+"Laser Anti Air &Turret"
+End
+
+CONTROLBAR:ToolTipUpgradeLaserAntiAirTurret
+"Equip this tank with Laser Anti Air Turret. Give
+\nthis tank the ability to attack Air Targets"
+End
+
+CONTROLBAR:PurchasedUpgradeLaserAntiAirTurret
+"This Tank is equipped with Laser Anti Air Turret"
+End
+
+ThingTemplate:AmericaVehicleHowitzer
+"Howitzer"
+End
+
+CONTROLBAR:ConstructUSAHHowitzer
+"&Howitzer"
+End
+
+CONTROLBAR:ToolTipUSAHowitzer
+"Build TIme : 20 Seconds
+\n
+\nUSA Medium Range Artillery Howitzer
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+ThingTemplate:AmericaTankEliteCrusader
+"Elite Crusader"
+End
+
+CONTROLBAR:ConstructAmericaTankEliteCrusader
+"Elite &Crusader"
+End
+
+CONTROLBAR:ToolTipUSABuildEliteCrusader
+"Build Time : 10 Seconds
+\n
+\nUSA Medium Battle Tank
+\nCan be equipped with 3 Turret Add-on
+\n
+\nMachine Gun Turret
+\nLaser Anti Air Turret
+\nPoint Defense Laser Turret
+\n
+\nStrong vs. Tanks, Building
+\nWeak vs. Infantry, Aircraft"
+End
+
+ThingTemplate:AmericaTankMammoth
+"Mammoth"
+End
+
+CONTROLBAR:ConstructAmericaTankMammoth
+"&Mammoth"
+End
+
+CONTROLBAR:ToolTipAmericaBuildMammoth
+"Build Time : 20 Seconds
+\n
+\nUSA Heavy Battle Tank Mammoth, Equipped with double
+\nCannon, Rocket Pod and Point Defense Laser System
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+ThingTemplate:AmericaVehicleAssaultComanche
+"Assault Comanche"
+End
+
+CONTROLBAR:ConstructAmericaVehicleAssaultComanche
+"Assault &Comanche"
+End
+
+CONTROLBAR:ToolTipUSABuildAssaultComanche
+"Build Time : 25 Seconds
+\n
+\nUSA next generation attack helicopter Assault Comanche
+\n
+\nAble to attack on the move and can be upgraded with
+\ntwin laser cannons replacing the missiles
+\n
+\nStrong vs. Tanks, Infantry
+\nWeak vs. Aircraft, Anti Air"
+End
+
+CONTROLBAR:ConstructAmericaVehicleElectraCannon
+"&Electra Cannon"
+End
+
+CONTROLBAR:ToolTipUSABuildElectraCannon
+"Build Time : 35 Seconds
+\n
+\nLaser based artillery tank equipped with
+\nLight Ion Beam and Microwave radiation
+\n
+\nPower required : 5
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+ThingTemplate:AmericaVehicleElectraCannon
+"Electra Cannon"
+End
+
+UPGRADE:ComancheRocketPods
+"Comanche Laser Weapon Upgrade"
+End
+
+CONTROLBAR:UpgradeComancheLaserWeapon
+"Comanche &Laser Weapon"
+End
+
+CONTROLBAR:USAUpgradeComancheLaserWeapon
+"Equip comanches with Laser Pods, Improve comanches
+\npower and Range against ground target"
+End
+
+CONTROLBAR:ConstructAmericaA10
+"A10 &Thunderbolt"
+End
+
+CONTROLBAR:ToolTipAmericaA10
+"Built Time : 25 Seconds
+\n
+\nArmed with the mighty 30MM Minigun, 6 missiles and Heavy
+\nArmor. The plane is slow due to how heavily its armed
+\n
+\nStrong vs. Buildings, Ground Units
+\nWeak vs. Fighters, Anti Air Defenses"
+End
+
+ThingTemplate:AmericaTankAndroCannon
+"Andro Cannon"
+End
+
+CONTROLBAR:ConstructAmericaAndroCannon
+"And&ro Cannon"
+End
+
+CONTROLBAR:ToolTipAmericaAndroCannon
+"Build Time : 60 Seconds
+\n
+\nUSA Heavy Duty Artillery Tank, Equipped
+\nWith EMP Missiles and Heavy Ion Cannon.
+\n
+\nPower Required : 10
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ConstructAmericaTomahawkStorm
+"&Tomahawk Storm"
+End
+
+CONTROLBAR:ToolTipUSABuildTomahawkStorm
+"Built Time : 60 Seconds
+\n
+\nFire 9 Tomahawk Missiles Anywhere On The Map
+\n
+\nPower Required : 10"
+End
+
+GUI:Demo_SpecialAbilityDemoRebelTimedCharges
+"Cruise Missile"
+END
+
+GUI:Lazr_LaserCannon
+"Tomahawk Storm"
+END
+
+CONTROLBAR:FireTomahawkStorm
+"&Tomahawk Storm"
+End
+
+CONTROLBAR:ToolTipFireTomahawkStorm
+"Fire 9 Tomahawk Missiles Anywhere On The Map"
+End
+
+CONTROLBAR:ConstructAmericaCruiseMissileSilo
+"Cruise &Missle"
+End
+
+CONTROLBAR:ToolTipAmericaCruiseMissileSilo
+"Build Time : 60 Seconds
+\n
+\nAmerica Cruise Missile Silo, USA Variant of
+\nNuclear Missiles without radiation
+\n
+\nPower Required : 10
+\n"
+End
+
+CONTROLBAR:ConstructAmericaSentinelPatriot
+"Se&ntinel Patriot Missile System"
+End
+
+CONTROLBAR:ConstructAmericaDefenseTurret
+"&Defense Turret"
+End
+
+CONTROLBAR:ToolTipUSABuildDefenseTurret
+"Build Time : 5 Seconds
+\n
+\nUSA Defense Turret Platform, can be installed
+\nwith 3 different Turrets Add-Ons
+\n
+\nBuild Time : 5 Seconds
+\n
+\nPower Required : 4"
+End
+
+UPGRADE:AmericaSupportTower
+"Support Tower"
+End
+
+CONTROLBAR:UpgradeAmericaSupportTowerDefenseTurret
+"Suppor&t Tower"
+End
+
+CONTROLBAR:TooltipAmericaSupportTowerDefenseTurret
+"Instal this platform with Support Tower
+\n- Detect Stealthed Enemy
+\n- Heal and Repair Troops"
+End
+
+UPGRADE:AmericaEMPTurret
+"EMP Missile Turret"
+End
+
+CONTROLBAR:UpgradeAmericaEMPDefenseTurret
+"EMP M&issile Turret"
+End
+
+CONTROLBAR:TooltipAmericaEMPDefenseTurret
+"Instal this platform with EMP Missile Turret"
+End
+
+UPGRADE:AmericaLaserTurret
+"Laser Defense Turret"
+End
+
+CONTROLBAR:UpgradeAmericaLaserTurret
+"L&aser Defense Turret"
+End
+
+CONTROLBAR:TooltipUpgradeAmericaLaserTurret
+"Instal this platform with Advanced Laser Turret"
+End
+
+CONTROLBAR:ConstructAmericaAdvancedFusionReactor
+"Advanced Fusion &Reactor"
+End
+
+CONTROLBAR:ToolTipUSABuildAdvancedFusionReactor
+"Build Time : 10 Seconds
+\n
+\nUSA Advanced Fusion Reactor provide 5 power
+\nand additional 15 power fully upgraded
+\n"
+End
+
+ThingTemplate:AmericaVehiclePlasmaBattleshipNova
+"Battleship -- USS Nova"
+End
+
+ThingTemplate:AmericaVehiclePlasmaBattleshipVoyager
+"Battleship -- USS Voyager"
+End
+
+ThingTemplate:AmericaJetAdvancedAurora
+"Advanced Aurora Bomber"
+End
+
+CONTROLBAR:ConstructAmericaJetAdvancedAurora
+"Advanced Aurora &Bomber"
+End
+
+CONTROLBAR:ToolTipUSABuildAdvancedAurora
+"Built Time : 30 Seconds
+\n
+\nImmune to enemy fire in Super-Sonic mode, losses
+\nit speed after attacking by 50%, Advanced Aurora
+\nis equipped with High Explosive Bomb
+\n
+\nStrong vs. buildings
+\nWeak vs. fighters, anti-air units"
+End
+
+ThingTemplate:AmericaJetAdvancedRaptor
+"Advanced Raptor"
+End
+
+CONTROLBAR:ConstructAmericaJetAdvancedRaptor
+"Advanced Rap&tor"
+End
+
+CONTROLBAR:ToolTipUSABuildAdvancedRaptor
+"Build Time : 20 Seconds
+\n
+\nAdvanced Raptor is equipped with 6 fast reloading
+\nmissiles and Advanced Flares for stronger defense
+\nagaints missiles
+\n
+\nStrong vs. Vehicle, Aircraft, Structure
+\nWeak vs. Laser Anti-Air, Bullets Anti-Air"
+End
+
+ToolTipUSABUildCombatChinook
+"Build Time : 25 Seconds
+\n
+\nAssault Transport Helicopter, Armed with small minigun
+\nand Infantry inside can fire through the fireport. The
+\nheli can also pick up supplies
+\n
+\nStrong vs. Infantry, Vehicle
+\nWeak vs Fighter, Anti-Air"
+End
+
+ThingTemplate:AndroCannonBattleDrone
+"Laser Battle Drone"
+End
+
+CONTROLBAR:ConstructAndroCannonBattleDrone
+"Laser &Battle Drone"
+End
+
+CONTROLBAR:ToolTipUSABuildAndroCannonBattleDrone
+"Laser Battle Drone use its laser as defense system
+\nagaints Small Missiles and Infantry
+\n
+\nStrong vs. Small Missiles, Infantry
+\nWeak vs. Ballistic Missiles, Vehicles"
+End
+
+ThingTemplate:AmericaJetNighthawk
+"Nighthawk"
+End
+
+CONTROLBAR:ConstructAmericaJetNighthawk
+"&Nighthawk"
+End
+
+CONTROLBAR:ToolTipUSABuildNighthawk
+"Build Time : 25 Seconds
+\n
+\nUSA Stealth Bomber, armed with bunker buster missiles
+\ndeals heavy damage towards Base Defenses and Bunkers
+\n
+\nCan kill garrisoned soldiers inside bunker when upgraded
+\n
+\nStrong vs. Base Defenses
+\nWeak vs. Fighters, Anti Air"
+End
+
+CONTROLBAR:ToolTipUSAConstructBarracks
+"Build Time : 10 Seconds
+\n
+\nTrain USA soldier
+\n"
+End
+
+CONTROLBAR:ToolTipUSAConstructSupplyCenter
+"Build Time : 10 Seconds
+\n
+\nDrop-off point for USA supply gatherers
+\n
+\nPower Required : 1"
+End
+
+CONTROLBAR:ToolTipUSAConstructWarFactory
+"Build Time : 15 Seconds
+\n
+\nBuild USA ground arsenal
+\n
+\nPower Required : 1"
+End
+
+CONTROLBAR:ToolTipUSAConstructStrategyCenter
+"Build Time : 60 Seconds
+\n
+\nUSA Technology Center, Can use bonus abilities for
+\ntheir troops : 
+\n
+\nBombardment\t\t\t\t\t+20% Firepower
+\nSearch and Destroy\t\t+25% Weapon Range
+\nHold The Line\t\t\t\t\t+10% Armor and HP
+\n
+\nPower Required : 2"
+End
+
+CONTROLBAR:ToolTipUSAConstructAirField
+"Build Time : 30 Seconds
+\n
+\nBuilds USA Air Forces
+\n
+\nPower Required : 1"
+End
+
+CONTROLBAR:ToolTipUSAConstructCommandCenter
+"Build Time : 45 Seconds
+\n
+\nUSA Headquarters, commands special powers and
+\nbuild construction dozer
+\n"
+End
+
+CONTROLBAR:ToolTipUSAConstructSupplyDropZone
+"Build Time : 45 Seconds
+\n
+\nUSA Secondary income, calls in paradrop of supplies
+\n
+\nPower Required : 4"
+End
+
+CONTROLBAR:ToolTipUSAConstructFireBase
+"Build Time : 25 Seconds
+\n
+\nUSA Firebase platform, Powerful ground defense artillery
+\nplatformc can be garrisoned by 4 infantry
+\n"
+End
+
+CONTROLBAR:ToolTipUSABuildTankAvenger
+"Build Time : 10 Seconds
+\n
+\nUSA Support Vehicle, can destroy missiles and aircrafts
+\nwith its Point Defense Laser system
+\n"
+End
+
+CONTROLBAR:ToolTipUSABuildVehicleMedic
+"Build Time : 10 Seconds
+\n
+\nUSA Support Vehicle, can repair and heal troops
+\nin a small area around it
+\n"
+End
+
+CONTROLBAR:ToolTipUSABuildVehicleSentryDrone
+"Build Time : 10 Seconds
+\n
+\nUSA Scout Vehicle, Equipped with small machine gun
+\nstealthed when stationary and able to detect enemy
+\nstealthed units
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipUSABuildVehicleHumvee
+"Build Time : 10 Seconds
+\n
+\nUSA Transport Vehicle, Equipped with small machine gun
+\nand TOW Missile when upgraded, infantry inside can use
+\nfireport to bring more fire support
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipUSABuildVehicleTomahawk
+"Build Time : 20 Seconds
+\n
+\nUSA Long-Range Artillery, Equipped with Tomahawk Missile
+\nfor Long-Range strike
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ToolTipUSABuildVehicleCombatChinook
+"Build Time : 25 Seconds
+\n
+\nUSA Combat Transport and Supply Gatherers, Infantry
+\ninside can use fireport to bring more fire support
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ToolTipUSABuildVehicleChinook
+"Build Time : 10 Seconds
+\n
+\nUSA Transport and Supply Gatherers, can perform combat
+\ndrop with rangers to clear out enemy garrisoned structure
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ToolTipUSABuildInfantryRanger
+"Build Time : 5 Seconds
+\n
+\nUSA Basic Soldier, Equipped with long range assault
+\nrifle and flashbang when upgraded
+\n
+\nStrong vs. Infantry
+\nWeak vs. Vehicles"
+End
+
+CONTROLBAR:ToolTipUSABuildInfantryMissileDefender
+"Build Time : 5 Seconds
+\n
+\nUSA Anti-Tank Soldier, Equipped with javelin missile
+\ncan use a laser designator for rapid firing missile
+\n
+\nStrong vs. Infantry
+\nWeak vs. Vehicles"
+End
+
+CONTROLBAR:ToolTipUSABuildInfantryPathFinder
+"Build Time : 10 Seconds
+\n
+\nUSA Sniper, Equipped with long rage bolt action sniper
+\nrifle, stays hidden when not moving, can detect stealth
+\n
+\nStrong vs. Infantry
+\nWeak vs. Vehicles"
+End
+
+CONTROLBAR:ToolTipUSABuildInfantryColonelBurton
+"Build Time : 20 Seconds
+\n
+\nUSA Hero Soldier, Equipped with plasma rifle, can plant
+\nbomb charge, stays hidden when not firing
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Anti Infantry"
+End
+
+CONTROLBAR:ToolTipUSABuildAmericaDozer
+"Build Time : 5 Seconds
+\n
+\nUSA Construction Dozer, Build and Repair USA structure
+\ncan clear mines
+\n"
+End
+
+CONTROLBAR:AndroCannonPlasmaCannon
+"Plasma Cannon &Mode"
+End
+
+CONTROLBAR:ToolTipSwitchToAndroCannonPlasmaCannon
+"Plasma Cannon Mode
+\n
+\nFire one burst of plasma projectile at a farther range
+\nbut lower damage compared to Ion Cannon
+\n"
+End
+
+CONTROLBAR:AndroCannonIonCannon
+"Ion Ca&nnon Mode"
+End
+
+CONTROLBAR:ToolTipSwitchToAndroCannonIonCannon
+"Ion Cannon Mode
+\n
+\nFire a continous particle beam with a very high damage
+\nburst but lower range compared to Plasma Cannon
+\n"
+End
+
+CONTROLBAR:ToolTipSwitchToElectraIonCannon
+"Ion Cannon Mode
+\n
+\nFire a continous particle beam with a moderate damage
+\nto enemy units and buildings
+\n"
+End
+
+CONTROLBAR:ElectraCannonBuildingsDisabler
+"Buildings Disabler &Mode"
+End
+
+CONTROLBAR:ToolTipSwitchToElectraCannonBuildingsDisabler
+"Buildings Disabler Mode
+\n
+\nFire a continous radio signal towards enemy buildings
+\nand will completely disabled it after a short burst
+\n"
+End
+
+CONTROLBAR:CHINAProperty
+"------------------- CHINA STRING START HERE -------------------"
+End
+
+ThingTemplate:ChinaJetHeavyGunship
+"Heavy Gunship"
+End
+
+CONTROLBAR:ConstructChinaHeavyTankEmperor
+"E&mperor"
+End
+
+CONTROLBAR:ToolTipChinaHeavyTankEmperor
+"Build Time : 35 Secodns
+\n
+\nFurther Upgrade Of The Warlord
+\nPre-equipped with Overlord rapid firing gun, Propaganda
+\nTower, and Warlord Heavy Armor.
+\n
+\nCan be upgraded with additional Gattling Turret
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+ThingTemplate:ChinaTankWarmaster
+"Warmaster"
+End
+
+CONTROLBAR:ConstructChinaWarmaster
+"Wa&rmaster"
+End
+
+CONTROLBAR:ToolTipChinaBuildWarmaster
+"Build Time : 10
+\n
+\nChina Improved Battlemaster
+\nComes pre-equipped with small machinegun and can be
+\nfurther upgraded with auto-loader for more firepower, can
+\ngain horde bonus when in group of 5
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Anti Tank, Aircraft"
+End
+
+UPGRADE:WarlordGattlingCannon
+"Gattling Turret"
+End
+
+CONTROLBAR:UpgradeChinaWarlordGattlingCannon
+"Gattling &Cannon"
+End
+
+CONTROLBAR:TooltipUpgradeChinaWarlordGattlingCannon
+"Build Time : 20 Seconds
+\n
+\nEquip this Tank with gattling cannon turret greatly
+\nenhance warlord effectivenes against infantry and
+\naircraftt
+\n"
+End
+
+UPGRADE:WarlordBattleBunker
+"Battle Bunker"
+End
+
+CONTROLBAR:UpgradeChinaWarlordBattleBunker
+"Battle &Bunker"
+End
+
+CONTROLBAR:TooltipUpgradeChinaWarlordBattleBunker
+"Build Time : 10 Seconds
+\n
+\nEquip this Tank with Battle Bunkner, give this Tank a
+\nmoving bunker for infantry protection and fire support
+\n"
+End
+
+UPGRADE:WarlordPropagandaTower
+"Propaganda Tower"
+End
+
+CONTROLBAR:UpgradeChinaWarlordPropagandaTower
+"Propaganda &Tower"
+End
+
+CONTROLBAR:TooltipUpgradeChinaWarlordPropagandaTower
+"Build Time : 10 Seconds
+\n
+\nEquip this Tank with propaganda tower, give this Tank a
+\nsupport ability to increase troops effectiveness around
+\nit
+\n"
+End
+
+UPGRADE:WarlordJammer
+"ECM Jammer"
+End
+
+CONTROLBAR:UpgradeWarlordJammer
+"EC&M Jammer"
+End
+
+CONTROLBAR:ChinaUpgradeWarlordJammer
+"Build Time : 30 Seconds
+\n
+\nEquip this Tank with ECM Jammer, Deflect
+\nmissiles and disable enemy vehicles"
+End
+
+UPGRADE:WarlordHeavyArmor
+"Warlord Heavy Armor"
+End
+
+CONTROLBAR:UpgradeWarlordHeavyArmor
+"Warlord Hea&vy Armor"
+End
+
+CONTROLBAR:ChinaUpgradeWarlordHeavyArmor
+"Build Time : 20 Seconds
+\n
+\nEquip this Warlord with Improved Armor
+\n
+\n+10% HP
+\n+15% Armor"
+End
+
+ThingTemplate:ChinaTankWarlord
+"Warlord"
+End
+
+CONTROLBAR:ConstructChinaWarlord
+"Warl&ord"
+End
+
+CONTROLBAR:ToolTipChinaBuildWarlord
+"Built Time : 20 Seconds
+\n
+\nChina improved overlord, Can be further upgraded with
+\nvarious add-ons :
+\n
+\n - Heavy Armor
+\n
+\nCan be combined with one of the list :
+\n- Gattling Turret
+\n- Propaganda Tower
+\n- Battle Bunker
+\n- ECM Jammer
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircrafts"
+End
+
+ThingTemplate:ChinaTalonBomber
+"Talon Bomber"
+End
+
+CONTROLBAR:ConstructChinaJetTalon
+"&Talon Bomber"
+End
+
+CONTROLBAR:ToolTipChinaBuildTalon
+"Build Time : 30 Seconds
+\n
+\nArmed with EMP Bomb dealing moderate damage
+\nwhile also disabling them for 18 sec
+\n
+\nStrong vs. Buildings
+\nWeak vs. Fighters, Anti Air Defenses"
+End
+
+ThingTemplate:ChinaVehicleAssaultTroopCrawler01
+"Gattling Troop Crawler"
+End
+
+ThingTemplate:ChinaVehicleAssaultTroopCrawler02
+"Propaganda Troop Crawler"
+End
+
+CONTROLBAR:ConstructChinaAssaultTroopCrawler
+"Assault Troop Cr&awler"
+End
+
+CONTROLBAR:ToolTipChinaAssaultTroopCrawler
+"Build Time : 20 Seconds
+\n
+\nChina improved Assault Troop Crawler. This new
+\nfeature include a Gattling Turret and Propaganda
+\nTower
+\n
+\nComes with 2 Tank Hunter
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Tanks, Aircraft"
+End
+
+ThingTemplate:ChinaHackerVan
+"Hacker Van"
+End
+
+CONTROLBAR:ConstructChinaHackerVan
+"Hacker &Van"
+End
+
+CONTROLBAR:ToolTipChinaHackerVan
+"Build Time : 20 Seconds
+\n
+\nChina alternative seconday income, Generate more
+\nmoney in the long battle. The Van is stealthed
+\nwhen stationary
+\n"
+End
+
+ThingTemplate:ChinaTankSuperEmperor
+"Emperor III"
+End
+
+CONTROLBAR:ConstructChinaSuperEmperor
+"&Emperor III"
+End
+
+CONTROLBAR:ToolTipChinaSuperEmperor
+"Build Time : 60 Seconds
+\n
+\nChina heaviest assault battle tank, equipped with
+\nquadruple barrel and gattling turret
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+ThingTemplate:ChinaVehicleHenook
+"Henook"
+End
+
+CONTROLBAR:ConstructChinaVehicleHenook
+"He&nook"
+End
+
+CONTROLBAR:ToolTipChinaBuildHenook
+"Build Time : 20 Seconds
+\n
+\nChina medium assault transport helicopter, slightly
+\nfaster and nimble than helix with less payload
+\n
+\nStrong vs. Light Vehicle, Infantry
+\nWeak vs. Fighters, Anti Air"
+End
+
+CONTROLBAR:ConstructChinaNapalmStorm
+"Napalm S&torm"
+End
+
+CONTROLBAR:ToolTipUChinaBuildNapalmStorm
+"Build Time : 60 Secodns
+\n
+\nChina modified USA Tomahawk Storm, Equipped with
+\n9 devastating tomahawk missile with Napalm as their
+\nPayload
+\n
+\nPower Required : 10"
+End
+
+CONTROLBAR:FireNapalmStorm
+"Launch Napalm St&orm"
+End
+
+CONTROLBAR:TooltipFireNapalmStorm
+"Launch 9 Devastating Tomahawk Missile
+\nWith Napalm Warhead
+\n"
+End
+
+GUI:Lazr_SpecialAbilityLaserGuidedHowitzer
+"Napalm Storm"
+End
+
+ThingTemplate:ChinaInfantrySuperLotus
+"Super Lotus"
+End
+
+CONTROLBAR:ConstructChinaSuperLotus
+"Super &Lotus"
+End
+
+CONTROLBAR:ToolTipChinaBuildSuperLotus
+"Build Time : 20 Seconds
+\n
+\nChina Special Agent Black Lotus, equipped with
+\nadvanced laptop device that able to :
+\n
+\n- Capture Buildings
+\n- Steal Enemy Cash
+\n- Disable Enemy Vehicles
+\n"
+End
+
+CONTROLBAR:ToolTipChinaBuildAdvancedPowerPlant
+"Build Time : 10 Seconds
+\n
+\nChina Advanced Nuclear Reactor, provide more power
+\nand can be overcharge for 50% additional power
+\n
+\nPower Supplied : 18
+\nPower Overcharge : 27"
+End
+
+CONTROLBAR:ToolTipChinaBuildAdvancedBunker
+"Build Time : 8 Seconds
+\n
+\nAdvanced Bunker is more sturdier than normal bunker
+\nand can hold up to 10 soldiers
+\n"
+End
+
+CONTROLBAR:ToolTipChinaBuildAttackOutpost
+"Build Time : 15 Seconds
+\n
+\nChina Improved Listening Outpost
+\nPre-equipped with Propaganda Tower and can hold
+\nmore infantry as self-defense or support
+\n
+\nComes with 2 Tank Hunter
+\n
+\nStrong vs. Infantry, Light Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaBuildTankGattling
+"Build TIme : 10 Seconds
+\n
+\nChina Gattling Tank
+\nCan gain Horde bonus when in group of 5
+\n
+\nStrong vs. Infantry, Aircraft, Light Vehicles
+\nWeak vs. Tanks"
+End
+
+CONTROLBAR:ToolTipChinaBuildTankDragon
+"Build Time : 10 Seconds
+\n
+\nChina Dragon Tank
+\nFire a burst of flame to burn the enemy in the battle
+\nor infantry inside buildings and can create a firewall
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaBuildVehicleInfernoCannon
+"Build Time : 15 Seconds
+\n
+\nChina Inferno Cannon
+\nFire a long range napalm projectile, can create a
+\nfirestorm when in group of 3
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaBuildVehicleNukeLauncher
+"Build Time : 20 Seconds
+\n
+\nChina Nuke Cannon
+\nFire a long range nuclear projectile, can also switch
+\nto neutron projectile to neutralize enemy vehicle and
+\nbuildings
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaBuildTankECM
+"Build Time : 10 Seconds
+\n
+\nChina ECM Tank
+\nChina support vehicle, can disable enemy vehicles and
+\ndeflect missiles
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Infantry, Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaBuildJetMIG
+"Build Time : 10 Seconds
+\n
+\nChina Jet MIG
+\nChina fighter jet, fire napalm missiles that can
+\ncreate a firestorm when in group of 2
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Infantry, Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaBuildVehicleHelix
+"Build Time : 20 Seconds
+\n
+\nChina Heavy Transport Helix
+\nInfantry inside can fire for more fire support, helix
+\nalso able to carry Overlord-Class Tank
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Infantry, Aircraft"
+End
+
+CONTROLBAR:UpgradeChinaAircraftExtraArmor
+"&Aircraft Armor"
+End
+
+CONTROLBAR:TooltipChinaUpgradeAircraftExtraArmor
+"Aircraft recieve extra 25% Armor"
+End
+
+CONTROLBAR:ToolTipChinaBuildInfantryRedguard
+"Build Time : 10 Seconds
+\n
+\nChina Basic Infantry
+\nEquipped with short bolt action rifle with more
+\nfirepower than normal rifle
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaBuildInfantryHacker
+"Build Time : 20 Seconds
+\n
+\nChina Support Infantry
+\nEquipped with laptop device, able to :
+\n- Steal/Generate Money
+\n- Disable Vehicles
+\n"
+End
+
+CONTROLBAR:ToolTipChinaBuildInfantryTankHunter
+"Build Time : 5 Seconds
+\n
+\nChina Anti Tank Infantry
+\nEquipped with Anti-Tank missile and can be
+\nupgraded with radiation warhead
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Infantry, Aircraft"
+End
+
+CONTROLBAR:ToolTipChinaConstructBarracks
+"Build Time : 10 Seconds
+\n
+\nTrain Chinese soldier
+\n"
+End
+
+CONTROLBAR:ToolTipChinaConstructSupplyCenter
+"Build Time : 10 Seconds
+\n
+\nDrop-off point for Chinese supply gatherers
+\n
+\nPower Required : 1"
+End
+
+CONTROLBAR:ToolTipChinaConstructGattlingCannon
+"Build Time : 25 Seconds
+\n
+\nPowerful Anti-Air and Anti Infantry defenses
+\n
+\nPower Required : 3"
+End
+
+CONTROLBAR:ToolTipChinaConstructWarFactory
+"Build Time : 15 Seconds
+\n
+\nBuild Chinese ground arsenal
+\n
+\nPower Required : 1"
+End
+
+CONTROLBAR:ToolTipChinaConstructPropagandaCenter
+"Build Time : 45 Seconds
+\n
+\nHolds important Chinese technology and support
+\nvehicles
+\n
+\nPower Required : 2"
+End
+
+CONTROLBAR:ToolTipChinaConstructAirField
+"Build Time : 30 Seconds
+\n
+\nBuilds Chinese Air Forces
+\n
+\nPower Required : 1"
+End
+
+CONTROLBAR:ToolTipChinaConstructNuclearMissileLauncher
+"Build Time : 60 Seconds
+\n
+\nChina Nuclear Missile Silo, holds Chinese nuclear
+\ntechnology for Chinese ground arsenal
+\n
+\nPower Required : 10"
+End
+
+CONTROLBAR:ToolTipChinaConstructCommandCenter
+"Build Time : 45 Seconds
+\n
+\nChina Headquarters, commands special powers and
+\nbuild construction dozer
+\n"
+End
+
+CONTROLBAR:ToolTipChinaConstructInternetCenter
+"Build Time : 30 Seconds
+\n
+\nChina Internet Center, bring bonuses for hackers
+\nand can be upgraded with Spy vision abilities
+\n"
+End
+
+CONTROLBAR:ToolTipChinaBuildVehicleSupplyTruck
+"Build Time : 10 Seconds
+\n
+\nChina supply gatherers
+\n"
+End
+
+CONTROLBAR:ToolTipChinaBuildChinaDozer
+"Build Time : 5 Seconds
+\n
+\nChina Construction Dozer, Build and Repair China
+\nstructure can clear mines
+\n"
+End
+
+CONTROLBAR:GLAProperty
+"------------------- GLA STRING START HERE -------------------"
+End
+
+UPGRADE:GLAAdvancedWeaponUpgrade
+"GLA Advanced Weapons"
+End
+
+ThingTemplate:GLAInfantryMercenary
+"Mercenary"
+End
+
+CONTROLBAR:UpgradeGLAAdvancedWeapon
+"&GLA Advanced Weapons"
+End
+
+CONTROLBAR:ToolTipUpgradeGLAAdvancedWeapon
+"Equip Scorpion and Marauder with USA advanced laser
+\nbeam and Quad Cannon with plasma round, Toxin Shells
+\nand AP Bullet will no longer affect this vehicles
+\n
+\n-10% Damage, +20% Range"
+End
+
+CONTROLBAR:ConstructGLAAirfield
+"Air &Field"
+End
+
+CONTROLBAR:ToolTipConstructGLAAirfield
+"Built Time : 30 Seconds
+\n
+\nBuild GLA Aircraft
+\n"
+End
+
+ThingTemplate:GLACropDuster
+"Crop Duster"
+End
+
+CONTROLBAR:ConstructGLACropDuster
+"Crop &Duster"
+End
+
+CONTROLBAR:ToolTipGLACropDuster
+"Build Time : 15 Seconds
+\n
+\nGLA light aircraft, equipped with 2 small machine gun
+\nand can be further upgraded with 4 missiles.
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Fighters, Anti Air Defenses"
+End
+
+ThingTemplate:GLAJetDesertHunter
+"Desert Hunter"
+End
+
+CONTROLBAR:ConstructGLADesertHunter
+"Desert &Hunter"
+End
+
+CONTROLBAR:ToolTipGLADesertHunter
+"Build Time : 15 Seconds
+\n
+\nGLA Jet Fighter, Supplied by the US unused fighter jet
+\nequipped with 4 Raptor missiles, can be increased to
+\n6 when fully upgraded
+\n
+\nStrong vs. Aircraft, Ground Units
+\nWeak vs. Anti Air Defenses"
+End
+
+ThingTemplate:GLATankDesertSentinel
+"Desert Sentinel"
+End
+
+CONTROLBAR:ConstructGLATankDesertSentinel
+"&Desert Sentinel"
+End
+
+CONTROLBAR:ToolTipGLADesertSentinel
+"Build Time : 60 Seconds
+\n
+\nGLA heavy support tank Desert Sentinel, Equipped with
+\ntriple rapid firing cannons and rocket barrages
+\n
+\nStrong vs. Ground Units
+\nWeaks vs. Aircraft, Artillery"
+End
+
+ThingTemplate:GLASuicidePlaneReal
+"Suicide Bomber"
+End
+
+CONTROLBAR:ConstructGLAKamikazePlane
+"Suicide &Bomber"
+End
+
+CONTROLBAR:ToolTipGLAKamikazePlane
+"Build Time : 60 Seconds
+\n
+\nGLA Suicide Bomber, delivers massive explosive warhead
+\nin one trip and creating a firestorm
+\n
+\n!!! NOTE !!!
+\nThis unit can't attack directly, it must use
+\nthe bombard command or force fire ground"
+End
+
+GUI:SupW_CruiseMissile
+"Toxin Missile"
+End
+
+CONTROLBAR:ConstructGLAToxinMissile
+"To&xin Missile Silo"
+End
+
+CONTROLBAR:ToolTipGLABuildToxinMissile
+"Build Time : 60 Seconds
+\n
+\nToxin Missile Silo from USA Cruise Missile technology
+\nlaunch a cruise missile with toxin warhead
+\n"
+End
+
+CONTROLBAR:ToolTipUSAFireDesertSentinelRocketBarrage
+"Fire Desert Sentinel Rocket Barrage Infront
+\nof it in a Medium Area."
+End
+
+UPGRADE:GLAJetExtraMissiles
+"GLA Aircraft Extra Missiles"
+End
+
+CONTROLBAR:GLAAircraftExtraMissiles
+"E&xtra Missiles"
+End
+
+CONTROLBAR:TooltipGLAAircraftExtraMissiles
+"Extra Missiles for this aircraft"
+End
+
+CONTROLBAR:ConstructGLAParticleCannon
+"Pa&rticle Cannon"
+End
+
+CONTROLBAR:ToxinMissile
+"&Toxin Missile"
+End
+
+CONTROLBAR:TooltipFireToxinMissile
+"Fire Devastating Toxin Missile Anywhere on The Map
+\n
+\nCountdown : 6:00"
+End
+
+ThingTemplate:GLAVehicleCobra
+"Cobra"
+End
+
+CONTROLBAR:ConstructGLACobra
+"&Cobra"
+End
+
+CONTROLBAR:ToolTipGLABuildCobra
+"Build Time : 20 Seconds
+\n
+\nGLA Heavy Combat Transport, equipped with a machine
+\ngun, missile pod and able to drop a toxin demo bomb
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Fighter, Anti Air"
+End
+
+CONTROLBAR:ToolTipGLABuildParticleCannon
+"Build Time : 60 Seconds
+\n
+\nFire a devastating laser beam to a space satelite, redirecting
+\nthem towards specific targeted location
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantryRebel
+"Build Time : 5 Seconds
+\n
+\nGLA Basic Soldier, Equipped with basic assault rifle
+\n
+\nStrong vs. Infantry
+\nWeak vs. Vehicles"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantrySaboteur
+"Build Time : 15 Seconds
+\n
+\nGLA Infiltration Soldier, Unarmed, stealthed and can
+\ntemporarily disable enemy structures 
+\n
+\nStrong vs. Structures
+\nWeak vs. Anti Infantry"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantryTerrorist
+"Build Time : 5 Seconds
+\n
+\nGLA Suicide Soldier, Armed with a bunch of C4 on his
+\nbody and like to be in crowded places
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Anti Infantry"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantryRPGTrooper
+"Build Time : 5 Seconds
+\n
+\nGLA Anti-Tank Soldier, Equipped with an RPG Launcher
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Infantry"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantryAngryMob
+"Build Time : 15 Seconds
+\n
+\nGLA Angry Mob, strong armed crowd with terrible
+\ncoordination among them
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Anti Infantry"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantryHijacker
+"Build Time : 10 Seconds
+\n
+\nGLA Infiltration Soldier, Unarmed, stealthed and can
+\nhijack enemy vehicles 
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Anti Infantry"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantryJarmenKell
+"Build Time : 20 Seconds
+\n
+\nGLA Hero Soldier, Equipped with a sniper riffle
+\ncompletely stealthed and able to kill enemy vehicle
+\ncrew
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Anti Infantry"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleToxinTruck
+"Build Time : 5 Seconds
+\n
+\nGLA Anti Infantry Vehicle, Armed with a toxin sprayer
+\nable to clear out buildings from enemy soldier and
+\ncontaminate surrounding area
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildTankMarauder
+"Build Time : 10 Seconds
+\n
+\nGLA Heavy tank, Can be upgraded with Toxin Shells for
+\nAnti Infantry purposes
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Infantry, Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleTechnical
+"Build Time : 10 Seconds
+\n
+\nGLA Light Transport, Can carry 5 soldier
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleQuadCannon
+"Build Time : 6 Seconds
+\n
+\nGLA Light Vehicle, Armed with quad 50 cal machine gun
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Tanks, Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleBombTruck
+"Build Time : 15 Seconds
+\n
+\nGLA Suicide Vehicle, Armed with high explosive warhead
+\ncan be upgraded with different various warhead
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleBattleBus
+"Build Time : 15 Seconds
+\n
+\nGLA Medium Transport, Can carry 8 soldier, Turns into
+\ntemporary bunker when destroyed
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleSCUDLauncher
+"Build Time : 15 Seconds
+\n
+\nGLA Long-Range Artillery, Armed with SCUD Missile can
+\nalternate between High Explosive and Toxin Warhead
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n
+\nStrong vs. Ground Units
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildTankScorpion
+"Build Time : 7 Seconds
+\n
+\nGLA Light Tank, Armed with small rapid firing cannon
+\nand a missile pod, Can be upgraded with Toxin Shells
+\nfor Anti Infantry purposes
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Infantry, Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleRocketBuggy
+"Build Time : 10 Seconds
+\n
+\nGLA Light Artillery, Armed with rocket barrage
+\n
+\nCan collect scavenged parts from destroyed enemy
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleombatBike
+"Build Time : 4 Seconds
+\n
+\nGLA Light Vehicle, Fast scout combat unit
+\nWeapons alternate depends on the rider
+\n
+\nStrong vs. Infantry, Light Vehicles
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ToolTipGLABuildVehicleRadarVan
+"Build Time : 10 Seconds
+\n
+\nGLA Scout Vehicle, Equipped with radar, stealth
+\ndetector and GPS Scrambler device to disrupt
+\nenemy vehilces and structures electronics
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildInfantryWorker
+"Build Time : 3 Seconds
+\n
+\nGLA Construction Worker, Build and Repair GLA
+\nstructure, clear mines and supply gatherers
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLACommandCenter
+"Build Time : 45 Seconds
+\n
+\nGLA Headquarters, commands special powers and
+\nbuild construction worker
+\n"
+End
+
+CONTROLBAR:ToolTipGLABUildGLADemoTrap
+"Build Time : 5 Seconds
+\n
+\nGLA Booby Trap, can be exploded with proximity fuse
+\nor manual remote control
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLABarracks
+"Build Time : 10 Seconds
+\n
+\nTrain GLA soldier
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLASupplyStash
+"Build Time : 10 Seconds
+\n
+\nDrop-off point for GLA supply gatherers
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLAArmsDealer
+"Build Time : 15 Seconds
+\n
+\nBuild GLA ground arsenal
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLATunnelNetwork
+"Build Time : 15 Seconds
+\n
+\nGLA Defense Structure, Armed with light machine gun
+\nMain transportation to move between Tunnel Network
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLAPalace
+"Build Time : 45 Seconds
+\n
+\nHolds important GLA technology, Infantry can garrison
+\nthis building for additional defenses
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLABlackMarket
+"Build Time : 30 Seconds
+\n
+\nHolds important GLA technology and secondary income
+\n"
+End
+
+CONTROLBAR:ConstructGLADefenseSite
+"Defense Si&te"
+End
+
+CONTROLBAR:ToolTipGLABuildDefenseSite
+"Build Time : 15 Seconds
+\n
+\nGLA Main Defense Site, Can be instealled with :
+\n
+\n- Anti-Tank Turret
+\n- Flak Turret
+\n- Artillery Platform
+\n"
+End
+
+CONTROLBAR:ToolTipGLABuildGLAScudStorm
+"Build Time : 60 Seconds
+\n
+\nFire 9 Scud Missiles with Toxin warhead anywhere
+\non the map
+\n"
+End
+
+UPGRADE:GLAAntiTankCannonDefenseSite
+"Anti-Tank Defense Site"
+End
+
+CONTROLBAR:UpgradeGLAAntiTankCannonDefenseSite
+"Anti-Tank Defense Si&te"
+End
+
+CONTROLBAR:ToolTipUpgradeGLAAntiTankCannonDefenseSite
+"
+\nInstall Anti-Tank turret on this platform
+\n"
+End
+
+UPGRADE:GLAFlakCannonDefenseSite
+"Anti-Air Defense Site"
+End
+
+CONTROLBAR:UpgradeGLAFlakCannonDefenseSite
+"Anti-Air Defens&e Site"
+End
+
+CONTROLBAR:ToolTipUpgradeGLAFlakCannonDefenseSite
+"
+\nInstall Anti-Air Flak Cannon on this platform
+\n"
+End
+
+UPGRADE:GLAHowitzerDefenseSite
+"Howitzer Defense Site"
+End
+
+CONTROLBAR:UpgradeGLAHowitzerDefenseSite
+"Howitzer De&fense Site"
+End
+
+CONTROLBAR:TooltipUpgradeGLAHowitzerDefenseSite
+"
+\nInstall Long-Range Howitzer Cannon on this platform
+\n"
+End
+
+UPGRADE:GLARadarVanGPSScrambler
+"Radar Van GPS Scrambler"
+End
+
+CONTROLBAR:UpgradeGLARadarVanGPSScrambler
+"Rad&ar Van GPS Scrambler"
+End
+
+CONTROLBAR:TooltipUpgradeGLARadarVanGPSScrambler
+"
+\nInstall a GPS Scrambler device on this radar van
+\nmaking surrounding enemy vehicles and structures
+\ndisabled after a while
+\n
+\nOnly affect ground vehicles
+\n"
+End
+
+CONTROLBAR:HALOProperty
+"------------------- HALO STRING START HERE -------------------"
+End
+
+ThingTemplate:HALOJetHeavyBomber
+"HALO Heavy Bomber"
+End
+
+ThingTemplate:HALOJetStealthBomber
+"HALO Stealth Bomber"
+End
+
+CONTROLBAR:ConstructHALODozer
+"Construction &Dozer"
+End
+
+CONTROLBAR:ToolTipHALOBuildDozer
+"Build Time : 5 Seconds
+\n
+\nHALO Heavy Dozer, equipped with reinforced
+\narmor. Build combined factions buildings"
+End
+
+ThingTemplate:HALOTankLaserPaladin
+"Laser Paladin"
+End
+
+CONTROLBAR:ConstructHALOTankLaserPaladin
+"HALO &Laser Paladin"
+End
+
+CONTROLBAR:ToolTipHALOBuildLaserPaladin
+"Build Time : 12 Seconds
+\n
+\nHALO modified USA Paladin, equipped with
+\nadvanced laser beam and rocket pod.
+\n
+\nPower Required : 2"
+End
+
+ThingTemplate:HALOTankRavager
+"Ravager"
+End
+
+CONTROLBAR:ConstructHALOTankRavager
+"HALO R&avager"
+End
+
+CONTROLBAR:ToolTipHALOBuildRavager
+"Build Time : 12 Seconds
+\n
+\nHALO modified USA Crusader, comes Pre-Equipped
+\nwith Marauder heavy cannon and rocket pod"
+End
+
+CONTROLBAR:ConstructHALOTankOverlord
+"HALO &Emperor"
+End
+
+CONTROLBAR:ToolTipHALOBuildOverlord
+"Build Time : 25 Seconds
+\n
+\nHALO mmodified China Emperor, can be upgraded
+\nwith combined factions upgrades
+\n
+\nUpgradeable Add-On :
+\n- Gattling Turret
+\n- ECM Turret"
+End
+
+CONTROLBAR:ConstructHALOVehicleHumvee
+"HALO Hum&vee"
+End
+
+CONTROLBAR:ToolTipHALOBuildHumvee
+"Build Time : 10 Seconds
+\n
+\nHALO modified USA Humvee, comes Pre-Equipped
+\nwith TOW Missile and Plasma Gun"
+End
+
+CONTROLBAR:ConstructHALOVehicleMedic
+"HALO &Medic"
+End
+
+CONTROLBAR:ToolTipHALOBuildMedic
+"Build Time : 10 Seconds
+\n
+\nHALO modified USA Ambulance, can be upgraded
+\nwith combined factions upgrades"
+End
+
+CONTROLBAR:ConstructHALOTankAvenger
+"HALO &Avenger"
+End
+
+CONTROLBAR:ToolTipHALOBuildAvenger
+"Build Time : 15 Seconds
+\n
+\nHALO modified USA Avenger, comes with improved
+\nmobility and combined factions upgrades"
+End
+
+CONTROLBAR:ConstructHALOVehicleTroopCrawler
+"HALO Assault &Troop Crawler"
+End
+
+CONTROLBAR:ToolTipHALOBuildTroopCrawler
+"Build Time : 20 Seconds
+\n
+\nHALO modified China Assault Troop Crawler
+\ncomes with 4 different variants :
+\n
+\n- Gattling Turret
+\n- Radar Add-On
+\n- Toxin Turret
+\n- Anti-Tank Turret"
+End
+
+CONTROLBAR:ConstructHALOVehicleTomahawk
+"HALO T&omahawk"
+End
+
+CONTROLBAR:ToolTipHALOBuildTomahawk
+"Build Time : 20 Seconds
+\n
+\nHALO modified USA Tomahawk, can be upgraded
+\nwith combined factions upgrades"
+End
+
+CONTROLBAR:ConstructHALOVehicleScudLauncher
+"HALO &Scud Launcher"
+End
+
+CONTROLBAR:ToolTipHALOBuildSCUDLauncher
+"Build Time : 20 Seconds
+\n
+\nHALO modified GLA Scud Launcher comes
+\nPre-Equipped with maxed salvage"
+End
+
+CONTROLBAR:ConstructHALOVehicleNukeLauncher
+"HALO &Nuke Cannon"
+End
+
+CONTROLBAR:ToolTipHALOBuildNukeLauncher
+"Build Time : 20 Seconds
+\n
+\nHALO modified China Nuke Cannon, can be
+\nupgraded with combined factions upgrades"
+End
+
+ThingTemplate:HALOVehicleComanche
+"Assault Comanche"
+End
+
+CONTROLBAR:ConstructHALOVehicleComanche
+"HALO Assault &Comanche"
+End
+
+CONTROLBAR:ToolTipHALOBuildComanche
+"Build Time : 25 Seconds
+\n
+\nHALO next generation attack helicopter Assault Comanche
+\n
+\nAble to attack on the move and can be upgraded with
+\ntwin laser cannons replacing the missiles
+\n"
+End
+
+
+CONTROLBAR:ConstructHALOJetKingRaptor
+"HALO &Raptor"
+End
+
+CONTROLBAR:ToolTipHALOBuildKingRaptor
+"Build Time : 20 Seconds
+\n
+\nHALO modified USA Raptor, can be upgraded
+\nwith combined factions upgrades"
+End
+
+CONTROLBAR:ConstructHALOJetAurora
+"HALO Aurora Alpha &Bomber"
+End
+
+CONTROLBAR:ToolTipHALOBuildAurora
+"Build Time : 30 Seconds
+\n
+\nHALO modified USA Aurora Bomber, can be
+\nupgraded with combined factions upgrades"
+End
+
+CONTROLBAR:ConstructHALONukeJet
+"HALO &Mig"
+End
+
+CONTROLBAR:ToolTipHALOBuildNukeJet
+"Build Time : 20 Seconds
+\n
+\nHALO modified China Jet Mig equipped with Nuke
+\nMissile can be upgraded with combined factions
+\nupgrades
+\n"
+End
+
+CONTROLBAR:ConstructHALOVehicleHelix
+"HALO Heli&x"
+End
+
+CONTROLBAR:ToolTipHALOBuildHelix
+"Build Time : 20 Seconds
+\n
+\nHALO modified China Helix for a heavy combat transport
+\ncan carry 8 troops, troops inside can fire from fireports
+\nfor more fire support
+\n"
+End
+
+ThingTemplate:HALOSuperGunshipKessiV
+"Heavy Gunship Kessi V"
+End
+
+CONTROLBAR:ConstructHALOKessiV
+"Heavy &Gunship Kessi V"
+End
+
+CONTROLBAR:ToolTipBuildHALOKessiV
+"Build Time : 60 Seconds
+\n
+\nHALO modified USA Spectre Gunsip, equipped with heavier
+\narmor, various defenses and able to carry 10 troops
+\n
+\ntroops inside can use fireports for more fire support"
+End
+
+CONTROLBAR:HALOSuperGunshipNukeDrop
+"Supe&r Gunship Nuke Drop"
+End
+
+CONTROLBAR:ToolTipHALOSuperGunshipNukeDrop
+"Drop a Full Yield Nuclear Warhead Directly
+\nBelow The Gunship
+\n
+\nCooldown : 5:00"
+End
+
+CONTROLBAR:HALOSuperGunshipParadrop
+"S&uper Gunsip Paradrop"
+End
+
+CONTROLBAR:ToolTipHALOSuperGunshipParadrop
+"Drop a Small Group of Forces
+\n
+\n1 Laser Paladin
+\n1 Marauder
+\n3 Toxin Rebel
+\n3 Minigunner
+\n4 Missile Defender
+\n
+\nCooldown : 4:00"
+End
+
+CONTROLBAR:ConstructHALOCommandCenter
+"HALO &Command Center"
+End
+
+CONTROLBAR:ToolTipHALOBuildCommandCenter
+"Build Time : 45 Seconds
+\n
+\nHALO Forces Command Center
+\n
+\nCommands Combined Factions Special Power
+\nProvides Radar, Power and Armored Dozer
+\n
+\nPower Supplied : 5"
+End
+
+CONTROLBAR:ConstructHALOPowerPlant
+"HALO Fusion &Reactor"
+End
+
+CONTROLBAR:ToolTipHALOBuildPowerPlant
+"Build Time : 10 Seconds
+\n
+\nHALO Reinforced Fusion Reactor
+\n
+\nPower Supplied : 10"
+End
+
+CONTROLBAR:ConstructHALOBarracks
+"HALO &Barracks"
+End
+
+CONTROLBAR:ToolTipHALOBuildBarracks
+"Build Time : 10 Seconds
+\n
+\nTrains Combined Factions Soldier"
+End
+
+CONTROLBAR:ConstructHALOWarFactory
+"HALO W&ar Factory"
+End
+
+CONTROLBAR:ToolTipHALOBuildWarFactory
+"Build Time : 15 Seconds
+\n
+\nConstruct Combined Factions Vehicles
+\n
+\nPower Required : 2"
+End
+
+CONTROLBAR:ConstructHALOSupplyCenter
+"HALO S&upply Center"
+End
+
+CONTROLBAR:ToolTipHALOBuildSupplyCenter
+"Build Time : 10 Seconds
+\n
+\nDrop-Off Points For Supply Collectors
+\n
+\nPower Required : 1"
+End
+
+CONTROLBAR:ConstructHALOStrategyCenter
+"HALO Strateg&y Center"
+End
+
+CONTROLBAR:ToolTipHALOBuildStrategyCenter
+"Build Time : 60 Seconds
+\n
+\nHALO Technology Center,Can use bonus abilities for
+\ntheir troops :
+\n
+\nBombardment\t\t\t\t\t+20% Firepower
+\nSearch and Destroy\t\t+25% Weapon Range
+\nHold The Line\t\t\t\t\t+10% Armor and HP
+\n
+\nBuild Limit : 3
+\n
+\nPower Required : 2"
+End
+
+CONTROLBAR:ConstructHALOAirfield
+"HALO Air &Field"
+End
+
+CONTROLBAR:ToolTipHALOBuildAirfield
+"Build Time : 30 Seconds
+\n
+\nBuild All Combined Factions Aircrafts
+\n
+\nPower Required : 2"
+End
+
+CONTROLBAR:ConstructHALODefenseTurret
+"HALO Defe&nse Turret"
+End
+
+CONTROLBAR:ToolTipHALOBuildDefenseTurret
+"Build Time : 5 Seconds
+\n
+\nHALO Defense Turret Platform, Can be
+\nInstalled with 3 different Turrets
+\n
+\nPower Required : 4"
+End
+
+CONTROLBAR:ConstructHALOFireBase
+"HALO F&ire Base"
+End
+
+CONTROLBAR:ToolTipHALOBuildFireBase
+"Build Time : 25 Seconds
+\n
+\nGround Defence, Garrisonable by 8 Soldiers
+\n
+\nPower Required : 2"
+End
+
+CONTROLBAR:ConstructHALOOilDerrick
+"HALO Oil &Derrick"
+End
+
+CONTROLBAR:ToolTipHALOBuildOilDerrick
+"Build Time : 45 Seconds
+\n
+\nHALO Secondary Income, Generates Constant Money
+\n
+\nPower Required : 5"
+End
+
+CONTROLBAR:ConstructHALOParticleCannon
+"HALO &Particle Cannon"
+End
+
+CONTROLBAR:ToolTipHALOBuildParticleCannon
+"Build Time : 45 Seconds
+\n
+\nFire a Devastating Laser Beam anywhere on the battlefield
+\nUnlocks Tomahawk Missile Launcher and USA Technology
+\n
+\nCooldown Timer : 4:00
+\nPower Required : 10"
+End
+
+CONTROLBAR:ConstructHALONuclearMissile
+"HALO Nuclear &Missile"
+End
+
+CONTROLBAR:ToolTipHALOBuildNuclearMissile
+"Build Time : 60 Seconds
+\n
+\nLaunch a Devastating Nuclear Missile anywhere on the
+\nbattlefield, Unlocks Nuke Cannon and China Technology
+\n
+\nCooldown Timer : 6:00
+\nPower Required : 10"
+End
+
+CONTROLBAR:ConstructHALOTomahawkStorm
+"HALO &Tomahawk Storm"
+End
+
+CONTROLBAR:ToolTipHALOBuildTomahawkStorm
+"Build TIme : 60 Seconds
+\n
+\nFire 9 Tomahawk Missiles anywhere on the battlefield
+\nUnlocks Scud Launcher and GLA Technology
+\n
+\nCountdown Timer : 5:00
+\nPower Required : 10"
+End
+
+CONTROLBAR:HeroAirstrikeCaller
+"Airstrike &Caller"
+End
+
+CONTROLBAR:ToolTipHeroAirstrikeCaller
+"Grazia planted a beacon designator to call in airstrike
+\n
+\nCooldown Timer : 30 Seconds"
+End
+
+CONTROLBAR:ConstructHALOInfantryGrazia
+"Fiera Gra&zia"
+End
+
+CONTROLBAR:ToolTipHALOBuildGrazia
+"Build Time : 20 Seconds
+\n
+\nBlaze Brigade Fiera Grazia specialized in Napalm
+\nweaponary, she's equipped with low and high Napalm
+\nburst
+\n
+\nStrong VS Infantry, Vehicles
+\nWeak VS Aircraft"
+End
+
+CONTROLBAR:ConstructHALOVehicleChinook
+"HALO &Chinook"
+End
+
+CONTROLBAR:ToolTipHALOBuildVehicleChinook
+"Build Time : 10 Seconds
+\n
+\nHALO Transport and Supply Gatherers, can perform combat
+\ndrop with Minigunners to clear out enemy garrisoned
+\nstructure
+\n
+\nStrong vs. Tanks, Vehicles
+\nWeak vs. Aircraft"
+End
+
+CONTROLBAR:ConstructHALOInfantryRebel
+"HALO Re&bel"
+End
+
+CONTROLBAR:ToolTipHALOBuildRebel
+"Build Time : 8 Seconds
+\n
+\nHALO Basic Infantry, fires a stream of toxin that can
+\nclear out enemy buildings
+\n
+\nStrong vs. Infantry, Vehicles
+\nWeak vs. Anti-Infantry, Tanks"
+End
+
+CONTROLBAR:ConstructHALOInfantryMiniGunner
+"HALO M&ini-Gunner"
+End
+
+CONTROLBAR:ToolTipHALOBuildMiniGunner
+"Build Time : 10 Seconds
+\n
+\nHALO Advanced Infantry, can engage both ground and air
+\ntargets, can perform Combat Drop with Chinooks
+\n
+\nStrong vs. Infantry, Aircraft
+\nWeak vs. Anti-Infantry, Tanks"
+End
+
+CONTROLBAR:ConstructHALOInfantryMissileDefender
+"HALO &Missile Defender"
+End
+
+CONTROLBAR:ToolTipHALOBuildMissileDefender
+"Build Time : 5 Seconds
+\n
+\nHALO Anti-Tank Infantry, can perform laser targeting
+\nfor rapid firing missile
+\n
+\nStrong vs. Tanks, Aircraft
+\nWeak vs. Infantry, Anti-Infantry"
+End
+
+CONTROLBAR:ConstructHALOInfantryPathfinder
+"HALO &Pathfinder"
+End
+
+CONTROLBAR:ToolTipHALOBuildPathFinder
+"Build Time : 10 Seconds
+\n
+\nHALO Sniper, Equipped with long rage bolt action sniper
+\nrifle, stays hidden when not moving, can detect stealth
+\n
+\nStrong vs. Infantry
+\nWeak vs. Vehicles"
+End
+
+CONTROLBAR:ConstructHALOInfantryHacker
+"HALO H&acker"
+End
+
+CONTROLBAR:ToolTipHALOBuildHacker
+"Build Time : 20 Seconds
+\n
+\nHALO Support Infantry
+\nEquipped with laptop device, able to :
+\n- Steal/Generate Money
+\n- Disable Vehicles
+\n"
+End

@@ -56,6 +56,7 @@
 * [[SUPZH]GLA05 Innovation Strategy](https://www.cnclabs.com/downloads/details/3093/)
 * [[SUPZH]GLA06 Zero Hour](https://www.cnclabs.com/downloads/details/3094/)
 * [[SUPZH]GLA07 Final Destiny [Pack]](https://www.cnclabs.com/downloads/details/3095/)
+* [United Factions USA Challenge](https://www.cnclabs.com/downloads/details/3136/)
 <!-- * []() -->
 
 </details>
@@ -82,86 +83,95 @@ Copy maps from `Source\` folder to your local `%USERPROFILE%\Documents\Command a
 
 This table contains information about all custom maps, which has been added to the project.
 
-| Map Name                                             | Game Mode      | Version | Author(s)                            | Related Issue                                                        |
-| ---------------------------------------------------- | -------------- | ------- | ------------------------------------ | -------------------------------------------------------------------- |
-| [ZH] USA Coop Challenge                              | Coop Challenge | 1.2     | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
-| [ZH] Extravaganza GLA 01                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 02                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 03                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 04                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 05                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 06                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] Extravaganza GLA 07                             | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
-| [ZH] China ZH 04 Reversed                            | Mission        | N/A     | Udr                                  | [#19](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/19)    |
-| [ZH] Revenge Of Jarmen Kell part 1                   | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
-| [ZH] US Secret Lab                                   | Mission        | N/A     | -OAS-                                | [#23](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/23)    |
-| [ZH] Dreamlands                                      | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
-| [ZH] USA vs Toxin Challenge - Cocktail Party Edition | Challenge      | N/A     | Udr                                  | [#403](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/403)  |
-| [ZH] China 04 Last Escape - Hero Mission             | Mission        | N/A     | Udr                                  | [#16](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/16)    |
-| [ZH] Christmas Themed Shell Map                      | Shell Map      | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
-| [ZH] China 01 The Beginning                          | Mission        | N/A     | lhdlhd                               | [#216](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/216)  |
-| [ZH] USA 01 Operation Uprise                         | Mission        | N/A     | Unicas                               | [#202](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/202)  |
-| [ZH] USA 02 Operation United Unions                  | Mission        | N/A     | Unicas                               | [#201](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/201)  |
-| [ZH] USA 03 Operation Beehive                        | Mission        | N/A     | Unicas                               | [#200](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/200)  |
-| [ZH] USA 07 Total Justice                            | Mission        | N/A     | XJoueur50                            | [#218](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/218)  |
-| [ZH] USA ZH 01 Reversed - Cocktail Party Edition     | Mission        | N/A     | Udr                                  | [#254](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/254)  |
-| [ZH] USA 01 - Cocktail Party Edition (Locked)        | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
-| [ZH] USA 01 - Cocktail Party Edition (Unlocked)      | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
-| [ZH] General Ironside VS General Juhziz              | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
-| [ZH] General Leang VS General Juhziz                 | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
-| [ZH] General Deathstrike VS General Juhziz           | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
-| [ZH] Operation Conquer The Empire                    | Mission        | N/A     | General Daniel                       | [#41](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/41)    |
-| [ZH] China Air Defense Network                       | Mission        | N/A     | yuris-director                       | [#34](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/34)    |
-| [ZH] General Deathstrike VS General Granger          | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
-| [ZH] General Ironside VS General Granger             | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
-| [ZH] General Leang VS General Granger                | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
-| [ZH] General Ironside VS General Leang (Easy)        | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
-| [ZH] General Ironside VS General Leang (Hard)        | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
-| [ZH] General Ironside VS General Leang (Insane)      | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
-| [ZH] General Ironside VS General Leang (Medium)      | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
-| [ZH] Dragon's Journey Intro                          | Mission        | N/A     | VeLoXiuS                             | [#54](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/54)    |
-| [ZH] Dragon's Journey Intro v2                       | Mission        | N/A     | VeLoXiuS                             | [#43](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/43)    |
-| [ZH] Dr Thrax Evil Lab (Director's Cut)              | Mission        | 006     | WBG-SpeCoV1K, Yug-Server, Rain, Mp3  | [#24](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/24)    |
-| [ZH] Nuclear                                         | Mission        | N/A     | omarG                                | [#59](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/59)    |
-| [ZH] Dragon's Journey 01 Chasing The Dragon's Tail   | Mission        | N/A     | VeLoXiuS                             | [#40](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/40)    |
-| [ZH] Dragon's Journey 00 Battle of The Dragons       | Mission        | N/A     | VeLoXiuS                             | [#53](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/53)    |
-| [ZH] Liberation Day                                  | Mission        | N/A     | El_Chapo                             | [#62](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/62)    |
-| [ZH] Operation Ice Water                             | Mission        | N/A     | ViTeXFTW                             | [#32](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/32)    |
-| [ZH] General Deathstrike VS General Alexander        | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
-| [ZH] General Ironside VS General Alexander           | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
-| [ZH] General Leang VS General Alexander              | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
-| [ZH] Casino Resurrection (2P)                        | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection (3P)                        | Casino         | 7       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection (4P)                        | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection (5P)                        | Casino         | 8       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection (6P)                        | Casino         | 14      | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection Two (2v2)                   | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection Four (2v2)                  | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection Five (2v2)                  | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Casino Resurrection Six (2v2)                   | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
-| [ZH] Dragon's Journey 02 Road of Despair (Brutal)    | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
-| [ZH] Dragon's Journey 02 Road of Despair (Easy)      | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
-| [ZH] Dragon's Journey 02 Road of Despair (Hard)      | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
-| [ZH] Dragon's Journey 02 Road of Despair (Medium)    | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
-| [ZH] Desert Gauntlet                                 | Challenge      | 2       | BKR                                  | [#25](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/25)    |
-| [ZH] Rokuro Home                                     | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
-| [ZH] TaoVol2 Mission 1 - Ningen Ruins                | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
-| [ZH] TaoVol2 Mission 2 - Tokio Siege                 | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
-| [ZH] TaoVol2 Mission 3 - To Save Philippines         | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
-| [ZH] One Way Home - The Beginning                    | Mission        | N/A     | Juhhzizz                             | [#63](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/63)    |
-| [ZH] Death Factory Remastered                        | Mission        | N/A     | Gramantio                            | [#61](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/61)    |
-| [ZH] Alexandres Campaign S1 Resistence               | Mission        | N/A     | EFEW43252                            | [#66](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/66)    |
-| [ZH] Hilams 2nd Challenge                            | Challenge      | N/A     | EFEW43252                            | [#29](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/29)    |
-| [ZH] GLA 01 The Outbreak                             | Mission        | N/A     | Supakrid                             | [#51](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/51)    |
-| [ZH] GLA 02 Al Halabia                               | Mission        | N/A     | Supakrid                             | [#50](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/50)    |
-| [ZH] GLA 03 Postal Services                          | Mission        | N/A     | Supakrid                             | [#49](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/49)    |
-| [ZH] GLA 04 Loose Ends                               | Mission        | N/A     | Supakrid                             | [#48](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/48)    |
-| [ZH] GLA 05 Innovation Strategy                      | Mission        | N/A     | Supakrid                             | [#47](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/47)    |
-| [ZH] GLA 06 Zero Hour                                | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
-| [ZH] GLA 06 Zero Hour (Brutal)                       | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
-| [ZH] GLA 07 Final Destiny                            | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
-| [ZH] GLA 07 Final Destiny (Easy)                     | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
-| [ZH] GLA 07 Final Destiny (Brutal)                   | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
+| Map Name                                                   | Game Mode      | Version | Author(s)                            | Related Issue                                                        |
+| ---------------------------------------------------------- | -------------- | ------- | ------------------------------------ | -------------------------------------------------------------------- |
+| [ZH] USA Coop Challenge                                    | Coop Challenge | 1.2     | Dun淼咕, Camarade Lenin 343, mah_boi | [#2](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/2)      |
+| [ZH] Extravaganza GLA 01                                   | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 02                                   | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 03                                   | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 04                                   | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 05                                   | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 06                                   | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] Extravaganza GLA 07                                   | Mission        | N/A     | Udr                                  | [#17](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/17)    |
+| [ZH] China ZH 04 Reversed                                  | Mission        | N/A     | Udr                                  | [#19](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/19)    |
+| [ZH] Revenge Of Jarmen Kell part 1                         | Mission        | N/A     | Udr                                  | [#20](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/20)    |
+| [ZH] US Secret Lab                                         | Mission        | N/A     | -OAS-                                | [#23](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/23)    |
+| [ZH] Dreamlands                                            | Mission        | N/A     | Axirion                              | [#22](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/22)    |
+| [ZH] USA vs Toxin Challenge - Cocktail Party Edition       | Challenge      | N/A     | Udr                                  | [#403](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/403)  |
+| [ZH] China 04 Last Escape - Hero Mission                   | Mission        | N/A     | Udr                                  | [#16](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/16)    |
+| [ZH] Christmas Themed Shell Map                            | Shell Map      | N/A     | Gramantio                            | [#36](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/36)    |
+| [ZH] China 01 The Beginning                                | Mission        | N/A     | lhdlhd                               | [#216](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/216)  |
+| [ZH] USA 01 Operation Uprise                               | Mission        | N/A     | Unicas                               | [#202](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/202)  |
+| [ZH] USA 02 Operation United Unions                        | Mission        | N/A     | Unicas                               | [#201](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/201)  |
+| [ZH] USA 03 Operation Beehive                              | Mission        | N/A     | Unicas                               | [#200](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/200)  |
+| [ZH] USA 07 Total Justice                                  | Mission        | N/A     | XJoueur50                            | [#218](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/218)  |
+| [ZH] USA ZH 01 Reversed - Cocktail Party Edition           | Mission        | N/A     | Udr                                  | [#254](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/254)  |
+| [ZH] USA 01 - Cocktail Party Edition (Locked)              | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
+| [ZH] USA 01 - Cocktail Party Edition (Unlocked)            | Mission        | N/A     | Udr                                  | [#405](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/405)  |
+| [ZH] General Ironside VS General Juhziz                    | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] General Leang VS General Juhziz                       | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] General Deathstrike VS General Juhziz                 | Challenge      | N/A     | Cresty                               | [#38](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/38)    |
+| [ZH] Operation Conquer The Empire                          | Mission        | N/A     | General Daniel                       | [#41](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/41)    |
+| [ZH] China Air Defense Network                             | Mission        | N/A     | yuris-director                       | [#34](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/34)    |
+| [ZH] General Deathstrike VS General Granger                | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
+| [ZH] General Ironside VS General Granger                   | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
+| [ZH] General Leang VS General Granger                      | Challenge      | N/A     | Cresty                               | [#30](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/30)    |
+| [ZH] General Ironside VS General Leang (Easy)              | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] General Ironside VS General Leang (Hard)              | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] General Ironside VS General Leang (Insane)            | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] General Ironside VS General Leang (Medium)            | Challenge      | N/A     | Cresty                               | [#21](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/21)    |
+| [ZH] Dragon's Journey Intro                                | Mission        | N/A     | VeLoXiuS                             | [#54](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/54)    |
+| [ZH] Dragon's Journey Intro v2                             | Mission        | N/A     | VeLoXiuS                             | [#43](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/43)    |
+| [ZH] Dr Thrax Evil Lab (Director's Cut)                    | Mission        | 006     | WBG-SpeCoV1K, Yug-Server, Rain, Mp3  | [#24](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/24)    |
+| [ZH] Nuclear                                               | Mission        | N/A     | omarG                                | [#59](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/59)    |
+| [ZH] Dragon's Journey 01 Chasing The Dragon's Tail         | Mission        | N/A     | VeLoXiuS                             | [#40](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/40)    |
+| [ZH] Dragon's Journey 00 Battle of The Dragons             | Mission        | N/A     | VeLoXiuS                             | [#53](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/53)    |
+| [ZH] Liberation Day                                        | Mission        | N/A     | El_Chapo                             | [#62](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/62)    |
+| [ZH] Operation Ice Water                                   | Mission        | N/A     | ViTeXFTW                             | [#32](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/32)    |
+| [ZH] General Deathstrike VS General Alexander              | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
+| [ZH] General Ironside VS General Alexander                 | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
+| [ZH] General Leang VS General Alexander                    | Challenge      | N/A     | Cresty                               | [#55](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/55)    |
+| [ZH] Casino Resurrection (2P)                              | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection (3P)                              | Casino         | 7       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection (4P)                              | Casino         | 9       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection (5P)                              | Casino         | 8       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection (6P)                              | Casino         | 14      | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Two (2v2)                         | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Four (2v2)                        | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Five (2v2)                        | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Casino Resurrection Six (2v2)                         | Casino         | 3       | Haubibban, cetx                      | [#90](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/90)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Brutal)          | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Easy)            | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Hard)            | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Dragon's Journey 02 Road of Despair (Medium)          | Mission        | N/A     | VeLoXiuS                             | [#37](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/37)    |
+| [ZH] Desert Gauntlet                                       | Challenge      | 2       | BKR                                  | [#25](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/25)    |
+| [ZH] Rokuro Home                                           | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] TaoVol2 Mission 1 - Ningen Ruins                      | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] TaoVol2 Mission 2 - Tokio Siege                       | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] TaoVol2 Mission 3 - To Save Philippines               | Mission        | N/A     | BagaturKhan, Lima4, VeLoXiuS         | [#426](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/426)  |
+| [ZH] One Way Home - The Beginning                          | Mission        | N/A     | Juhhzizz                             | [#63](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/63)    |
+| [ZH] Death Factory Remastered                              | Mission        | N/A     | Gramantio                            | [#61](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/61)    |
+| [ZH] Alexandres Campaign S1 Resistence                     | Mission        | N/A     | EFEW43252                            | [#66](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/66)    |
+| [ZH] Hilams 2nd Challenge                                  | Challenge      | N/A     | EFEW43252                            | [#29](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/29)    |
+| [ZH] GLA 01 The Outbreak                                   | Mission        | N/A     | Supakrid                             | [#51](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/51)    |
+| [ZH] GLA 02 Al Halabia                                     | Mission        | N/A     | Supakrid                             | [#50](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/50)    |
+| [ZH] GLA 03 Postal Services                                | Mission        | N/A     | Supakrid                             | [#49](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/49)    |
+| [ZH] GLA 04 Loose Ends                                     | Mission        | N/A     | Supakrid                             | [#48](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/48)    |
+| [ZH] GLA 05 Innovation Strategy                            | Mission        | N/A     | Supakrid                             | [#47](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/47)    |
+| [ZH] GLA 06 Zero Hour                                      | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
+| [ZH] GLA 06 Zero Hour (Brutal)                             | Mission        | N/A     | Supakrid                             | [#46](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/46)    |
+| [ZH] GLA 07 Final Destiny                                  | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
+| [ZH] GLA 07 Final Destiny (Easy)                           | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
+| [ZH] GLA 07 Final Destiny (Brutal)                         | Mission        | N/A     | Supakrid                             | [#45](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/45)    |
+| [ZH] HALO Forces vs United Factions USA (Easy)             | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] HALO Forces vs United Factions USA (Normal)           | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] HALO Forces vs United Factions USA (Hard)             | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] United Factions China vs United Factions USA (Easy)   | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] United Factions China vs United Factions USA (Normal) | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] United Factions China vs United Factions USA (Hard)   | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] United Factions GLA vs United Factions USA (Easy)     | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] United Factions GLA vs United Factions USA (Normal)   | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] United Factions GLA vs United Factions USA (Hard)     | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
 
 ## License
 
