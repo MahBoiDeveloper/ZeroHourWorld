@@ -57,6 +57,7 @@
 * [[SUPZH]GLA06 Zero Hour](https://www.cnclabs.com/downloads/details/3094/)
 * [[SUPZH]GLA07 Final Destiny [Pack]](https://www.cnclabs.com/downloads/details/3095/)
 * [United Factions USA Challenge](https://www.cnclabs.com/downloads/details/3136/)
+* [UNITED FACTIONS Mission 7 - Atomic Vigilance](https://www.cnclabs.com/downloads/details/3135/)
 <!-- * []() -->
 
 </details>
@@ -172,6 +173,9 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] United Factions GLA vs United Factions USA (Easy)     | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
 | [ZH] United Factions GLA vs United Factions USA (Normal)   | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
 | [ZH] United Factions GLA vs United Factions USA (Hard)     | Challenge      | N/A     | Gramantio                            | [#26](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/26)    |
+| [ZH] United Factions Mission 7 - Atomic Vigilance (Easy)   | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
+| [ZH] United Factions Mission 7 - Atomic Vigilance (Normal) | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
+| [ZH] United Factions Mission 7 - Atomic Vigilance (Hard)   | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
 
 ## License
 
