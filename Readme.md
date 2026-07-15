@@ -60,6 +60,7 @@
 * [UNITED FACTIONS Mission 7 - Atomic Vigilance](https://www.cnclabs.com/downloads/details/3135/)
 * [Alexandres Campaign S2 Last Hope (Mission 4 and 5)](https://www.cnclabs.com/downloads/details/3116/)
 * [Alexandres Campaign-Restore](https://www.cnclabs.com/downloads/details/3074/)
+* [Alexandres Campaign-Resistence Fixed](https://www.cnclabs.com/downloads/details/3058/)
 <!-- * []() -->
 
 </details>
@@ -187,6 +188,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Alexandres Campaign S2 Mission 5 (Medium)             | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
 | [ZH] Alexandres Campaign S2 Mission 5 (Hard)               | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
 | [ZH] Alexandres Campaign S1 Restore                        | Mission        | N/A     | EFEW43252                            | [#57](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/57)    |
+| [ZH] Alexandres Campaign S1 Resistence                     | Mission        | N/A     | EFEW43252                            | [#64](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/64)    |
 
 </details>
 
