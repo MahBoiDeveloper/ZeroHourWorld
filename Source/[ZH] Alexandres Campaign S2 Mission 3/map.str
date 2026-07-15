@@ -1,0 +1,14 @@
+MSNSTR:EFEW43252:ACS2:M3:INTRO1
+"Alaska 4:56"
+End
+
+SCRIPT:MSNSTR:EFEW43252:ACS2:M3:BRIEFING03
+"General,We have accidently stumbled at Generals Tanso's base in alska..He is general of airforce and Naval superioty..We must destroy everything..Be careful as his forces will use everything against us!
+\nGoodluck General."
+End
+
+MSNSTR:EFEW43252:ACS2:M3:INTRO2
+"General, Tanso has set 4 Particle Cannons
+\n2 in which are up in the mountains. We must immediately destroy them as soon as we can
+\n if we arent quick they can become a problem"
+End
