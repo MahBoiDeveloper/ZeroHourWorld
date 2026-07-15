@@ -65,6 +65,7 @@
 * [Alexandres Campaign S2 Mission 1](https://www.cnclabs.com/downloads/details/3084/)
 * [Alexandres Campaign S2 Mission 2](https://www.cnclabs.com/downloads/details/3098/)
 * [Alexandres Campaign S2 Mission 3](https://www.cnclabs.com/downloads/details/3100/)
+* [Alexandres Campaign-Rush Launch](https://www.cnclabs.com/downloads/details/3051/)
 <!-- * []() -->
 
 </details>
@@ -197,6 +198,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Alexandres Campaign S2 Mission 1                      | Mission        | N/A     | EFEW43252                            | [#52](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/52)    |
 | [ZH] Alexandres Campaign S2 Mission 2                      | Mission        | N/A     | EFEW43252                            | [#44](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/44)    |
 | [ZH] Alexandres Campaign S2 Mission 3                      | Mission        | N/A     | EFEW43252                            | [#265](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/265)  |
+| [ZH] Alexandres Campaign S1 Rush Launch                    | Mission        | N/A     | EFEW43252                            | [#67](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/67)    |
 
 </details>
 
