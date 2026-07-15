@@ -178,6 +178,12 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] United Factions Mission 7 - Atomic Vigilance (Easy)   | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
 | [ZH] United Factions Mission 7 - Atomic Vigilance (Normal) | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
 | [ZH] United Factions Mission 7 - Atomic Vigilance (Hard)   | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
+| [ZH] Alexandres Campaign S2 Mission 4 (Easy)               | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
+| [ZH] Alexandres Campaign S2 Mission 4 (Medium)             | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
+| [ZH] Alexandres Campaign S2 Mission 4 (Hard)               | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
+| [ZH] Alexandres Campaign S2 Mission 5 (Easy)               | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
+| [ZH] Alexandres Campaign S2 Mission 5 (Medium)             | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
+| [ZH] Alexandres Campaign S2 Mission 5 (Hard)               | Mission        | N/A     | EFEW43252                            | [#33](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/33)    |
 
 </details>
 

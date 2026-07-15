@@ -1,0 +1,24 @@
+MSNSTR:EFEW43252:ACS2:M5E:INTRO1
+"Somwehre in Beijing..
+\nGen Leang: Welcome.."
+End
+
+SCRIPT:MSNSTR:EFEW43252:ACS2:M5E:BRIEFING03
+"General,We've lost everything.We now have to work with the GLA freedom fighters against all 4 generals, They will use everything against us from superweapons to mass producing tanks, We have our final particle cannon in asia we are hoping for reinforcement to arrive any time soon though. Destroy Command Centers to stop deployed attacke (EG Carpet bombs) And destroy EVERY superweapon "
+End
+
+MSNSTR:EFEW43252:ACS2:M5E:INTRO2
+"General All 4 Enemy Commanders have came together to stop us and alexandre!"
+End
+
+MSNSTR:EFEW43252:ACS2:M5E:INTRO3
+"Stealth Troops comming ahead!"
+End
+
+MSNSTR:EFEW43252:ACS2:M5E:REINFORCEMENT1
+"Reinforcement has suddenly arrived!"
+End
+
+MSNSTR:EFEW43252:ACS2:M5E:REINFORCEMENT2
+"Reinforcement has suddenly arrived!"
+End
