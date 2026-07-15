@@ -1,21 +1,21 @@
-MSNSTR:EFEW43252:ACS1:RESISTENCE:INTRO1
+MSNSTR:EFEW43252:AC:S1:INTRO1
 "Siberia,12:30"
 End
 
-MSNSTR:EFEW43252:ACS1:RESISTENCE:INTRO2
+MSNSTR:EFEW43252:AC:S1:INTRO2
 "Our Second reinforcement was meant to arrive but was attacked by the chinese"
 End
 
-MSNSTR:EFEW43252:ACS1:RESISTENCE:INTRO3
+MSNSTR:EFEW43252:AC:S1:INTRO3
 "With General Townes The USA'S Top General at our aid this operation may be less difficult"
 End
 
-SCRIPT:MSNSTR:EFEW43252:ACS1:RESISTENCE:BRIEFING03
+SCRIPT:MSNSTR:EFEW43252:AC:S1:BRIEFING03
 "Intel just reported General Leang and Vordox (The general we faced first operation) Has made new weapons, This isnt the 2nd to last mission. They also reported they would threaten to destroy eroupe with their nukes! We must not let this happen..
 \nThe last 2 missions we're having the world is in your hands. I will personally come with you at my aid to support you in this last operation...Commander Alexandre"
 End
 
-MSNSTR:EFEW43252:ACS1:RESISTENCE:OUTRO1
+MSNSTR:EFEW43252:AC:S1:OUTRO1
 "General I may have sent down 4 bombers to your baseee
 \n-General Leang"
 End
