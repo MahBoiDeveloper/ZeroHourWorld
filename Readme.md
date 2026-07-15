@@ -62,6 +62,7 @@
 * [Alexandres Campaign-Restore](https://www.cnclabs.com/downloads/details/3074/)
 * [Alexandres Campaign-Resistence Fixed](https://www.cnclabs.com/downloads/details/3058/)
 * [Alexandres Campaign-Crash Landing Redo](https://www.cnclabs.com/downloads/details/3077/)
+* [Alexandres Campaign S2 Mission 1](https://www.cnclabs.com/downloads/details/3084/)
 <!-- * []() -->
 
 </details>
@@ -191,6 +192,7 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] Alexandres Campaign S1 Restore                        | Mission        | N/A     | EFEW43252                            | [#57](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/57)    |
 | [ZH] Alexandres Campaign S1 Resistence (Fixed)             | Mission        | N/A     | EFEW43252                            | [#64](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/64)    |
 | [ZH] Alexandres Campaign S1 Restore (Fixed)                | Mission        | N/A     | EFEW43252                            | [#56](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/56)    |
+| [ZH] Alexandres Campaign S2 Mission 1                      | Mission        | N/A     | EFEW43252                            | [#52](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/52)    |
 
 </details>
 
