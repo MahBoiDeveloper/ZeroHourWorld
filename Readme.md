@@ -10,7 +10,7 @@
 
 ... is a fan made map package for Command &amp; Conquer: Generals — Zero Hour with singleplayer/cooperative missions, art of defenses, and other PvPvE game modes maps. All maps in the map pack have been edited to be easy to translate and easy to find by name. No balance patches have been integrated into the maps.
 
-<details><summary>List of included maps, campaigns, map packs with edits</summary>
+<details><summary>List of included maps, campaigns, map packs with edits:</summary>
 
 * [USA Co-Op Challenge](https://www.moddb.com/games/cc-generals-zero-hour/addons/gzh-usa-co-op-challenge-rebalanced)
 * [UDR ZERO HOUR VANILLA GLA EXTRAVAGANZA](https://www.moddb.com/games/cc-generals-zero-hour/addons/udr-zero-hour-vanilla-gla-extravaganza)
@@ -83,6 +83,8 @@ Copy maps from `Source\` folder to your local `%USERPROFILE%\Documents\Command a
 ### Map authors
 
 This table contains information about all custom maps, which has been added to the project.
+
+<details><summary>Table of included maps, campaigns, map packs with edits:</summary>
 
 | Map Name                                                   | Game Mode      | Version | Author(s)                            | Related Issue                                                        |
 | ---------------------------------------------------------- | -------------- | ------- | ------------------------------------ | -------------------------------------------------------------------- |
@@ -176,6 +178,8 @@ This table contains information about all custom maps, which has been added to t
 | [ZH] United Factions Mission 7 - Atomic Vigilance (Easy)   | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
 | [ZH] United Factions Mission 7 - Atomic Vigilance (Normal) | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
 | [ZH] United Factions Mission 7 - Atomic Vigilance (Hard)   | Mission        | N/A     | Gramantio                            | [#27](https://github.com/MahBoiDeveloper/ZeroHourWorld/issues/27)    |
+
+</details>
 
 ## License
 
